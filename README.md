@@ -12,5 +12,5 @@
 Growth mindset to me is pushing through the hard times, it's getting up and dusting yourself off after each fall. I can regcognize the many ways that the fixed mindset can sneak back in, even when we have the best intentions to stay the course. So, I wanna fight the negative self-talk by sticking to this guide each time I feel like there is no hope.
 
 
-1. Completely strike the word ***can't*** from my vocabulary. Like this... ``can't``
+1. Completely strike the word ***can't*** from my vocabulary. Like this... ``can't`` 
 
