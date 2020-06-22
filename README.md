@@ -1,5 +1,5 @@
 #  **Growth Mindset**
-## How to Keep Going when the Going Gets Tough
+## How to Keep Going When The Going Gets Tough
 
 >"Recognizing power in another does not diminish your own."  Joss Whedon
 
@@ -25,7 +25,7 @@ Growth mindset to me is pushing through the hard times, it's getting up and dust
 
 
 
-> ##### A GUIDE TO STAY IN THE GROWTH MINDSET
+> ### A GUIDE TO STAY IN THE GROWTH MINDSET
 >
 > - Completely strike the word ***can't*** from my vocabulary. Like this... ~~can't~~ !
 > - Make sure that I have experimented with different resources for answers
