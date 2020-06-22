@@ -11,7 +11,12 @@
 
 
 
-#### Hello, my name is Riva Davidowski, baby coder, a newb to this world of software development. Read below to hear what I have to say about Growth Mindset and how I plan on pushin' through the tough times:
+-------
+
+
+#### Hello, my name is Riva Davidowski, baby coder, a newb to this world of software development. Read below to hear what I have to say about Growth Mindset and how I plan on pushin' through the tough times. 
+My profile is **[here](**[EFF](https://eff.org)**)**
+
 
 ------
 
