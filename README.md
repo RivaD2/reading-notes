@@ -16,8 +16,8 @@ Growth mindset to me is pushing through the hard times, it's getting up and dust
 
 > ##### A GUIDE TO STAY IN THE GROWTH MINDSET
 >
->- Completely strike the word ***can't*** from my vocabulary. Like this... ~~can't~~ !
->- Make sure that I have experimented with different resources for answers
->- Take a break! I will remind myself that sometimes deep breaths and walking away for a bit can refresh the brain
->- Remember that this is a marathon, and not a sprint. I will **LEARN** if I keep **WORKING**
+> - Completely strike the word ***can't*** from my vocabulary. Like this... ~~can't~~ !
+> - Make sure that I have experimented with different resources for answers
+> - Take a break! I will remind myself that sometimes deep breaths and walking away for a bit can refresh the brain
+> - Remember that this is a marathon, and not a sprint. I will **LEARN** if I keep **WORKING**
 
