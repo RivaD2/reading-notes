@@ -1,4 +1,4 @@
-# ``` Growth Mindset
+#  Growth Mindset
 ## How to Keep Going when the Going Gets Tough
 
 >"Recognizing power in another does not diminish your own."  Joss Whedon
