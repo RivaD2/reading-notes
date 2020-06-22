@@ -1,5 +1,5 @@
-# `<p> Growth Mindset
-## How to Keep Going when the Going Gets Tough </p>
+# ```<p> Growth Mindset
+## How to Keep Going when the Going Gets Tough </p>```
 
 >"Recognizing power in another does not diminish your own."  Joss Whedon
 
