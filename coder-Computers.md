@@ -21,7 +21,7 @@ You'll start to see that text editors, understanding files and directories, Term
                     3. It is much, much faster than the GUI (Graphical User Interface- umm, "Finder" on Mac, that's a GUI)
                     4. Opening Terminal is easy and changes depending on which computer you're using
                     5. Each Terminal has it's shell, and the shell can change from user to user.
-                    6. When things start to get hairy, (I know they did for me today!), use  * [Google](https://www.google.com/)
+                    6. When things start to get hairy, (I know they did for me today!), use  * [Google]<https://www.google.com/>
                     
 
 ## **Let's Talk about Basic Navigation | Let's Get Movin'**
