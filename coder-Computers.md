@@ -6,6 +6,7 @@
 
 
 You'll start to see that text editors, understanding files and directories, Terminals (and the shell), and navigation around the system using Terminal is all part of your journey in software development. See the links below to get started:
-                                    * [Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
-                                    * [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
-                                    * [Basic Navigation](https://ryanstutorials.net/linuxtutorial/commandline.php)
+ 
+ * [Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+ * [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
+ * [Basic Navigation](https://ryanstutorials.net/linuxtutorial/commandline.php)
