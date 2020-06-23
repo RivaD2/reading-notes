@@ -18,7 +18,7 @@ You'll start to see that text editors, understanding files and directories, Term
 
 
 ## What is a Text Editor? Do you believe in Magic?
-##### Okay,okay, so it's not quite magic.Text editors will make your life (and coding) easier and here's why:
+##### Okay,okay, so it's not quite magic. Text editors will make your life (and coding) easier and here's why:
 
   1. They include features like code completion, syntax highlighting, and a variety of themes(Monokai High  Contrast anyone?)
   2. They have built in extensions, and trust me, you'll need em'
@@ -33,18 +33,19 @@ You'll start to see that text editors, understanding files and directories, Term
                     3. It is much, much faster than the GUI (Graphical User Interface- umm, "Finder" on Mac, that's a GUI)
                     4. Opening Terminal is easy and changes depending on which computer you're using
                     5. Each Terminal has it's shell, and the shell can change from user to user.
-                    6. When things start to get hairy, (I know they did for me today!), use  https:google.com 
+                    6. When things start to get hairy,(and it's bound to happen), use *[Google](https://www.google.com/)
                     
 
 ## **Let's Talk about Basic Navigation | Let's Get Movin'**
-##### Alright, now that you've identified your shell and opened Terminal, let's get to movin around the system! Play around the commands below:
+##### Alright, now that you've identified your shell and opened Terminal, let's get to movin' around the system! Play around with some of the commands below:
             
  1. When we refer to a file or directory, it is called a Path
  2. There are (2) types of paths: Absolute and Relative
- 3. `pwd` a.k.a. Print Working Directory- Tells you what your working directory is--your current location (Use this often to  know where you are working from
- 4. `ls` a.k.a. List- It will list our location 
+ 3. `pwd` a.k.a. Print Working Directory- Tells you what your working directory is--your current location.
+    (Use this often to  know where you are working from
+ 4. `ls` a.k.a. List- It will list your location 
  5. `cd` a.k.a. Change Directory- Well, this as you can imagine, takes you to another directory
                     
-### A Word of Advice, just remember as move along that  **EVERYTHING IS A FILE, yes EVERYTHING ** :smiley:
+### A Word of Advice, just remember as you move along that  **EVERYTHING IS A FILE, yes EVERYTHING ** :smiley:
 
 
