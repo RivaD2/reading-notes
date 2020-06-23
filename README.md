@@ -5,7 +5,7 @@
 
 >"Sometimes the most adult thing you can do is... ask for help when you need it." 
 <img src="https://www.writeups.org/wp-content/uploads/Giles-Buffy-Vampire-Slayer-Anthony-Head.jpg" alt="Giles" width="400"/>
-Giles- *Buffy the Vampire Slayer*
+Giles- Buffy the Vampire Slayer
 
 
 
@@ -22,8 +22,7 @@ My profile: <https://github.com/RivaD2>
 
 Growth mindset to me is pushing through the hard times, it's getting up and dusting yourself off after each fall. I can recognize the many ways that the fixed mindset can sneak back in, even when we have the best intentions to stay the course. So, I wanna fight the negative self-talk by sticking to this guide each time I feel like there is no hope.
 
- I shall remember the words of Andy from the show Parks and Rec. "I was in the pit, you were in the pit, we all were in the pit." There is always a way out of the pit if we keep trying and putting in the work.
- ![](https://www.youtube.com/watch/vi/NqZMcvd0yjo/0.jpeg)(https://www.youtube.com/watch?v=NqZMcvd0yjo "Andy The Pit")
+
 
 > ### A GUIDE TO STAY IN THE GROWTH MINDSET
 >
@@ -34,4 +33,5 @@ Growth mindset to me is pushing through the hard times, it's getting up and dust
 
 ![There's always a way out of the pit](https://www.eschoolnews.com/files/2018/10/growth-mindset.jpg)
 
-
+In the words of Andy from "Parks and Rec", "I was in the pit, you were in the pit, we all were in the pit"
+[![Andy](https://www.youtube.com/watch?v=NqZMcvd0yjo)
