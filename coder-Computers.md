@@ -2,9 +2,10 @@
 
 # The Coders Computer: A Guide Through Text Editors, Terminal, Command Lines, Basic Navigation and About Files 
 -----------
-###### Those that are new to learning code will find that transforming their computer to a coders computer takes a bit of patience and some help from those that are more experienced. 
+###### Those that are new to learning code will find that transforming their computer to a coders computer takes a bit of patience and some help from those that are more experienced.The terminal alone can make you wanna run for the hills! Don't fret, this guide will help you.
 
 
-
-### The terminal alone can make you wanna run for the hills! Don't fret, this guide will help you. You'll start to see that text editors, understanding files and directories, Terminals (and the shell), and navigation around the system using Terminal is all part of your journey in software development.In fact, you will find it to be 
-<img align="left" width="150" height="150" src="https://media3.giphy.com/media/26DNdV3b6dqn1jzR6/200w.webp?cid=ecf05e47bf4a5575e3b16f836161de54a694128fd9c429ea&rid=200w.webp">
+You'll start to see that text editors, understanding files and directories, Terminals (and the shell), and navigation around the system using Terminal is all part of your journey in software development. See the links below to get started:
+                                    * [Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+                                    * [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
+                                    * [Basic Navigation](https://ryanstutorials.net/linuxtutorial/commandline.php)
