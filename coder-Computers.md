@@ -14,15 +14,24 @@ You'll start to see that text editors, understanding files and directories, Term
 -----------
 
 ## **The Command Line a.k.a. The Terminal | What I've Learned**
-On a basic level, I've learned:
+##### On a basic level, here is some info that should clear things up:
 
-                    1. You type in commands and feedback will be given as text
+                    1. You type in commands to the Terminal and feedback will be given back as text
                     2. The command will present you with a prompt
                     3. It is much, much faster than the GUI (Graphical User Interface- umm, "Finder" on Mac, that's a GUI)
+                    4. Opening Terminal is easy and changes depending on which computer you're using
+                    5. Each Terminal has it's shell, and the shell can change from user to user.
+                    
+
+## **Let's Talk about Basic Navigation | Let's Get Movin'**
+##### Alright, now that you've identified your shell and opened Terminal, let's get to movin around the system! Play around the commands below:
+                    1. When we refer to a file or directory, it is called a **Path**
+                    2. There are (2) types of paths: Absolute and Relative
+                    3. `pwd' a.k.a. Print Working Directory- Tells you what your working directory is--your current location
+                                                             **Use this often to know where you are working from**
+                    4. 'ls' a.k.a. List- It will list our location 
+                    5. 'cd' a.k.a. Change Directory- Well, this as you can imagine, takes you to another directory
                     
 
 
-
-
-## **Let's Talk about Files | Everything is a file**
 ## **Let's Talk about Files | Everything is a file**
