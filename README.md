@@ -6,8 +6,9 @@
 >"Sometimes the most adult thing you can do is... ask for help when you need it." 
 ![Giles is a wise man](https://www.writeups.org/wp-content/uploads/Giles-Buffy-Vampire-Slayer-Anthony-Head.jpg)
 
+>"Sometimes the most adult thing you can do is... ask for help when you need it." 
 ![](path_to_image)
-*Giles (Buffy the Vampire Slayer*
+*Giles (Buffy the Vampire Slayer)(I'll listen to Rupert Giles and ask for help when I need it.)
 
 
 
