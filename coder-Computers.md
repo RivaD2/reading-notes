@@ -7,6 +7,7 @@
 
 You'll start to see that text editors, understanding files and directories, Terminals (and the shell), and navigation around the system using Terminal is all part of your journey in software development. See the links **below** to get started:
  
+ * [Choosing a Text Editor](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
  * [Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
  * [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
  * [Basic Navigation](https://ryanstutorials.net/linuxtutorial/commandline.php)
@@ -34,3 +35,5 @@ You'll start to see that text editors, understanding files and directories, Term
                     5. 'cd' a.k.a. Change Directory- Well, this as you can imagine, takes you to another directory
                     
 ###A Word of Advice, just remember as move along that  **EVERYTHING IS A FILE** :smiley:
+
+##What is a Text Editor?
