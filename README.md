@@ -22,7 +22,7 @@ My profile: <https://github.com/RivaD2>
 
 Growth mindset to me is pushing through the hard times, it's getting up and dusting yourself off after each fall. I can recognize the many ways that the fixed mindset can sneak back in, even when we have the best intentions to stay the course. So, I wanna fight the negative self-talk by sticking to this guide each time I feel like there is no hope.
 
-I shall remember the words of Andy from  the show Parks and Rec when I feel like I can't succeed. "I was in the pit, you were in the pit, we all were in the pit," There is always a way out of the pit.
+I shall remember the words of Andy from  the show Parks and Rec when I feel like I can't succeed. "I was in the pit, you were in the pit, we all were in the pit..." There is always a way out of the pit.
 ![](https://www.youtube.com/watch/vi/NqZMcvd0yjo/0.jpeg)(https://www.youtube.com/watch?v=NqZMcvd0yjo "Andy The Pit")
 
 > ### A GUIDE TO STAY IN THE GROWTH MINDSET
