@@ -31,4 +31,4 @@ Growth mindset to me is pushing through the hard times, it's getting up and dust
 > - Take a break! I will remind myself that sometimes deep breaths and walking away for a bit can refresh the brain
 > - Remember that this is a marathon, and not a sprint. I will **LEARN** if I keep **WORKING**
 
-![Growth Mindset-There's always a way out of the pit](https://www.eschoolnews.com/files/2018/10/growth-mindset.jpg)
+![There's always a way out of the pit](https://www.eschoolnews.com/files/2018/10/growth-mindset.jpg)
