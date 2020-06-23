@@ -32,3 +32,6 @@ Growth mindset to me is pushing through the hard times, it's getting up and dust
 > - Remember that this is a marathon, and not a sprint. I will **LEARN** if I keep **WORKING**
 
 ![There's always a way out of the pit](https://www.eschoolnews.com/files/2018/10/growth-mindset.jpg)
+
+In the words of Andy from "Parks and Rec", "I was in the pit, you were in the pit, we all were in the pit"
+[![](https://www.youtube.com/watch?v=NqZMcvd0yjo)
