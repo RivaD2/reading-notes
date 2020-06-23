@@ -30,7 +30,7 @@ I shall remember the words of Andy from  the show Parks and Rec when I feel like
 
 
 
-> ### **A GUIDE TO STAY IN THE GROWTH MINDSET**
+> ###  **A GUIDE TO STAY IN THE GROWTH MINDSET**
 >
 > - Completely strike the word ***can't*** from my vocabulary. Like this... ~~can't~~ !
 > - Make sure that I have experimented with different resources for answers
