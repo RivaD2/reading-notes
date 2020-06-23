@@ -48,6 +48,6 @@ You'll start to see that text editors, understanding files and directories, Term
                     4. `ls` a.k.a. List- It will list your location 
                     5. `cd` a.k.a. Change Directory- Well, this as you can imagine, takes you to another directory
                     
-### A word of advice, just remember as you move along that  **EVERYTHING IS A FILE, yes EVERYTHING ** :smiley:
+### A word of advice, just remember as you move along that **EVERYTHING IS A FILE, yes EVERYTHING** :smiley:
 
 
