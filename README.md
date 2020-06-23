@@ -3,8 +3,7 @@
 
 >"Recognizing power in another does not diminish your own."  Joss Whedon
 
->"Sometimes the most adult thing you can do is... ask for help when you need it." -Giles (Buffy the Vampire Slayer)
-
+>"Sometimes the most adult thing you can do is... ask for help when you need it." 
 ![Giles is a wise man](https://www.writeups.org/wp-content/uploads/Giles-Buffy-Vampire-Slayer-Anthony-Head.jpg)
 ![](path_to_image)
 *Giles (Buffy the Vampire Slayer*
