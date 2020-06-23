@@ -20,10 +20,11 @@ You'll start to see that text editors, understanding files and directories, Term
 ## What is a Text Editor? Do you believe in Magic?
 ##### Okay,okay, so it's not quite magic. Text editors will make your life (and coding) easier and here's why:
 
-  1. They include features like code completion, syntax highlighting, and a variety of themes(Monokai High  Contrast anyone?)
-  2. They have built in extensions, and trust me, you'll need em'
-  3. They allow you to write code more efficiently and mitigate potential errors
-  4. Choosing one is personal, so go out there and find what gets you excited!
+                    1. They include features like code completion, syntax highlighting, and a variety of themes.
+                (Monokai High  Contrast anyone?)
+                    2. They have built in extensions, and trust me, you'll need em'
+                    3. They allow you to write code more efficiently and mitigate potential errors
+                    4. Choosing one is personal, so go out there and find what gets you excited!
 
 ## **The Command Line a.k.a. The Terminal | What I've Learned**
 ##### On a basic level, here is some info that should clear things up:
@@ -39,12 +40,13 @@ You'll start to see that text editors, understanding files and directories, Term
 ## **Let's Talk about Basic Navigation | Let's Get Movin'**
 ##### Alright, now that you've identified your shell and opened Terminal, let's get to movin' around the system! Play around with some of the commands below:
             
- 1. When we refer to a file or directory, it is called a Path
- 2. There are (2) types of paths: Absolute and Relative
- 3. `pwd` a.k.a. Print Working Directory- Tells you what your working directory is--your current location.
-    (Use this often to  know where you are working from
- 4. `ls` a.k.a. List- It will list your location 
- 5. `cd` a.k.a. Change Directory- Well, this as you can imagine, takes you to another directory
+                    1. When we refer to a file or directory, it is called a Path
+                    2. There are (2) types of paths: Absolute and Relative
+                    3. `pwd` a.k.a. Print Working Directory- Tells you what your working directory is.
+                        It is your current location.
+                       (Use this often to know where you are working from
+                    4. `ls` a.k.a. List- It will list your location 
+                    5. `cd` a.k.a. Change Directory- Well, this as you can imagine, takes you to another directory
                     
 ### A Word of Advice, just remember as you move along that  **EVERYTHING IS A FILE, yes EVERYTHING ** :smiley:
 
