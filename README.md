@@ -5,7 +5,7 @@
 
 >"Sometimes the most adult thing you can do is... ask for help when you need it." 
 <img src="https://www.writeups.org/wp-content/uploads/Giles-Buffy-Vampire-Slayer-Anthony-Head.jpg" alt="Giles" width="400"/>
-Giles - *Buffy the Vampire Slayer*
+Giles- *Buffy the Vampire Slayer*
 
 
 
