@@ -15,6 +15,7 @@ You'll start to see that text editors, understanding files and directories, Term
 
 ## **The Command Line a.k.a. The Terminal | What I've Learned**
 On a basic level, I've learned:
+
                     1. You type in commands and feedback will be given as text
                     1. The command will present you with a prompt
                     1. It is much, much faster than the GUI (Graphical User Interface- umm, "Finder" on Mac, that's a GUI)
