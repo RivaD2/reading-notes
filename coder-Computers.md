@@ -18,7 +18,7 @@ You'll start to see that text editors, understanding files and directories, Term
 
 
 ## What is a Text Editor? Do you believe in Magic?
-### Okay,okay, so it's not quite magic.Text editors will make your life (and coding) easier and here's why:
+##### Okay,okay, so it's not quite magic.Text editors will make your life (and coding) easier and here's why:
 
   1. They include features like code completion, syntax highlighting, and a variety of themes(Monokai High  Contrast anyone?)
   2. They have built in extensions, and trust me, you'll need em'
