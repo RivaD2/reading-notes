@@ -11,6 +11,7 @@
 --------------------------
 
 *  **Git is a version control system (VCS)**
+*  **Version Control is a system that allows you to revisit various versions of a project.
 *  **Git stores data in snapshots**
 *  **Each time updates to a file are made, programmers ask git to "commit"**
       `commit = save` 
