@@ -1,6 +1,7 @@
 # CSS | "Put a Bird On It"
 -----------
-## CSS allows us to style HTML, it brings the structure (*cough HTML) to life by adding color, style and flare. Hell, we can even PUT A BIRD ON IT (by styling an image of course)
+## CSS allows us to style HTML, it brings the structure (*cough HTML) to life by adding color, style and flare. 
+Hell, we can even PUT A BIRD ON IT!
 
 ![Portlandia](https://media.giphy.com/media/26FfaSpycRlTFEkHm/giphy.gif) 
 
