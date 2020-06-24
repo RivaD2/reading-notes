@@ -2,7 +2,7 @@
 ----
 
 
-##### The book *"HTML&CSS/Design and Build Website"* by Jon Duckett is a magical book that will walk you through how to build a site that is engaging. 
+##### The book *"HTML&CSS/Design and Build Websites"* by Jon Duckett is a magical book that will walk you through how to build a site that is engaging. 
 -------
 
 **So you wan't to learn how to program? Now what? You learn your ABC's, which in this case, is HTML or (hypertext markup langage). Let's dive in deeper:**
