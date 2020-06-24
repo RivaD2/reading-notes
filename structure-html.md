@@ -13,7 +13,7 @@
 A.K.A. *markup*
 1. HTML elements include ttiles, headers, paragraphs, links and SO MUCH MORE. 
 
-##### I know, I know, you're feelin' woozy already huh? Hang in there with me! 
+### I know, I know, you're feelin' woozy already huh? Hang in there with me! 
 ![Confused](https://media.giphy.com/media/Qw4X3FmMTbUAgDfsbf2/giphy.gif)
 
 
