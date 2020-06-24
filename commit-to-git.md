@@ -28,7 +28,7 @@
 * **Staged: Once an update is made, Git flags the files updated version to be committed**
 * **Committed: Once a file is committed, it is stored in local history***
 
-### Is that for Git? Not Even Close'
+### Is that for Git? Not Even Close!
 ------------------------
 > Look, there's a lot to know here. I haven't even covered how Git works under the hood or how to use Terminal. WE'LL GET THERE...we have not yet reached Jedi status.
 
