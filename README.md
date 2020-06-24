@@ -12,11 +12,11 @@
 
 * [Growth Mindset](growthmindset.md)
 * [Read 2: The Coders Computer](coder-computers.md)
-* [Read 3: Revisions of the Cloud](revisions.md)
-* [Read 4: Structure Web pages HTML](html.md)
-* [Read 5: Design Web Pages with CSS](css.md)
-* [Read 6a: Dynamic Web Pages with javaScript](javaScript.md)
-* [Read 6b: Computer Architecture and Logic](architectureAndLogic.md)
+* [Read 3: Revisions of the Cloud](commit-to-git.md)
+* [Read 4: Structure Web pages HTML](structure-html.md)
+* [Read 5: Design Web Pages with CSS](structure-css.md)
+* [Read 6a: Dynamic Web Pages with javaScript](javascript.md)
+* [Read 6b: Computer Architecture and Logic](architectureandLogic.md)
 * [Read 7: Programming with javaScript](programmingjs.md)
 * [Read 8: Operators & Loops](opsandloops.md)
 
