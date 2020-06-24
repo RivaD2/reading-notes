@@ -26,4 +26,4 @@
 * It decides when a program is run
 * The OS is quickly switching between programs,allowing us to search the web, message, and work on projects all at once. 
 
-####REMEMBER THIS! The only thing that makes a computer useful is the programmer! It takes people like you and me, to write those programs.
+#### REMEMBER THIS! The only thing that makes a computer useful is the programmer! It takes people like you and me, to write those programs.
