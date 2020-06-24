@@ -1,8 +1,8 @@
-###  `<p> THe ABC's of Building Websites and why Design matters </p>`  
+#  `<p> THe ABC's of Building Websites and why Design matters </p>`  
 ----
 
 
-###### The book *"HTML&CSS/Design and Build Website"* by Jon Duckett is a magical book that will walk you through how to build a site that is engaging. 
+##### The book *"HTML&CSS/Design and Build Website"* by Jon Duckett is a magical book that will walk you through how to build a site that is engaging. 
 -------
 
 **So you wan't to learn how to program? Now what? You learn your ABC's, which in this case, is HTML or (hypertext markup langage). Let's dive in deeper:**
@@ -13,7 +13,7 @@
 A.K.A. *markup*
 1. HTML elements include ttiles, headers, paragraphs, links and SO MUCH MORE. 
 
-#####I know, I know, you're feelin' woozy already huh? Hang in there with me! 
+##### I know, I know, you're feelin' woozy already huh? Hang in there with me! 
 ![Confused](https://media.giphy.com/media/Qw4X3FmMTbUAgDfsbf2/giphy.gif)
 
 
@@ -28,7 +28,7 @@ A.K.A. *markup*
 1. By making certain elements distinct and using visual heirarchy, we can accomplish wonderful things)
 1. There is so much more to learn as far as extra markup goes... iframe tags, meta tags and id and class attributes are just the beginning.
 
-#####Are you still there? Do you want to learn more about HTML? Check out this site:
+##### Are you still there? Do you want to learn more about HTML? Check out this site:
 
  https://www.codecademy.com/learn/learn-html
 
