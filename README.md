@@ -1,12 +1,14 @@
-![Let the Coding Begin](https://freesvg.org/img/1575943091CodingCard.png)
+![Let the Coding Begin](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)
 
 ------------------------
-### Hello, my name is Riva Davidowski and I'm excited to start on the long journey ahead. Yes, I am a baby coder, a newb to this world of software development. I will fail, I will learn, and by god, I shall succeed! Read below to hear what I have to say about growth mindset and how I plan on pushin' through the tough times. 
+#####Hello, my name is Riva Davidowski and I'm excited to start on the long journey ahead. Yes, I am a baby coder, a newb to this world of software development. 
+#####I will fail, I will learn, and by god, I shall succeed! Read below to hear what I have to say about growth mindset and how I plan on pushin' through the tough times. 
 
-My profile: <https://github.com/RivaD2>
+**My profile:** <https://github.com/RivaD2>
 
+-----------------
 
-## Table of Contents for Code 102
+##  Table of Contents for Code 102 
 
 * [Growth Mindset](growthmindset.md)
 * [Read 2: The Coders Computer](coder-computers.md)
@@ -17,3 +19,18 @@ My profile: <https://github.com/RivaD2>
 * [Read 6b: Computer Architecture and Logic](architectureAndLogic.md)
 * [Read 7: Programming with javaScript](programmingjs.md)
 * [Read 8: Operators & Loops](opsandloops.md)
+
+
+----------------------------
+
+## Table of Contents for Code 201
+
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
