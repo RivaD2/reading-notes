@@ -1,7 +1,7 @@
 # COMMIT TO GIT #
 **We tell Git to commit,  but really, we gotta commit to learning Git**
 
-![Our Friend Git](https://i.redd.it/erdjqzlmlv111.png)
+<img src="https://i.redd.it/erdjqzlmlv111.png" width="200" alt="octocat">
 
 > I imagine that Git is a little furry friend, there to tell me what path I'm on. 
 
