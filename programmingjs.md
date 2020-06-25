@@ -38,4 +38,4 @@
 
 ![Growth](https://media.giphy.com/media/24FVIYV226vScTh3Sn/giphy.gif)
 
-### Let's move on to learn more. Click here to read more about expressions, functions and loops.
+### Let's move on to learn more. Check out ![operators](https://rivad2.github.io/reading-notes/opsandloops.html) to read more about expressions, functions and loops.
