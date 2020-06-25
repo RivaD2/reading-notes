@@ -1,7 +1,7 @@
 # DEMYSTIFYING THE COMPUTER | HOW THEY WORK
 ![Homer](https://media.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif)
 
-###Computers can be intimidating right? I learned the acronym "**I** **S** **P** **O**"
+### Computers can be intimidating right? I learned the acronym "**I** **S** **P** **O**"
 
 #### Now I see that really, they aren't so scary. There's much to learn but under the hood, 4 basic operations are happening:
 -----------
