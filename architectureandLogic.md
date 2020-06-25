@@ -22,7 +22,7 @@
 
 ### OPERATING SYSTEMS | THE MASTER PROGRAMS
 --------------------
-* It is super **special**- It controlls the software on your computer
+* It is super **special**- It controls the software on your computer
 * It decides when a program is run
 * The OS is quickly switching between programs,  allowing us to search the web, message, and work on projects all at once. 
 
