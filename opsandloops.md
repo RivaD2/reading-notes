@@ -9,7 +9,7 @@
 > - An array is another type of variable, it just can hold more than one value 
 > - A string stores a series of characters like this `"John Doe"`
 > - Mixing a string and a number = a string
-> - Using an arithmetic operator on a string is NO BUENO and will result in NaN (not a number)
+> - Using an arithmetic operator on a string is **NO BUENO** and will result in **NaN** (not a number)
 
 ## LET'S GET LOOPY |FUNCTIONS, METHOD AND LOOPS
 
