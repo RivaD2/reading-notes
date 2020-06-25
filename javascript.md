@@ -18,7 +18,7 @@
 #### *Some other things to consider here:*
 * It is super important to write comments in your JS code. 
 * Why? So you and others will know what your code is doing and what your intentions were when writing a specific piece of code.
-* It is best to keep your JavaScript code in it's own little file with a .js extension.
+* It is best to keep your JavaScript code in its own little file with a .js extension.
 
 -----------------------
 ## Remember, all websites are made up of 3 elements: 
