@@ -31,8 +31,8 @@
 
 ### Ok Let's break this down a bit:
 ------------------------
-> Programmers write scripts that computers run to perform a series of tasks
-> JavaScript relies on expressions, statements, functions, and methods to tell the script what to do
+> Programmers write scripts that computers run to perform a series of tasks.
+> JavaScript relies on expressions, statements, functions, and methods to tell the script what to do.
 
 ### Feeling overwhelmed my friend? Me too, but we're in this together
 
