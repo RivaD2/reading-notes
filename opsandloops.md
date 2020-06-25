@@ -18,10 +18,10 @@
 
 --------------------------
 
-> - Functions are a series of statements grouped otgether to perform a certain task and can be reused to repeat that said task
+> - Functions are a series of statements grouped together to perform a certain task and can be reused to repeat that said task
    * Very important to note that when you ask a function to perform a task, it is known as **CALLING THE FUNCTION**
 > - Objects are made up of property and methods and we will learn over time that EVERYTHING is an object
-> - Methods are the same as a function except they are created INSIDE an dobject
+> - Methods are the same as a function except they are created INSIDE an object
 > -Programming languages rely on name value pairs
 
 ## LOOPS - What do they do?: 
