@@ -15,9 +15,9 @@ Hell, we can even PUT A BIRD ON IT!
 
 ### WHY COLOR MATTERS| CSS & COLOR 
 
-<img src="https://cdn.collider.com/wp-content/uploads/2018/10/pleasantville-slice-600x200.jpg" width="300"/>
-#### Color matters because it brings your HTML to LIFE!!
-#### Hello, remember the movie Pleasantville? What is a world without color?
+<img src="https://cdn.collider.com/wp-content/uploads/2018/10/pleasantville-slice-600x200.jpg" height="200" width="300"/>
+### Color matters because it brings your HTML to LIFE!!
+### Hello, remember the movie Pleasantville? What is a world without color?
 --------------------------
 > 
 
