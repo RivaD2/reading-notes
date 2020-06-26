@@ -2,7 +2,7 @@
 ----
 
 
-##### The book *"HTML&CSS/Design and Build Websites"* by Jon Duckett is a magical book that will walk you through how to build a site that is engaging. 
+### The book *"HTML&CSS/Design and Build Websites"* by Jon Duckett is a magical book that will walk you through how to build a site that is engaging. 
 -------
 
 **So you wan't to learn how to program? Now what? You learn your ABC's, which in this case, is HTML or (hypertext markup langage). Let's dive in deeper:**
@@ -23,13 +23,13 @@ A.K.A. *markup*
 1. We need to ask ourselves how to organize our information and ideas first, *before* we even build a site (This is called Wireframing)
 1. We need to think about whether the site is static and dynamic--I mean, how often is the content changing?
 
-**Perhaps the most important thing to remember, is that THROUGH DESIGN we are COMMUNICATING**
+## Perhaps on of the most important thing to remember, is that THROUGH DESIGN we are COMMUNICATING
 
-1. By making certain elements distinct and using visual hierarchy, we can accomplish wonderful things)
+1. By making certain elements distinct and using visual hierarchy, we can accomplish wonderful things
 1. There is so much more to learn as far as extra markup goes... iframe tags, meta tags and id and class attributes are just the beginning.
 
-##### Are you still there? Do you want to learn more about HTML? Check out this site:
+## Are you still there? Do you want to learn more about HTML? Check out this site:
 
- https://www.codecademy.com/learn/learn-html
+ [link to html!](https://www.codecademy.com/learn/learn-html)
 
 
