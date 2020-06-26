@@ -30,6 +30,6 @@ A.K.A. *markup*
 
 ## Are you still there? Do you want to learn more? Check out my page about CSS!
 
- [CSS | "Put A Bird On It"](https://rivad2.github.io/reading-notes/structure-css.html)
+ [CSS|"Put A Bird On It"!](https://rivad2.github.io/reading-notes/structure-css.html)
 
 
