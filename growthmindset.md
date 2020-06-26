@@ -35,8 +35,8 @@ Feel free of course to check out my profile: <https://github.com/RivaD2>
 
 
 
-** I shall remember the words of Andy from  the show Parks and Rec when I feel like I can't succeed. "I was in the pit, you were in the pit, we all were in the pit..." There is always a way out of the pit, but we may have to crawl out slowly before we reach the top **
-[The Pit Song from by Andy Dwyer !](https://www.youtube.com/watch/vi/NqZMcvd0yjo/0.jpeg)(https://www.youtube.com/watch?v=NqZMcvd0yjo)
+**I shall remember the words of Andy from  the show Parks and Rec when I feel like I can't succeed. "I was in the pit, you were in the pit, we all were in the pit..." There is always a way out of the pit, but we may have to crawl out slowly before we reach the top**
+![The Pit Song from by Andy Dwyer](https://www.youtube.com/watch?v=NqZMcvd0yjo)
 
 
 ------------
