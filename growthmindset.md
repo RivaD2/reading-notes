@@ -19,6 +19,8 @@ Giles- Buffy the Vampire Slayer
 #### Read below to hear what I have to say about growth mindset and how I plan on pushin' through the tough times. 
 Feel free of course to check out my profile: <https://github.com/RivaD2>
 
+-----------------------------------
+
 ### Growth mindset to me is pushing through the hard times, it's getting up and dusting yourself off after each fall. I can recognize the many ways that the fixed mindset can sneak back in, even when we have the best intentions to stay the course. So, I wanna fight the negative self-talk by sticking to this guide each time I feel like there is no hope. 
 
 ![Buffy](https://media.giphy.com/media/YVKbaGdoU7zJ6/giphy.gif)
