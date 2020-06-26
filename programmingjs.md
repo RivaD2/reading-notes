@@ -11,7 +11,7 @@
 --------------------------
 
 *  **A script is a series of instructions that a computer follows and is written by programmers**
-*  **A script can be simple, or quite complicated (e.g. a recipe is fairly simple, but a script for a pinball machine is quite complicated**
+*  **A script can be simple, or quite complicated (e.g. a recipe is fairly simple, but a script for a pinball machine is quite complicated)
 *  **A browser may use all of or only parts of a script (it doesn't have to run all code written)**
 
 
@@ -21,8 +21,12 @@
      * Expressions that assign value to a variable
      * Expressions that use two or more values to *return* a single value
      * Keep in mind a variable is undefined until you assign a value to it
+
+
 * **Expressions use Operators**
-    * Keep in mind that operators allow programmers to create a **Single** value from **one or more values**
+    * Keep in mind that operators allow programmers to create a single value from one or more values
+
+
 * **Here are some examples:**
     * Comparison Operators ``` 3 > 5; ```
     * Strict Equality Operator ``` 3 === 5```
@@ -38,4 +42,6 @@
 
 ![Growth](https://media.giphy.com/media/24FVIYV226vScTh3Sn/giphy.gif)
 
-### Let's move on to learn more. Check out https://rivad2.github.io/reading-notes/opsandloops.html to read more about expressions, functions and loops.
+### Let's move on to learn more. Read about Operations & Loops here
+
+[Operations and Loops](https://rivad2.github.io/reading-notes/opsandloops.html)
