@@ -22,7 +22,7 @@
 
 ### Git's State of Mind: The three states of Git
 ----------------------------
-##### Files In Git Reside in 3 main states:
+#### Files In Git Reside in 3 main states:
 * **Modified: File has changed but has not been 
               committed**
 * **Staged: Once an update is made, Git flags the files updated version to be committed**
@@ -34,5 +34,5 @@
 
 ![Obi Wan](https://media.giphy.com/media/26DN48mfu3uWJ3J7y/giphy.gif)
 
-##### To learn more about Git in depth, click here:
-https://blog.udemy.com/git-tutorial-a-comprehensive-guide/
+#### To learn more about Git in depth, click here:
+[Learn more about Git!](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
