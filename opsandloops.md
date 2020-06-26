@@ -25,7 +25,7 @@
 > - Methods are the same as a function except they are created INSIDE an object
 > -Programming languages rely on name value pairs
 
-## LOOPS - What do they do? (Besides make you feel loopy): 
+## LOOPS - What do they do? (Besides make you feel loopy?): 
 ## Well, they check a condition
 ## IF the condition is true, a code block is run
 ### There are 3 TYPES:
