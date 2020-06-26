@@ -28,8 +28,8 @@ A.K.A. *markup*
 1. By making certain elements distinct and using visual hierarchy, we can accomplish wonderful things
 1. There is so much more to learn as far as extra markup goes... iframe tags, meta tags and id and class attributes are just the beginning.
 
-## Are you still there? Do you want to learn more about HTML? Check out this site:
+## Are you still there? Do you want to learn more? Check out my page about CSS!
 
- [link to html!](https://www.codecademy.com/learn/learn-html)
+ [CSS | "Put A Bird On It"](https://rivad2.github.io/reading-notes/structure-css.html)
 
 
