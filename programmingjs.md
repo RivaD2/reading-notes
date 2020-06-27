@@ -37,6 +37,8 @@ Here are some examples:
 * The strict equality operator will compares equality and type of two values
 * Equality Operator ``` 3 == 5; ```
 * The equality operator will compare two values to see if they are the same, but not the TYPE
+
+
 ------------------------------
 To learn more about comparison operators click [Here!](https://www.w3schools.com/js/js_comparisons.asp)
 
