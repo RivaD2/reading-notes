@@ -11,7 +11,7 @@
 --------------------------
 
 *  **A script is a series of instructions that a computer follows and is written by programmers**
-*  **A script can be simple, or quite complicated (e.g. a recipe is fairly simple, but a script for a pinball machine is quite complicated)
+*  **A script can be simple, or quite complicated (e.g. a recipe is fairly simple, but a script for a pinball machine is quite complicated)**
 *  **A browser may use all of or only parts of a script (it doesn't have to run all code written)**
 
 
