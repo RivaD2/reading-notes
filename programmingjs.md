@@ -48,7 +48,7 @@ To learn more about comparison operators click [Here!](https://www.w3schools.com
 ### Ok Let's break this down a bit:
 ------------------------
 > Programmers write scripts that computers run to perform a series of tasks.
-> JavaScript relies on expressions, statements, functions, and methods to tell the script what to do.
+> JavaScript relies on expressions, statements, functions, and Objects to tell the script what to do.
 
 ### Feeling overwhelmed my friend? Me too, but we're in this together
 
