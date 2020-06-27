@@ -2,7 +2,8 @@
 
 ------------------------
 ### Hello, my name is Riva Davidowski and I'm excited to start on the long journey ahead. Yes, I am a baby coder, a newb to this world of software development. 
-### I will fail, I will learn, and by god, I shall succeed! Read below to hear what I have to say about growth mindset and how I plan on pushin' through the tough times. 
+### I will fail, I will learn, and by god, I shall succeed! 
+See what I've learned along this journey below and please check out my take on growth mindset.
 
 **My profile:** <https://github.com/RivaD2>
 
@@ -17,7 +18,7 @@
 * [Read 5: Design Web Pages with CSS](structure-css.md)
 * [Read 6a: Dynamic Web Pages with javaScript](javascript.md)
 * [Read 6b: Computer Architecture and Logic](architectureandLogic.md)
-* [Read 7: Programming with javaScript](programmingjs.md)
+* [Read 7: Programming with JavaScript](programmingjs.md)
 * [Read 8: Operators & Loops](opsandloops.md)
 
 
