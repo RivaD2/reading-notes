@@ -31,7 +31,7 @@ Keep in mind that operators allow programmers to create a single value from one 
 Here are some examples:
 * Comparison Operators ``` 3 > 5; ```   ``` 3 >= 3; ```
 **Comparison operators COMPARE two value or expressions**
-**Comparison operators will return a BOOLEAN value (true or false)
+**Comparison operators will return a BOOLEAN value (true or false)**
 * Strict Equality Operator ``` 3 === 5```
 ** The strict equality operator will compares equality and type of two values
 * Equality Operator ``` 3 == 5; ```
