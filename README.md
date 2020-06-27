@@ -16,7 +16,7 @@ See what I've learned along this journey below and please check out my take on g
 * [Read 3: Revisions of the Cloud](commit-to-git.md)
 * [Read 4: Structure Web pages HTML](structure-html.md)
 * [Read 5: Design Web Pages with CSS](structure-css.md)
-* [Read 6a: Dynamic Web Pages with javaScript](javascript.md)
+* [Read 6a: Dynamic Web Pages with JavaScript](javascript.md)
 * [Read 6b: Computer Architecture and Logic](architectureandLogic.md)
 * [Read 7: Programming with JavaScript](programmingjs.md)
 * [Read 8: Operators & Loops](opsandloops.md)
