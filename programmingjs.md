@@ -19,19 +19,20 @@
 ----------------------------
 ##### It is important to note that expressions result into a single value. 
 There are two types:
+
      * Expressions that assign value to a variable
-     * Expressions that use two or more values to *return* a single value
-     * Keep in mind a variable is undefined until you assign a value to it
+     * Expressions that use two or more values to **return** a single value
+Keep in mind a variable is undefined until you assign a value to it
 
 
 Expressions use Operators:
-    * Keep in mind that operators allow programmers to create a single value from one or more values
+Keep in mind that operators allow programmers to create a single value from one or more values
 
 Here are some examples:
-    * Comparison Operators ``` 3 > 5; ```
-    * Strict Equality Operator ``` 3 === 5```
-    * Equality Operator ``` 3 == 5; ```
-    * Greater than or equal to operator ``` 3 >= 3; ```
+* Comparison Operators ``` 3 > 5; ```
+* Strict Equality Operator ``` 3 === 5```
+* Equality Operator ``` 3 == 5; ```
+* Greater than or equal to operator ``` 3 >= 3; ```
 
 ### Ok Let's break this down a bit:
 ------------------------
