@@ -13,10 +13,11 @@
 A.K.A. *markup*
 1. HTML elements include titles, headers, paragraphs, links and SO MUCH MORE. 
 
-### I know, I know, you're feelin' woozy already huh? (Like our friend Richard below) 
+### I know, I know, you're feelin' woozy already huh? 
+
 ![Confused](https://media.giphy.com/media/Qw4X3FmMTbUAgDfsbf2/giphy.gif)
 
-Hang in with me just a bit longer! 
+### Hang in with me just a bit longer! 
 
 **SO, now you may be asking many questions, ones like, ok SO who is my site for?**
 
