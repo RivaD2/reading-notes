@@ -21,7 +21,20 @@ Feel free of course to check out my profile: <https://github.com/RivaD2>
 
 -----------------------------------
 
-### Growth mindset to me is pushing through the hard times, it's getting up and dusting yourself off after each fall. I can recognize the many ways that the fixed mindset can sneak back in, even when we have the best intentions to stay the course. So, I wanna fight the negative self-talk by sticking to this guide each time I feel like there is no hope. 
+### Growth mindset to me is pushing through the hard times, it's getting up and dusting yourself off after each fall. I can recognize the many ways that the fixed mindset can sneak back in, even when we have the best intentions to stay the course. So, I'm gonna fight the negative self-talk and use this guide to pull me back to the right mindset:
+
+
+
+## MY GUIDE TO STAY IN THE GROWTH MINDSET
+>
+> - Completely strike the word ***can't*** from my vocabulary. Like this... **~~can't~~** !
+> - Make sure that I have experimented with different resources for answers
+> - Remind myself that learning can be uncomfortable and that I know more than I think I do
+> - Take a break! I will remind myself that sometimes deep breaths and walking away for a bit can refresh the brain
+> - Remember that this is a marathon, and not a sprint. I will **LEARN** if I keep **WORKING**
+
+
+
 
 ![Buffy](https://media.giphy.com/media/YVKbaGdoU7zJ6/giphy.gif)
 > As you can see, I am a Buffy fan and so I feel it necesary to say that we can take a page outta' her book. Look, the going gets tough, sometimes I don't believe in myself. But deep down I know that if I hang in there and keep pushing myself, I'll make it through.
@@ -37,15 +50,6 @@ Feel free of course to check out my profile: <https://github.com/RivaD2>
 
 
 ------------
-
-
-## MY GUIDE TO STAY IN THE GROWTH MINDSET
->
-> - Completely strike the word ***can't*** from my vocabulary. Like this... **~~can't~~** !
-> - Make sure that I have experimented with different resources for answers
-> - Remind myself that learning can be uncomfortable and that I know more than I think I do
-> - Take a break! I will remind myself that sometimes deep breaths and walking away for a bit can refresh the brain
-> - Remember that this is a marathon, and not a sprint. I will **LEARN** if I keep **WORKING**
 
 
 
