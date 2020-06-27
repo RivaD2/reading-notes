@@ -22,7 +22,7 @@ Hell, we can even PUT A BIRD ON IT!
 > 
 
 > - There are foreground colors and background colors we can create using CSS
-> - We can specify colors using HEX CODE (wowza!), RGB, and color names. Click here to learn more about color: https://negliadesign.com/ask-a-designer/whats-the-difference-between-pms-cmyk-rgb-and-hex/
+> - We can specify colors using HEX CODE (wowza!), RGB, and color names. Click here to learn more about [color!](https://negliadesign.com/ask-a-designer/whats-the-difference-between-pms-cmyk-rgb-and-hex/)
 
 #### Remember, all websites are made up of 3 elements: 
 > - HTML (the structure)
