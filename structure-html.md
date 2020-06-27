@@ -1,4 +1,4 @@
-#  `<p> THe ABC's of Building Websites and why Design matters </p>`  
+#  `<p> THe ABC's Of Building Websites And Why Design matters </p>`  
 ----
 
 
@@ -7,15 +7,16 @@
 
 **So you wan't to learn how to program? Now what? You learn your ABC's, which in this case, is HTML or (hypertext markup langage). Let's dive in deeper:**
 
-1. There are 3 components that comprise every website and those are: HTML, CSS, and javaScript. 
+1. There are 3 components that comprise every website and those are: HTML, CSS, and JavaScript. 
 1. HTML is like the structure, or the bones of the website. 
 1. It consists of what are called *"tags"*
 A.K.A. *markup*
 1. HTML elements include titles, headers, paragraphs, links and SO MUCH MORE. 
 
-### I know, I know, you're feelin' woozy already huh? Hang in there with me! 
+### I know, I know, you're feelin' woozy already huh? (Like our friend Richard below) 
 ![Confused](https://media.giphy.com/media/Qw4X3FmMTbUAgDfsbf2/giphy.gif)
 
+Hang in with me just a bit longer! 
 
 **SO, now you may be asking many questions, ones like, ok SO who is my site for?**
 
