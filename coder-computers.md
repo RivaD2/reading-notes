@@ -18,7 +18,7 @@ You'll start to see that text editors, understanding files and directories, Term
 
 
 ## What is a Text Editor? Do you believe in Magic?
-##### Okay,okay, so it's not quite magic. Text editors will make your life (and coding) easier and here's why:
+#### Okay,okay, so it's not quite magic. Text editors will make your life (and coding) easier and here's why:
 
                     1. They include features like code completion, syntax highlighting, and a variety of themes.
                        (Monokai High Contrast anyone?)
@@ -27,7 +27,7 @@ You'll start to see that text editors, understanding files and directories, Term
                     4. Choosing one is personal, so go out there and find what gets you excited!
 
 ## **The Command Line a.k.a. The Terminal | What I've Learned**
-##### On a basic level, here is some info that should clear things up:
+#### On a basic level, here is some info that should clear things up:
 
                     1. You type in commands to the Terminal and feedback will be given back as text
                     2. The command will present you with a prompt
@@ -38,7 +38,7 @@ You'll start to see that text editors, understanding files and directories, Term
                     
 
 ## **Let's Talk about Basic Navigation | Let's Get Movin'**
-##### Alright, now that you've identified your shell and opened Terminal, let's get to movin' around the system! Play around with some of the commands below:
+#### Alright, now that you've identified your shell and opened Terminal, let's get to movin' around the system! Play around with some of the commands below:
             
                     1. When we refer to a file or directory, it is called a Path
                     2. There are (2) types of paths: Absolute and Relative
