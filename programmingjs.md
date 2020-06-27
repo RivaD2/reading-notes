@@ -17,7 +17,7 @@
 
 ### JavaScript & Expressions
 ----------------------------
-##### It is important to note that expressions result into a single value. 
+###It is important to note that expressions result into a single value. 
 There are two types:
 
 * Expressions that assign value to a variable
