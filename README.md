@@ -5,7 +5,7 @@
 ### I will fail, I will learn, and by god, I shall succeed! 
 See what I've learned along this journey below and please check out my take on growth mindset.
 
-**My profile:** <https://github.com/RivaD2>
+[My profile!](https://rivad2.github.io/reading-notes/)
 
 -----------------
 
