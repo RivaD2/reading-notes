@@ -34,5 +34,5 @@
 
 ![Obi Wan](https://media.giphy.com/media/26DN48mfu3uWJ3J7y/giphy.gif)
 
-#### To learn more about Git in depth, click here:
+## To learn more about Git in depth, click here:
 [Learn more about Git!](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
