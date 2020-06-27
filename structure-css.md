@@ -27,4 +27,4 @@ Hell, we can even PUT A BIRD ON IT!
 #### Remember, all websites are made up of 3 elements: 
 > - HTML (the structure)
 > - CSS   (the style)
-> - javaScript (brings functionality and dynamic elements into play)
+> - JavaScript (brings functionality and dynamic elements into play)
