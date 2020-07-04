@@ -9,6 +9,7 @@ See what I've learned along this journey below and please check out my take on g
 
 -----------------
 ## TABLE OF CONTENTS
+
 ## Code Fellows 102 Reading Notes
 
 * [Growth Mindset](growthmindset.md)
@@ -26,7 +27,7 @@ See what I've learned along this journey below and please check out my take on g
 
 ## Code Fellows 201 Reading Notes
 ------------------------------
-* []()
+* [Read 01: More on HTML and Intro To JavaScript](read-01.md)
 * []()
 * []()
 * []()
