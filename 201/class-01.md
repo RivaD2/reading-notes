@@ -56,7 +56,8 @@ You start by asking yourself these questions:
 #### Have you heard of WireFraming? It is a simple sketch of vital information that needs to be added to each page of a site. Read about them [here](https://www.figma.com/blog/how-to-wireframe/).
 
 -----------------
-## Introduction to JavaScript: A, B & C ![intro](https://media.giphy.com/media/yUTmg5PbrRLXi/giphy.gif)
+## Introduction to JavaScript: A, B & C 
+![intro](https://media.giphy.com/media/yUTmg5PbrRLXi/giphy.gif)
 
 
 ### A: What is a script
