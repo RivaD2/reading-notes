@@ -3,7 +3,7 @@
 
 ## Structure: Why it Matters
 -----------
-#### Think about every article, every blog, every site or book you've ever read...You probably noticed something. Yeah, you got it! There is a structure to the pages, and a noticeable hierarchy of information
+#### Think about every article, every blog, every site or book you've ever read...You probably noticed something. Yeah, you got it! There is a structure to the pages, and a noticeable hierarchy of information. Let's talk about HTML:
 - HTML pages are text documents
 - The structure of pages helps readers to understand information
 - HTML (Hypertext Markup language) describes the structure of pages and an HTML document starts with the document declaration: ```<!DOCTYPE.HTML>```
@@ -26,22 +26,21 @@ The above example shows you that tags come in pairs, and that there are opening 
 
 Opening tags carry **Attributes**--These provide additional information and consist of a **name** and a **value** 
 ```<p lang="en-us"> This will be a paragraph in English</p>```
+1. Every HTML doc carries an **ID ATTRIBUTE** which identifies each element from other elements on the page. 
+1.Think of ID attributes (A.K.A. GLOBAL ATTRIBUTES) AS THE SOCIAL SECURITY NUMBERS OF ELEMENTS -each one is unique and be used on any element
 
 The attribute  in the above example is "lang" and the value is inside of the tags
 
 ## Extra Markup: The Evolution of HTML
 --------
 #### Like all things, HTML has evolved and there are several versions out there
-- Like the iPhone, each new version of HTML was designed to better than the last
+* Like the iPhone, each new version of HTML was designed to better than the last
 * Evolution of HTML into different types requires that each webpage begin with the DOCTYPE declaration (which I covered above)
 * This declaration tells the browser which version is being used
 * It should be mentioned that commenting out your code as you work is helpful to you but ALSO EVERYONE ELSE
-It is not visible to the browser and it looks like this:
+* Comments are not visible to the browser and they look like this:
 ```<!-- I am writing a comment -->```
 
-* Every HTML doc carries an **ID ATTRIBUTE** which identifies each element from other elements on the page. 
-
-#### THINK OF ID ATTRIBUTES (A.K.A. GLOBAL ATTRIBUTES) AS THE SOCIAL SECURITY NUMBERS OF ELEMENTS -each one is unique and be used on **ANY** element
 
 ## Process & Design: Where do we even start when we want to build a site?
 --------
