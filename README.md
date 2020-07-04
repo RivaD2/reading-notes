@@ -27,10 +27,10 @@ See what I've learned along this journey below and please check out my take on g
 
 ## Code Fellows 201 Reading Notes
 ------------------------------
-* [Read 01: Introductory HTML & JavaScript](class-01.md)
-* [Read 02: HTML text, CSS introudction and Basic JavaScript](class-02.md)
-* [Read 03: HTML Lists, CSS Boxes and JavaScript Control Glow](class-03.md)
-* [Read 04: HTML Links, CSS Layout and JavaScript Functions](class-04.md)
+* [Read 01: Introductory HTML & JavaScript](201/class-01.md)
+* [Read 02: HTML text, CSS introudction and Basic JavaScript](201/class-02.md)
+* [Read 03: HTML Lists, CSS Boxes and JavaScript Control Glow](201/class-03.md)
+* [Read 04: HTML Links, CSS Layout and JavaScript Functions](201/class-04.md)
 * []()
 * []()
 * []()
