@@ -1,15 +1,9 @@
  ![Beginning](https://media.giphy.com/media/3P0oEX5oTmrkY/giphy.gif) Introduction to HTML & JavaScript
 ----------------------------
-** Those who want to code start with the basics. I'll give you a look into the following:
-* Structure (Why it Matters)
-* Extra Markup (Going Beyond Basic Tags)
-* HTML 5 Layout (Out with the old HTML and into the New)
-* Processes For Building A Site (Where to Start)
-* The ABC's of Programming (A look into JavaScript)
 
 ## Structure: Why it Matters
 -----------
-####Think about every article, every blog, every site or book you've ever read...You probably noticed something. Yeah, you got it! There is a structure to the pages, and a noticeable hierarchy of information
+#### Think about every article, every blog, every site or book you've ever read...You probably noticed something. Yeah, you got it! There is a structure to the pages, and a noticeable hierarchy of information
 - HTML pages are text documents
 - The structure of pages helps readers to understand information
 - HTML (Hypertext Markup language) describes the structure of pages and an HTML document starts with the document declaration: ```<!DOCTYPE.HTML>```
@@ -44,13 +38,15 @@ The attribute  in the above example is "lang" and the value is inside of the tag
 * It should be mentioned that commenting out your code as you work is helpful to you but ALSO EVERYONE ELSE
 It is not visible to the browser and it looks like this:
 ```<!-- I am writing a comment -->```
-* Every HTML doc carries an ** ID ATTRIBUTE** which identifies each element from other elements on the page. 
+
+* Every HTML doc carries an **ID ATTRIBUTE** which identifies each element from other elements on the page. 
 
 #### THINK OF ID ATTRIBUTES (A.K.A. GLOBAL ATTRIBUTES) AS THE SOCIAL SECURITY NUMBERS OF ELEMENTS -each one is unique and be used on **ANY** element
 
 ## Process & Design: Where do we even start when we want to build a site?
 --------
 You start by asking yourself these questions:
+
 * Who is the site for? (the target audience)
 * Why people visit your site (Why are they coming?)
 * What are their motivations? (Tasks and motivations?)
@@ -60,8 +56,8 @@ You start by asking yourself these questions:
 #### Have you heard of WireFraming? It is a simple sketch of vital information that needs to be added to each page of a site. Read about them [here](https://www.figma.com/blog/how-to-wireframe/).
 
 -----------------
-##The A B & C of learning JavaScript
-![ABC's](https://media.giphy.com/media/l0DEJZEOzorQJpJgA/giphy.gif)
+## Introduction to JavaScript: A, B & C ![intro](https://media.giphy.com/media/yUTmg5PbrRLXi/giphy.gif)
+
 
 ### A: What is a script
 1. A script is a series of instructions that a computer uses to accomplish a goal
@@ -72,9 +68,8 @@ You start by asking yourself these questions:
 1. Look, a computer sees the world in terms of data-programmers then make models using data
 1. In computer world, each physical thing is an **OBJECT** and each object has **PROPERTIES**
 1. Each property is a name/value pair--these PAIRS tell us about the object
-1. EVENTS- They are behavior that occurs as a result of input being received. 
+1. **EVENTS** - They are behavior that occurs as a result of input being received. 
 ### C: How do I even write a script? 
 1. Writing a script requires HTML, CSS, and JavaScript working together 
 1. Each language is a layer and each has it's own purpose
-1. Each language should have its own file
 1. Read more about JavaScript from my other page [Scripts & JavaScript Instructions](https://rivad2.github.io/reading-notes/programmingjs.html)
