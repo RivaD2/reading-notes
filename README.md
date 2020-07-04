@@ -8,8 +8,8 @@ See what I've learned along this journey below and please check out my take on g
 [My profile!](https://rivad2.github.io/reading-notes/)
 
 -----------------
-
-##  Table of Contents for Code 102 
+## TABLE OF CONTENTS
+## Code Fellows 102 Reading Notes
 
 * [Growth Mindset](growthmindset.md)
 * [Read 2: The Coders Computer](coder-computers.md)
@@ -24,8 +24,14 @@ See what I've learned along this journey below and please check out my take on g
 
 ----------------------------
 
-## Table of Contents for Code 201
-
+## Code Fellows 201 Reading Notes
+------------------------------
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 * []()
 * []()
 * []()
