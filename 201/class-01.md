@@ -25,7 +25,10 @@
 The above example shows you that tags come in pairs, and that there are opening and closing tags.
 
 Opening tags carry **Attributes**--These provide additional information and consist of a **name** and a **value** 
-```<p lang="en-us"> This will be a paragraph in English</p>```
+```
+<p lang="en-us"> This will be a paragraph in English</p>
+```
+
 1. Every HTML doc carries an **ID ATTRIBUTE** which identifies each element from other elements on the page. 
 1.Think of ID attributes (A.K.A. GLOBAL ATTRIBUTES) AS THE SOCIAL SECURITY NUMBERS OF ELEMENTS -each one is unique and be used on any element
 
