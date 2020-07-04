@@ -9,7 +9,7 @@
 - HTML (Hypertext Markup language) describes the structure of pages and an HTML document starts with the document declaration: ```<!DOCTYPE.HTML>```
 - HTML uses **Elements** to describe the structure and each element has an opening and closing tag: 
 * ```<html></html>```   (Tags act like containers)
-* ```<body></body>``` (Tags tell us something about the info inside of them)
+* ```<body></body>``` (Tags tell us something about the info inside of them and they come in pairs)
 
 #### Look at each element below, and you'll start to understand how you can begin to build a page:
 ``` 
@@ -21,8 +21,6 @@
     </body>
 </html>
 ```
-
-The above example shows you that tags come in pairs, and that there are opening and closing tags.
 
 Opening tags carry **Attributes**--These provide additional information and consist of a **name** and a **value** 
 ```
