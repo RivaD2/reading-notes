@@ -45,7 +45,7 @@ The attribute  in the above example is "lang" and the value is inside of the tag
 
 ## Process & Design: Where do we even start when we want to build a site?
 --------
-You start by asking yourself these questions:
+#### You start by asking yourself these questions:
 
 * Who is the site for? (the target audience)
 * Why people visit your site (Why are they coming?)
@@ -63,7 +63,7 @@ You start by asking yourself these questions:
 ### A: What is a script
 1. A script is a series of instructions that a computer uses to accomplish a goal
 1. Scripts are precise, step-by-step instructions and scripts run code or sections of code in response to input 
-1. Set the goal for your script and break down each task into steps. This is a computer accomplishes a task--very different than how we humans do it 
+1. Set the goal for your script and break down each task into steps. This is how a computer accomplishes a task--very different than how we humans do it 
 
 ### B: How do computers fit in with the world
 1. Look, a computer sees the world in terms of data-programmers then make models using data
