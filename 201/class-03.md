@@ -21,7 +21,7 @@ These lists are started with the <dl> tag and nested inside are <dt> tags which 
 
 ------------------------------------
 
-### CSS BOXES | BOXES INSIDE BOXES INSIDE BOXES
+## CSS BOXES | BOXES INSIDE BOXES INSIDE BOXES
 #### Using different style elements we can control dimensions, create borders, set margins and contain space around boxes changing padding, and hide boxes
 Let's take a look:
 * Box default sizes are big enough to hold content
@@ -34,9 +34,9 @@ Let's take a look:
 3. PADDING: Padding is just like it sounds, it's the space between the border and content inside it
 #### There are so many ways to style borders and boxes so click [here](https://www.w3schools.com/cssref/css3_pr_box-sizing.asp) to take a deeper look!
 --------------------
-### YOU GOT THIS! 
+## YOU GOT THIS! 
 ![Dean](https://media.giphy.com/media/9U8vFgk0fD1OE/giphy.gif)
-### LET'S SWITCH IT UP | SWITCH STATEMENTS IN JavaScript
+## LET'S SWITCH IT UP | SWITCH STATEMENTS IN JavaScript
 
 ### Earlier I touched on if else statements and how they check conditions, ya know, if "A" is true then do "B"...you remember right?
 
