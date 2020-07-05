@@ -37,7 +37,7 @@ there are two types of markup within HTML? I didn't think so. Read on to find ou
 1. A Selector: The selector indicates which element the style rule applies to
 1. A Declaration: Declarations indicated how the selectors should be styled.
 
-##### See my other page on [CSS](https://rivad2.github.io/reading-notes/structure-css.html) and check out this [link](https://www.codecademy.com/learn/learn-css) to learn more
+### See my other page on [CSS](https://rivad2.github.io/reading-notes/structure-css.html) and check out this [link](https://www.codecademy.com/learn/learn-css) to learn more
 ----------------------------------
 
 ### It's time to talk JavaScript
@@ -68,7 +68,7 @@ Sometimes, they make ya feel like you're drowning in a sea of Cheerios
 * Often, you will want to perform the same task repeatedly, this is where **loops** come into play
 
 ### What about LOOPS and COMPARISON OPERATORS?
-##### First, read my page on comparison operators and loops [here](https://rivad2.github.io/reading-notes/opsandloops.html), then read below:
+### First, read my page on comparison operators and loops [here](https://rivad2.github.io/reading-notes/opsandloops.html), then read below:
 
 ### IF ELSE STATEMENTS
 
