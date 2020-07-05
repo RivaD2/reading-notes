@@ -9,7 +9,7 @@
 ```
 Ordered lists start with the tag <ol> and have list items nested inside that start with a <li> tag
 ```
-1. **Unordered Lists**- They are unordered, and do not use numbers
+2. **Unordered Lists**- They are unordered, and do not use numbers
 * These begin like so, without a number but instead begin with a bullet point
 ```
 Unordered lists start with a <ul> tag and have list items nested inside that start with a <li> tag as well
