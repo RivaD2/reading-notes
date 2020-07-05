@@ -56,6 +56,7 @@ Click [here](https://javascript.info/switch) to see examples of Switch Statement
 ```
 'hello' === 'hello' - will return true
 '1' !== 1 - will return true
+```
 
 ###  Checking two values this way will help us to avoid errors in our code since JS type coercion can lead to unexpected values
 
