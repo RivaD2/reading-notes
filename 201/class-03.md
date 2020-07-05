@@ -25,7 +25,7 @@ These lists are started with the <dl> tag and nested inside are <dt> tags which 
 #### Using different style elements we can control dimensions, create borders, set margins and contain space around boxes changing padding, and hide boxes
 Let's take a look:
 * Box default sizes are big enough to hold content
-* To change sizing of a box, we use pixes (px), percentages (%) or ems.
+* To change sizing of a box, we use pixels (px), percentages (%) or ems.
 * To set different dimensions for boxes, we will change **height** and **width** properties
 
 #### EVERY box has 3 available properties that when adjusted, will control it's appearance:
