@@ -38,11 +38,14 @@ Let's take a look:
 ![Dean](https://media.giphy.com/media/9U8vFgk0fD1OE/giphy.gif)
 ### LET'S SWITCH IT UP | SWITCH STATEMENTS IN JavaScript
 
-#### Earlier I touched on if else statements and how they check conditions, ya know, if "A" is true then do "B"...you remember right?
-#### Well, switch statements work better with fixed data values and they start with the **switch value**
+### Earlier I touched on if else statements and how they check conditions, ya know, if "A" is true then do "B"...you remember right?
+
+### Well, switch statements work better with fixed data values and they start with the **switch value**
 * Each switch statement includes cases, each one indicating a possible value for the variable and code that should run if the variable matches that value
-### Confused?
-#### Look, switch statements still test multiple conditions and CAN be more efficient than a bunch of if else statements. They compare a value against possible outcomes (and provide a default option if none match)
+
+ Confused?
+
+### Look, switch statements still test multiple conditions and CAN be more efficient than a bunch of if else statements. They compare a value against possible outcomes (and provide a default option if none match)
 Click [here](https://javascript.info/switch) to see examples of Switch Statements
 
 ### Let's talk about Type Coercion
@@ -54,6 +57,6 @@ Click [here](https://javascript.info/switch) to see examples of Switch Statement
 'hello' === 'hello' - will return true
 '1' !== 1 - will return true
 
-####  Checking two values this way will help us to avoid errors in our code since JS type coercion can lead to unexpected values
+###  Checking two values this way will help us to avoid errors in our code since JS type coercion can lead to unexpected values
 
 
