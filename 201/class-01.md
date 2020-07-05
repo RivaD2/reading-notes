@@ -1,17 +1,20 @@
  ![Beginning](https://media.giphy.com/media/3P0oEX5oTmrkY/giphy.gif) Introduction to HTML & JavaScript
 ----------------------------
 
-## Structure: Why it Matters
+## Structure of a Page: Why it Matters
 -----------
 #### Think about every article, every blog, every site or book you've ever read...You probably noticed something. Yeah, you got it! There is a structure to the pages, and a noticeable hierarchy of information. Let's talk about HTML:
-- HTML pages are text documents
-- The structure of pages helps readers to understand information
-- HTML (Hypertext Markup language) describes the structure of pages and an HTML document starts with the document declaration: ```<!DOCTYPE.HTML>```
-- HTML uses **Elements** to describe the structure and each element has an opening and closing tag: 
+
+* HTML pages are text documents
+* The structure of pages helps readers to understand information
+* HTML (Hypertext Markup language) describes the structure of pages and an HTML document starts with the document declaration: ```<!DOCTYPE.HTML>```
+*  HTML uses **Elements** to describe the structure and each element has an opening and closing tag: 
+
 * ```<html></html>```   (Tags act like containers)
 * ```<body></body>``` (Tags tell us something about the info inside of them and they come in pairs)
 
 #### Look at each element below, and you'll start to understand how you can begin to build a page:
+
 ``` 
 <!DOCTYPE.html>
 <html>
@@ -22,15 +25,16 @@
 </html>
 ```
 
-Opening tags carry **Attributes**--These provide additional information and consist of a **name** and a **value** 
+#### Opening tags carry **Attributes**--These provide additional information and consist of a **name** and a **value** 
 ```
 <p lang="en-us"> This will be a paragraph in English</p>
 ```
 
-1. Every HTML doc carries an **ID ATTRIBUTE** which identifies each element from other elements on the page. 
-1.Think of ID attributes (A.K.A. GLOBAL ATTRIBUTES) AS THE SOCIAL SECURITY NUMBERS OF ELEMENTS -each one is unique and be used on any element
+#### The attribute in the above example is "lang" and the value is inside of the tags
 
-The attribute  in the above example is "lang" and the value is inside of the tags
+* Every HTML doc carries an **ID ATTRIBUTE** which identifies each element from other elements on the page. 
+* Think of ID attributes (A.K.A. GLOBAL ATTRIBUTES) AS THE SOCIAL SECURITY NUMBERS OF ELEMENTS (each one is unique and be used on any element)
+
 
 ## Extra Markup: The Evolution of HTML
 --------
@@ -39,7 +43,7 @@ The attribute  in the above example is "lang" and the value is inside of the tag
 * Evolution of HTML into different types requires that each webpage begin with the DOCTYPE declaration (which I covered above)
 * This declaration tells the browser which version is being used
 * It should be mentioned that commenting out your code as you work is helpful to you but ALSO EVERYONE ELSE
-* Comments are not visible to the browser and they look like this:
+#### Comments are not visible to the browser and they look like this:
 ```<!-- I am writing a comment -->```
 
 
@@ -70,6 +74,7 @@ The attribute  in the above example is "lang" and the value is inside of the tag
 1. In computer world, each physical thing is an **OBJECT** and each object has **PROPERTIES**
 1. Each property is a name/value pair--these PAIRS tell us about the object
 1. **EVENTS** - They are behavior that occurs as a result of input being received. 
+
 ### C: How do I even write a script? 
 1. Writing a script requires HTML, CSS, and JavaScript working together 
 1. Each language is a layer and each has it's own purpose
