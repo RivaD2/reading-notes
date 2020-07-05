@@ -18,7 +18,7 @@ Unordered lists start with a <ul> tag and have list items nested inside that sta
 ```
 These lists are started with the <dl> tag and nested inside are <dt> tags which set the term being defined, and then <dd> tags provide the definitions
 ```
-**Lists can be nested inside one another as well, so go out there and get organized**
+**Lists can be nested inside one another as well, so go out there and get organized!**
 ------------------------------------
 
 ### CSS BOXES | BOXES INSIDE BOXES INSIDE BOXES
