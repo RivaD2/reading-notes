@@ -2,19 +2,19 @@
 # LET'S GET ORGANIZED| HTML LISTS & CSS BOXES 
 ### Oh! And Let's take our JS skills further with SWITCH STATEMENTS
 --------------
-### We make lists in our day-to-day lives so there are times that we will want  to organize information in an HTML file using **lists*
+### We make lists in our day-to-day lives so there are times that we will want  to organize information in an HTML file using lists
 
 #### There are 3 different types:
-1. Ordered Lists- each item is numbered (just like the current lists you are reading NOW), and steps are identified using numbers
+1. **Ordered Lists**- each item is numbered (just like the current lists you are reading NOW), and steps are identified using numbers
 ```
 Ordered lists start with the tag <ol> and have list items nested inside that start with a <li> tag
 ```
-1. Unordered Lists-
+1. **Unordered Lists**- They are unordered, and do not use numbers
 * These begin like so, without a number but instead begin with a bullet point
 ```
 Unordered lists start with a <ul> tag and have list items nested inside that start with a <li> tag as well
 ```
-3. Definition Lists- These are made with set terms and provide definitions (Hello, read a dictionary much?)
+3. **Definition Lists**- These are made with set terms and provide definitions (Hello, read a dictionary much?)
 ```
 These lists are started with the <dl> tag and nested inside are <dt> tags which set the term being defined, and then <dd> tags provide the definitions
 ```
