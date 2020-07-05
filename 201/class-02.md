@@ -60,8 +60,8 @@ var today = "Sunday";
 
 ### DECISIONS AND LOOPS
 ![Loop](https://media.giphy.com/media/3h4EggeNZr5WUaPvtO/giphy.gif)
-##### 
-Sometimes, they make ya feel like you're drowning in a sea of Cheerios 
+
+##### Sometimes, they make ya feel like you're drowning in a sea of Cheerios 
 
 * With code, you will **analyze** values to see if they match expected results
 * Using results of your evaluations, you can **decide** which way the script should go
