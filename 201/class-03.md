@@ -43,9 +43,9 @@ Let's take a look:
 ### Well, switch statements work better with fixed data values and they start with the **switch value**
 * Each switch statement includes cases, each one indicating a possible value for the variable and code that should run if the variable matches that value
 
- Confused?
+ **CONFUSED**?
 
-### Look, switch statements still test multiple conditions and CAN be more efficient than a bunch of if else statements. They compare a value against possible outcomes (and provide a default option if none match)
+### Don't be. Look, switch statements still test multiple conditions and CAN be more efficient than a bunch of if else statements. They compare a value against possible outcomes (and provide a default option if none match)
 Click [here](https://javascript.info/switch) to see examples of Switch Statements
 
 ### Let's talk about Type Coercion
