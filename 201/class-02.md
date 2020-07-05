@@ -1,6 +1,6 @@
 # Let's talk more about HTML text,
-## adding style and bit of pizazz with CSS,
-### and finally, basic JavaScript Instructions
+## Adding style and pizazz with CSS,
+### And finally, basic JavaScript Instructions
 ![Let's Go](https://media.giphy.com/media/h86Krb9r57FGfgRULu/giphy.gif)
 ------------
 ### More on HTML TEXT
@@ -23,7 +23,8 @@ there are two types of markup within HTML? I didn't think so. Read on to find ou
 <em> This changes the meaning of a sentence and is shown in italic
 <blockquote> This is used for longer quotes that take up a paragraph
 ```
-### Let's Add Some Style: CSS ![CSS](https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif)
+### Let's Add Some Style: CSS
+ ![CSS](https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif)
 
 #### CSS is fun, exciting and pretty darn cool! However, sometimes, you change one style rule only to find out that things are now a bit more complicated. Let's put on our best attire and learn about CSS:
 
@@ -58,11 +59,17 @@ var today = "Sunday";
 
 ### DECISIONS AND LOOPS
 ![Loop](https://media.giphy.com/media/3h4EggeNZr5WUaPvtO/giphy.gif)
-#####Sometimes, they make ya feel like you're drowning in a sea of Cheerios 
+##### 
+Sometimes, they make ya feel like you're drowning in a sea of Cheerios 
+
 * With code, you will **analyze** values to see if they match expected results
 * Using results of your evaluations, you can **decide** which way the script should go
 * Often, you will want to perform the same task repeatedly, this is where **loops** come into play
-##### Read my page on comparison operators and loops [here](https://rivad2.github.io/reading-notes/opsandloops.html) to learn about loops
+
+### What about LOOPS and COMPARISON OPERATORS?
+##### First, read my page on comparison operators and loops [here](https://rivad2.github.io/reading-notes/opsandloops.html), then read below:
+
+### IF ELSE STATEMENTS
 
 * If else statements are used VERY OFTEN in JS and they allow us to run one set of code if a condition is true, and if another is FALSe
 * If else statements rely on conditionals, basically saying, if "A" is true, then do "B":
@@ -73,3 +80,5 @@ if (name = "Riva) {
     return "hello stranger!"
 }
 ```
+### HAD ENOUGH? I didn't think so.
+Next I'll cover html lists, boxes, and JS Control Flow!
