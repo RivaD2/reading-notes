@@ -1,6 +1,6 @@
 # HTML's Two L's | Links and Layout
 ![Link](https://media.giphy.com/media/26BRuuMVNwGyT0KiY/giphy.gif) 
-### Ok, ok, so so I'm not talking about *that* link, but rather links in html that take us to far off distant lands (other pages) and allow us to surf our way through our own pages or the web
+### Ok, ok, so so I'm not talking about *the* Link, but rather links in html that take us to far off distant lands (other pages) and allow us to surf our way through our own pages or the web
 
 #### Think about how you surf from site to site on the web...you use links. There are:
 * links that take us from one site to the next
