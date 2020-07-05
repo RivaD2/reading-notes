@@ -9,8 +9,7 @@
 ```
 Ordered lists start with the tag <ol> and have list items nested inside that start with a <li> tag
 ```
-2. **Unordered Lists**- They are unordered, and do not use numbers
-* These begin like so, without a number but instead begin with a bullet point
+2. **Unordered Lists**- They are unordered, and do not use numbers. These begin like so, without a number but instead begin with a bullet point
 ```
 Unordered lists start with a <ul> tag and have list items nested inside that start with a <li> tag as well
 ```
@@ -19,6 +18,7 @@ Unordered lists start with a <ul> tag and have list items nested inside that sta
 These lists are started with the <dl> tag and nested inside are <dt> tags which set the term being defined, and then <dd> tags provide the definitions
 ```
 **Lists can be nested inside one another as well, so go out there and get organized!**
+
 ------------------------------------
 
 ### CSS BOXES | BOXES INSIDE BOXES INSIDE BOXES
