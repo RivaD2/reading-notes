@@ -28,11 +28,17 @@ We use these when we link to other pages within the same site and a domain name 
 **Some key takeaways:**
 * Remember that each HTML element is in its own box
 * Each box will be block level or inline
+
 * Block level elements start on a new line and include the tags:
-``` <h1> <p> <ul> <li>```
+``` 
+<h1> <p> <ul> <li>
+```
 
 * Inline elements flow in between the text around them and include the tags:
-```<img> <b> <i>```
+```
+<img> <b> <i>
+
+```
 * It is common to group a number of elements inside a ```<div>``` element which is also a block-level element but also a **CONTAINING ELEMENT**
 * Pages can be **fixed** or **liquid** 
 * Fixed layouts will stay the same size width no matter the size of the browser window and liquid uses percentages to specify size so that it can change depending on the size of the screen
