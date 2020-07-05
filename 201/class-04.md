@@ -2,7 +2,7 @@
 ![Link](https://media.giphy.com/media/26BRuuMVNwGyT0KiY/giphy.gif) 
 ### Ok, ok, so so I'm not talking about *the* Link, but rather links in html that take us to far off distant lands (other pages) and allow us to surf our way through our own pages or the web
 
-#### Think about how you surf from site to site on the web...you use links. There are:
+### Think about how you surf from site to site on the web...you use links. There are:
 * links that take us from one site to the next
 * links from one page to the next on the same site
 * links from one part on a page to a different part of a page
@@ -11,7 +11,7 @@
 * Links are created using the ```<a>``` element and users can click on anything in between the opening and closing a tags
 * The *href* attribute (as you will see in the link I provided) specifes which page will be linked
 
-#### There are 2 types of LINKS:
+### There are 2 types of LINKS:
 > **Absolute Links or URL's**: 
 Every page has one and it starts with the domain name
 
@@ -23,7 +23,7 @@ We use these when we link to other pages within the same site and a domain name 
 
 #### Layout in HTML involves controlling where elements sit on a page and how to make a page more appealing
 
-#### Let's face it, different devices and screens (and we've got plenty of them around) impact the design process as sizes and resolution vary
+### Let's face it, different devices and screens (and we've got plenty of them around) impact the design process as sizes and resolution vary
 
 **Some key takeaways:**
 * Remember that each HTML element is in its own box
@@ -37,7 +37,7 @@ We use these when we link to other pages within the same site and a domain name 
 * Pages can be **fixed** or **liquid** 
 * Fixed layouts will stay the same size width no matter the size of the browser window and liquid uses percentages to specify size so that it can change depending on the size of the screen
 
-#### Controlling the layout of a page involves controlling the position of elements. HTML has the following position schemes:
+### Controlling the layout of a page involves controlling the position of elements. HTML has the following position schemes:
 
 * Normal Flow
 * Relative Positioning
@@ -74,7 +74,7 @@ myName(); //This is calling the function
 * Functions take **parameters** or specific pieces of information that sit inside the parenthesis. These act like variables within in the function
 * Functions will also have **arguments** and these are specified values given at the time the function is called
 
-#### OBJECTS
+### OBJECTS
 In JS, Objects group together a set of variables and functions to create a model of something in the real world
 * In objects, variables become **properties** and functions become **methods**
 * Properties tell us about the object, as the name, its size, etc.
