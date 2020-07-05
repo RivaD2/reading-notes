@@ -2,7 +2,8 @@
 ## Adding style and pizazz with CSS,
 ### And finally, basic JavaScript Instructions
 ![Let's Go](https://media.giphy.com/media/h86Krb9r57FGfgRULu/giphy.gif)
-------------
+
+---------------
 ### More on HTML TEXT
 #### We've talked about how HTML add structure to a page and why it matters. But did you know that 
 there are two types of markup within HTML? I didn't think so. Read on to find out more:
