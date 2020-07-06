@@ -40,9 +40,9 @@ We can use the following to specify colors:
 * However, there are other ways to get fonts and you can find those ways [here](https://www.w3schools.com/css/css3_fonts.asp)
 * Here are some examples of how we can get specific with text in CSS:
 
-```
-<!-- It is best practice to use a back up font after your chosen font, and you separate them with a comma-->
+Use a back up font after your chosen font, and separate them with a comma
 
+```
 font-family: Georgia, Times;
 font-size: 12px;
 ```
