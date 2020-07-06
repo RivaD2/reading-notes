@@ -22,11 +22,12 @@
 ## CSS COLOR  
 ![Color](https://media.giphy.com/media/z0zTHzcwM4VYQ/giphy.gif)
 #### Color adds life to our pages and using CSS, there are many ways to alter color in both the foreground and background of our page. Let's get to it:
+
 * Computer monitors are made up of tiny squares called pixels
 * The color of every pixel is expressed in terms of RGB (red, green, and blue)
 We can use the following to specify colors:
 1. **RGB Values**: expressed in numbers 0-255
-2. **Hex Codes**: Represent values for red, green and blue using hexcodes (read about [HEXCODES](https://htmlcolorcodes.com/))
+2. **Hex Codes**: Represent values for red, green and blue using hexdecimal codes (read about [HEXCODES](https://htmlcolorcodes.com/))
 3. **Color Names**:Colors are represented through names (red, green, blue etc.) but BEWARE, your choices are limited if you choose this route
 4. **HSL Colors**:CSS3 uses hue, saturation and lightness to determine a color
 
