@@ -39,7 +39,7 @@
 ## Extra Markup: The Evolution of HTML
 --------
 #### Like all things, HTML has evolved and there are several versions out there
-* Like the iPhone, each new version of HTML was designed to better than the last
+* Similar to the iPhone, each new version of HTML was designed to better than the last
 * Evolution of HTML into different types requires that each webpage begin with the DOCTYPE declaration (which I covered above)
 * This declaration tells the browser which version is being used
 * It should be mentioned that commenting out your code as you work is helpful to you but ALSO EVERYONE ELSE
@@ -52,10 +52,10 @@
 #### You start by asking yourself these questions:
 
 * Who is the site for? (the target audience)
-* Why people visit your site (Why are they coming?)
-* What are their motivations? (Tasks and motivations?)
+* Why are people visiting? (Why are they coming to *your* site?)
+* What are their motivations? (What do they need to accomplish or learn?)
 * What info do they need? (What info is most important?)
-* How often people will visit site (Updating much?)
+* How often will people visit site (Will it need to be updated frequently?)
 
 #### Have you heard of WireFraming? It is a simple sketch of vital information that needs to be added to each page of a site. Read about them [here](https://www.figma.com/blog/how-to-wireframe/).
 
