@@ -10,8 +10,8 @@
 * To add an image to an HTML page, do this:
 
 ```
-// Use the img tag + src + alt + self closing tag
-// You can also add in a <title> tag
+<!--Use the img tag + src + alt + self closing tag-->
+<!--You can also add in a <title> tag -->
 <img src="source lives here and is usually a URL" alt="description of image" />
 ```
 * It is important to know that **WHERE** you place your images in your code will **AFFECT** how it is displayed (Read more [here](https://www.w3schools.com/html/html_images.asp) about image placement)
@@ -37,7 +37,7 @@ In CSS, there are properties that determine your choice of font, size, style,  a
 * However, there are other ways to get fonts and you can find those ways [here](https://www.w3schools.com/css/css3_fonts.asp)
 * Here are some examples of how we can get specific with text in CSS:
 ```
-<-- It is best practice to use a back up font after your chosen font, and you separate them with a comma-->
+<!-- It is best practice to use a back up font after your chosen font, and you separate them with a comma-->
 
 font-family: Georgia, Times;
 font-size: 12px;
