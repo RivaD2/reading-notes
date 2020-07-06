@@ -53,7 +53,7 @@ font-size: 12px;
 2. : active (This is applied when an element is **ACTIVATED** by a user...pressing a button or clicking)
 3. : focus (This is applied to an element with focus, elements with focus include any that you can interact with)
 
-### To read a tid bit more about CSS, visit my other page on [CSS](https://rivad2.github.io/reading-notes/structure-css.html)
+### To read a tidbit more about CSS, visit my other page on [CSS](https://rivad2.github.io/reading-notes/structure-css.html)
 
 
 
