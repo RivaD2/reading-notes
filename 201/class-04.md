@@ -30,16 +30,19 @@ We use these when we link to other pages within the same site and a domain name 
 * Each box will be block level or inline
 
 * Block level elements start on a new line and include the tags:
+
 ``` 
 <h1> <p> <ul> <li>
 ```
 
 * Inline elements flow in between the text around them and include the tags:
+
 ```
 <img> <b> <i>
 
 ```
-* It is common to group a number of elements inside a ```<div>``` element which is also a block-level element but also a **CONTAINING ELEMENT**
+
+* It is common to group a number of elements inside a `<div>` element which is also a block-level element but also a **CONTAINING ELEMENT**
 * Pages can be **fixed** or **liquid** 
 * Fixed layouts will stay the same size width no matter the size of the browser window and liquid uses percentages to specify size so that it can change depending on the size of the screen
 
@@ -65,18 +68,23 @@ We use these when we link to other pages within the same site and a domain name 
 
 1. **Function Declaration**: You must declare the function using the *function* keyword
 * You then give your function a name followed by parenthesis like so:
+
 ```
 function myName
 ```
+
 * The statements that perform each task sit in curly braces
 
 2. **Calling the Function**: This is the second step, you can execute the statements in the curly braces by calling the function like so:
+
 ```
 function myName() {
     document.write("Riva");
 }
-myName(); //This is calling the function
+//This is calling the function
+myName(); 
 ```
+
 * Functions take **parameters** or specific pieces of information that sit inside the parenthesis. These act like variables within in the function
 * Functions will also have **arguments** and these are specified values given at the time the function is called
 
@@ -87,12 +95,15 @@ In JS, Objects group together a set of variables and functions to create a model
 * Methods represent tasks that are associated with the object
 
 There are 2 ways to create an Object:
+
 * [Object Literal Notation](http://www.standardista.com/javascript/javascript-object-literals-simplified/#:~:text=The%20Object%20literal%20notation%20is,Simple%20values%20are%20properties.)- It is the easiest and most popular way to create an object
 * [Constructor Notation](https://www.w3schools.com/js/js_object_constructors.asp)- This way uses the *new* keyword and teh object constructor to create an object
 * The constructor notation works as a blueprint and is best used when you have **MANY** object to create
 
 There are 2 ways to access an Object's properties:
+
 * **Dot Notation**: You use the name of the object followed by a period (called the member operator) then the name of the property or method you want to access
 * **Bracket Notation**: Using this way to access properties of an object, the object name is followed by square brackets with the property or method inside them
 * You can **ADD** or **DELETE** properties as well, just like you create them, you can taketh them away
+
 To learn more about removing objects, click [here](https://www.w3schools.com/howto/howto_js_remove_property_object.asp)
