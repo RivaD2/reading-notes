@@ -45,7 +45,6 @@ We can use the following to specify colors:
 
 font-family: Georgia, Times;
 font-size: 12px;
-
 ```
 
 #### There are three **psuedo-classes** that allow us to change the appearance of elements when a user interacts with them:
