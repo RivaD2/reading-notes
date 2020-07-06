@@ -39,11 +39,13 @@ We can use the following to specify colors:
 * There are limited fonts you can choose from as browsers will only display fonts installed on a users computer
 * However, there are other ways to get fonts and you can find those ways [here](https://www.w3schools.com/css/css3_fonts.asp)
 * Here are some examples of how we can get specific with text in CSS:
+
 ```
 <!-- It is best practice to use a back up font after your chosen font, and you separate them with a comma-->
 
 font-family: Georgia, Times;
 font-size: 12px;
+
 ```
 
 #### There are three **psuedo-classes** that allow us to change the appearance of elements when a user interacts with them:
