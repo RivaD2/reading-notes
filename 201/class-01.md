@@ -7,7 +7,7 @@
 
 * HTML pages are text documents
 * The structure of pages helps readers to understand information
-* HTML (Hypertext Markup language) describes the structure of pages and an HTML document starts with the document declaration: ```<!DOCTYPE.HTML>```
+* HTML (Hypertext Markup language) describes the structure of pages and an HTML document starts with the document declaration: ```<!DOCTYPE.html>```
 *  HTML uses **Elements** to describe the structure and each element has an opening and closing tag: 
 
 * ```<html></html>```   (Tags act like containers)
