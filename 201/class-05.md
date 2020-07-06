@@ -3,7 +3,7 @@
 
 ---------
 ## IMAGES
-#### Images are all around us come in many forms, shapes and sizes. It is true that an image can grab you and take hold and communicate a message in an instant. Let's take a look at choosing images for your site and how it works:
+#### Images are all around us and they come in many forms, shapes and sizes. It is true that an image can grab you and communicate a message in an instant. Let's take a look at choosing images for your site and how it works:
 
 * Images should be relevant, convey information, convey the right mood, be recognisable, fit your color palette
 * Keep your images in a separate folder, because as your site grows, this will keep you organized
