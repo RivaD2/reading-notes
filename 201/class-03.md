@@ -22,7 +22,8 @@ These lists are started with the <dl> tag and nested inside are <dt> tags which 
 ------------------------------------
 
 ## CSS BOXES | BOXES INSIDE BOXES INSIDE BOXES
-#### Using different style elements we can control dimensions, create borders, set margins and contain space around boxes changing padding, and hide boxes
+![Cat](https://media.giphy.com/media/T2xqdmsM1qhPy/giphy.gif)
+#### Using different style elements we can control dimensions, create borders, set margins, contain space around boxes changing padding, and even hide boxes.
 Let's take a look:
 * Box default sizes are big enough to hold content
 * To change sizing of a box, we use pixels (px), percentages (%) or ems.
