@@ -37,6 +37,6 @@ Please read my other page that covers literal notation and contructor notation. 
 
 #### We can access those objects using dot notation and constructor notation and can build objects using constructor notation and literal notation.
 
-#### By creating objects and utilizing properties and methods, we are using Object Oriented programming and this my friend, is a gamechanger
+#### By creating objects and utilizing properties and methods, we are using Object Oriented programming and this my friend, is a game changer
 
 
