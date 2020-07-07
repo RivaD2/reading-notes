@@ -43,7 +43,7 @@ there are two types of markup within HTML? I didn't think so. Read on to find ou
 ### It's time to talk JavaScript
 #### Where do we start with JS? Well, we talked earlier about how computers follow precise instructions, step by step. Let's start there:
 * Each individual instruction that is given is called a **statement**
-* Just like in our HTML documents, we should comment on our code and in JS in looks a a bit different:
+* Just like in our HTML documents, we should comment on our code and in JS it looks a a bit different:
 ``` 
 /* This is a multiline comment, where I can write more than one line of text... */
 // This is a single line comment 
@@ -53,7 +53,7 @@ there are two types of markup within HTML? I didn't think so. Read on to find ou
 ```
 var today = "Sunday";
 ```
-* Variables can hold different data types such as: numeric data types, strings (like the word Sunday), and Boolean data types
+* Variables can hold different data types such as: numeric data types, strings (like "Sunday"), and Boolean data types
 
 ##### Click [here](https://rivad2.github.io/reading-notes/javascript.html) to learn about JavaScript Expressions and don't forget [arrays](https://javascript.info/array)
 ---------------
@@ -72,7 +72,7 @@ var today = "Sunday";
 
 ### IF ELSE STATEMENTS
 
-* If else statements are used VERY OFTEN in JS and they allow us to run one set of code if a condition is true, and if another is FALSe
+* If else statements are used VERY OFTEN in JS and they allow us to run one set of code if a condition is TRUE, and if another is FALSE
 * If else statements rely on conditionals, basically saying, if "A" is true, then do "B":
 ``` 
 if (name = "Riva) {
