@@ -25,11 +25,13 @@
   * Using this tag also helps those who use screen readers so it is a handy tag to incorporate into your tables 
 
   --------------------
-  ### I know you have some questions...
+
+  **I know you have some questions...**
 
  ![Nathan](https://media.giphy.com/media/UvwI1X7XkbXq0/giphy.gif)
 
- ####  Much like our friend Captain Malcom Reynolds in *Firefly* we may not have all the answers, but we must change course. 
+ **Much like our friend Captain Malcom Reynolds in *Firefly* we may not have all the answers, but we must change course.**
+ 
  ### LET'S LEARN MORE ABOUT JS CONSTRUCTOR FUNCTIONS!
 
  First, check out my other page on [Links and Layouts](https://rivad2.github.io/reading-notes/201/class-04.html) as it covers the very basics of JS functions and creating JS Objects. NOW my friend, continue on:
