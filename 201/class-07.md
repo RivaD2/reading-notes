@@ -55,7 +55,7 @@
  * After those steps, we **INITIALIZE** our object(s) by calling the constructor function we defined
  * NOW, the object(s) are stored inside the variable(s) we first defined
 
- ### Object Oriented Progamming has many benefits AND in many ways reminds me of what we learned about RECYCLING as kids:
+ ### Object Oriented Programming has many benefits AND in many ways reminds me of what we learned about RECYCLING as kids:
 
  * It allows us to **REDUCE COMPLEXITY** as the structure is cleaner. 
  * It allows us to **REUSE** code 
