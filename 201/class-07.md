@@ -46,8 +46,10 @@
 
 ---------------------------------
  ### DOMAIN MODELING 
+
  ![wow](https://media.giphy.com/media/Wyt6sLEjKjaFjzybth/giphy.gif)
- #### Now that you know about constructor notation, and how to create many objects, let's talk a bit more about constructor functions. I promise that by the of it you'll be quite impressed!
+
+ ####  Now that you know about constructor notation, and how to create many objects, let's talk a bit more about constructor functions. I promise that by the of it you'll be quite impressed!
 
  Earlier I said that after we create our object, we create *instances* of the object using the constructor function. Let's see what that's all about:
 
