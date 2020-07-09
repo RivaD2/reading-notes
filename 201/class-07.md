@@ -42,7 +42,26 @@
 
  Take a look at some examples of Objects [here!](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
 
- 
+---------------------------------
+ ### DOMAIN MODELING 
+ ![wow](https://media.giphy.com/media/Wyt6sLEjKjaFjzybth/giphy.gif)
+ #### Now that you know about constructor notation, and how to create many objects, let's talk a bit more about constructor functions. I promise that by the of it you'll be quite impressed!
+
+ Earlier I said that after we create our object, we create *instances* of the object using the constructor function. Let's see what that's all about:
+
+ * Constructor functions allow us to define the same  properties of many objects
+ * First we declare our variable and then assign it a function (most likely with parameters)
+ * Since we've defined our function, next we use the **NEW** keyword I mentioned earlier to create the object
+ * After those steps, we **INITIALIZE** our object(s) by calling the constructor function we defined
+ * NOW, the object(s) are stored inside the variable(s) we first defined
+
+ ### Object Oriented Progamming has many benefits AND in many ways reminds me of what we learned about RECYCLING as kids:
+
+ * It allows us to **REDUCE COMPLEXITY** as the structure is cleaner. 
+ * It allows us to **REUSE** code 
+ * It allows us to **RECYCLE** the functions and data within in an object (we can use these over and over again anywhere or in other programs)
+
+
 
  
 
