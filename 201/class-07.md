@@ -31,12 +31,12 @@
  ![Nathan](https://media.giphy.com/media/UvwI1X7XkbXq0/giphy.gif)
 
  **Much like our friend Captain Malcom Reynolds in *Firefly* we may not have all the answers, but we must change course.**
- 
+
  ### LET'S LEARN MORE ABOUT JS CONSTRUCTOR FUNCTIONS!
 
  First, check out my other page on [Links and Layouts](https://rivad2.github.io/reading-notes/201/class-04.html) as it covers the very basics of JS functions and creating JS Objects. NOW my friend, continue on:
 
- * Using the **New** keyword first with the object constructor create a **BLANK  OBJECT**
+ * Using the **New** keyword first with the object constructor creates a **BLANK  OBJECT**
  * After the blank object is created we can then add our properties and methods to it
  * Remember, just like with literal notation, we can access an objects properties and methods using dot notation or bracket notation
  * If there is **ONE** thing to pull from this section, it is that using the constructor notation allows us to **CREATE MANY OBJECTS**
