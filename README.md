@@ -33,7 +33,7 @@ See what I've learned along this journey below and please check out my take on g
 * [Read 04: HTML Links, CSS Layout and JavaScript Functions](201/class-04.md)
 * [Read 05: HTML Images, CSS Color and Text](201/class-05.md)
 * [Read 06: JS Object Literals and The DOM](201/class-06.md)
-* [Read 07: HTML Tables, JS Constructor Fuctions & Domain Modeling](201/class-06.md)
+* [Read 07: HTML Tables, JS Constructor Fuctions & Domain Modeling](201/class-07.md)
 * []()
 * []()
 * []()
