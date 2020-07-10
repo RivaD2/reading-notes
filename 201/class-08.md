@@ -44,4 +44,4 @@
   * Liquid layouts expand and contract as the user increases or decreases the size of their browser window.
   * What this means is that even if the user has a small window, the page will contract to fit it. Pretty cool huh?
   
-  #### We talked about the good stuff, now let's get to the bad...If the user has a very skinny or wide window, lines of text may become too long or too short. For this layout, keep images in mind as with this layout.
+  #### We talked about the good stuff, now let's get to the bad...If the user has a very skinny or wide window, lines of text may become too long or too short. For this layout, keep images in mind as they might overflow over text.
