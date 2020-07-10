@@ -24,7 +24,6 @@
 
 ![Screens](https://media.giphy.com/media/3o85xnHXDgKM21daPm/giphy.gif)
 
-
 ### We learned previously that planning the design of your page matters. Think of all the people you know...how many screens does each person use? Their phone, their watch, their computer, their tv right? KEEPING THIS MIND, let's learn about screen sizes:
 
   * No matter what size screen, your design should work across various devices
