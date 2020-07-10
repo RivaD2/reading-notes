@@ -25,7 +25,7 @@
 ![Screens](https://media.giphy.com/media/3o85xnHXDgKM21daPm/giphy.gif)
 
 
-#### We learned previously that planning the design of your page matters. Think of all the people you know...how many screens does each person use? Their phone, their watch, their computer, their tv right? KEEPING THIS MIND, let's learn about screen sizes:
+### We learned previously that planning the design of your page matters. Think of all the people you know...how many screens does each person use? Their phone, their watch, their computer, their tv right? KEEPING THIS MIND, let's learn about screen sizes:
 
   * No matter what size screen, your design should work across various devices
   * The size of a user's screen will greatly impact how much of the page they will actually see (think phone vs computer...)
@@ -42,13 +42,15 @@
 
 ### Much like our friend Neo from *The Matrix* we too can fight...We can fight the unpredictability of various screen sizes with fixed width and liquid layouts:
 
-  * A fixed width layout allows the design to remain the same size as the user increases or decreases the size of their browser window
-  * With this type of the layout, the designer has more control  pver the items on a page and where they sit
-  * What is awesome about this layout is image sizes will stay the same and keep form with the rest of the page
+* A fixed width layout allows the design to remain the same size as the user increases or decreases the size of their browser window
+* With this type of the layout, the designer has more control  pver the items on a page and where they sit
+* What is awesome about this layout is image sizes will stay the same and keep form with the rest of the page
   
-  **Nothing is perfect so they say, so with advantages there are always some disadvantages. Just make sure you keep resolution in mind when going the fixed width route**
+#### Nothing is perfect so they say, so with advantages there are always some disadvantages. Just make sure you keep resolution in mind when going the fixed width route
 
-  * Liquid layouts expand and contract as the user increases or decreases the size of their browser window.
-  * What this means is that even if the user has a small window, the page will contract to fit it. Pretty cool huh?
+* Liquid layouts expand and contract as the user increases or decreases the size of their browser window.
+* What this means is that even if the user has a small window, the page will contract to fit it. Pretty cool huh?
   
-  **We talked about the good stuff, now let's get to the bad...If the user has a very skinny or wide window, lines of text may become too long or too short. For this layout, keep images in mind as they might overflow over text.**
+#### We talked about the good stuff, now let's get to the not so good stuff. 
+
+* If the user has a very skinny or wide window, lines of text may become too long or too short. For this layout, keep images in mind as they might overflow over text.
