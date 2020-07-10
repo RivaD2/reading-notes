@@ -22,7 +22,9 @@
 
  ### DESIGN | KNOWING YOUR SCREEN SIZES
 
+
   ![Screens](https://media.giphy.com/media/3o85xnHXDgKM21daPm/giphy.gif)
+
 
   #### We learned previously that planning the design of your page matters. Think of all the people you know...how many screens does each person use? Their phone, their watch, their computer, their tv right? KEEPING THIS MIND, let's learn about screen sizes:
 
@@ -34,10 +36,11 @@
 
   ---------------------
 
-
  ### FIXED WIDTH LAYOUTS AND LIQUID LAYOUTS
 
+
  ![Neo](https://media.giphy.com/media/rvsIuQkF1iL3G/giphy.gif)
+ 
 
 ### Much like our friend Neo from *The Matrix* we can fight the unpredictability of various screen sizes with fixed width and liquid layouts:
 
