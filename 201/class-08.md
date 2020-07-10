@@ -5,7 +5,7 @@
 
 # CSS LAYOUT CONTINUED 
 -----------
-### I touched on CSS [layout](https://rivad2.github.io/reading-notes/201/class-04.html) previously and hopefully you remember that in CSS, each HTML element has its very own box. I also mentioned what inline and block elements are. Let's expand on this:**
+### I touched on CSS [layout](https://rivad2.github.io/reading-notes/201/class-04.html) previously and hopefully you remember that in CSS, each HTML element has its very own box. I also defined inline and block- level elements. Let's expand on this:**
   1. Block-level boxes start on a new line and inline boxes flow between surrounding layers of text
   1. To control how much space each box will take up, set a width (and a height too if you're feeling frisky!)
   3. IF one block-level element sits inside another, then the outer box is called the **CONTAINING/PARENT** element
