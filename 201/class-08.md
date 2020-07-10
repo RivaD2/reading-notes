@@ -40,9 +40,9 @@
 
 
  ![Neo](https://media.giphy.com/media/rvsIuQkF1iL3G/giphy.gif)
- 
 
-### Much like our friend Neo from *The Matrix* we can fight the unpredictability of various screen sizes with fixed width and liquid layouts:
+
+### Much like our friend Neo from *The Matrix* we too can fight...We can fight the unpredictability of various screen sizes with fixed width and liquid layouts:
 
   * A fixed width layout allows the design to remain the same size as the user increases or decreases the size of their browser window
   * With this type of the layout, the designer has more control  pver the items on a page and where they sit
