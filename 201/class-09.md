@@ -29,7 +29,7 @@
 
 ![Stimpy](https://media.giphy.com/media/GwRBmXyEOvFtK/giphy.gif)
 
-### SOMETHING JUST HAPPENED! JAVASCRIPT EVENTS?
+### SOMETHING JUST HAPPENED! JAVASCRIPT EVENTS
 
 #### What is an event? What causes one? And how do events link into our code?
 * Events happen for all sorts of reasons (when a user clicks on a link, overs over elements on the page or even types on their keyboard)
