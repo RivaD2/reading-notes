@@ -1,7 +1,7 @@
 
 ![Dwight](https://media.giphy.com/media/TpePHT1Kykld6/giphy.gif)
 
-#### Learning some key rules on positioning elements in CSS will prevent us from improvising our way through it and will make a page much more attractive.
+### Learning some key rules on positioning elements in CSS will prevent us from improvising our way through it and will make a page much more attractive.
 
 # CSS LAYOUT CONTINUED 
 -----------
@@ -12,22 +12,19 @@
   3. IF one block-level element sits inside another, then the outer box is called the **CONTAINING/PARENT** element
   4. Using a`<div>` to hold a bunch  of similar elements together will help keep you nice and organized---just remember in that case, the div would be a **CONTAINING** element
 
-  ** You now know that CSS has several positioning schemes that can change the layout of the page: normal, relative, and absolute:**
+  **You now know that CSS has several positioning schemes that can change the layout of the page: normal, relative, and absolute:**
 
   * To change positioning use the **position** property and to change float elements, use the **float** property
-    * The float property is worth calling out here as it allows you to place an element left or right of the containing element. The float property has proved itself to be quite handy indeed!
-  * **Normal flow** is the default way browsers read HTML elements
+  * The float property is worth calling out here as it allows you to place an element left or right of the containing element. The float property has proved itself to be quite handy indeed!
+   **Normal flow** is the default way browsers read HTML elements
+
   ---------------------------------- 
 
-  ### DESIGN | KNOWING YOUR SCREEN SIZES
+ ### DESIGN | KNOWING YOUR SCREEN SIZES
 
-  
-  
   ![Screens](https://media.giphy.com/media/3o85xnHXDgKM21daPm/giphy.gif)
 
-
-
-  ### We learned previously that planning the design of your page matters. Think of all the people you know...how many screens does each person use? Their phone, their watch, their computer, their tv right? KEEPING THIS MIND, let's learn about screen sizes:
+  #### We learned previously that planning the design of your page matters. Think of all the people you know...how many screens does each person use? Their phone, their watch, their computer, their tv right? KEEPING THIS MIND, let's learn about screen sizes:
 
   * No matter what size screen, your design should work across various devices
   * The size of a user's screen will greatly impact how much of the page they will actually see (think phone vs computer...)
