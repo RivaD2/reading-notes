@@ -1,3 +1,4 @@
+
 ![Michael](https://media.giphy.com/media/3zgPY6cX4gREs/giphy.gif)
 
 #### Learning the key ways we can position elements in CSS will prevent us from improvising our way through it and will make a page much more attractive.
