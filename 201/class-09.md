@@ -29,11 +29,11 @@
 
 ![Stimpy](https://media.giphy.com/media/GwRBmXyEOvFtK/giphy.gif)
 
-### SOMETHING JUST HAPPENED! WHAT IS A JAVASCRIPT EVENT?
+### SOMETHING JUST HAPPENED! JAVASCRIPT EVENTS?
 
 #### What is an event? What causes one? And how do events link into our code?
 * Events happen for all sorts of reasons (when a user clicks on a link, overs over elements on the page or even types on their keyboard)
-* An event is the browers way of letting us know that an interaction of some kind just happened
+* An event is the browsers way of letting us know that an interaction of some kind just happened
 * Scripts respond to events and events trigger code
 * As users interact with a page, and events fired, different functions in code can be triggered 
 * Events impact the DOM by triggering it to update pages 
