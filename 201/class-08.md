@@ -8,11 +8,11 @@
 ### I touched on CSS [layout](https://rivad2.github.io/reading-notes/201/class-04.html) previously and hopefully you remember that in CSS, each HTML element has its very own box. I also mentioned what inline and block elements are. Let's expand on this:**
   1. Block level boxes start on a new line and inline boxes flow between surrounding layers of text
   1. To control how much space each box will take up, set a width (and a height too if you're feeling frisky!)
-  3. IF one block-level element sits inside another, then the outer box is called the ==CONTAINING/PARENT== element
-  4. Using a`<div>` to hold a bunch  of similar elements together will help keep you nice and organized---just remember in that case, the div would be a ==CONTAINING== element
+  3. IF one block-level element sits inside another, then the outer box is called the **CONTAINING/PARENT** element
+  4. Using a`<div>` to hold a bunch  of similar elements together will help keep you nice and organized---just remember in that case, the div would be a **CONTAINING** element
 
   ** You now know that CSS has several positioning schemes that can change the layout of the page: normal, relative, and absolute: 
-  * To change positioning use the ==position== property and to change float elements, use the ==float== property
+  * To change positioning use the **position** property and to change float elements, use the **float** property
     * The float property is worth calling out here as it allows you to place an element left or right of the containing element. The float property has proved itself to be quite handy indeed!
   * **Normal flow** is the default way browswers read HTML elements
   ---------------------------------- 
@@ -25,7 +25,7 @@
   * No matter what size screen, your design should work across various devices
   * The size of a user's screen will greatly impact how much of the page they will actually see (think phone vs computer...)
   * Some devices have a higher resolution than others and resolution can often be changed by the user 
-  * The ==HIGHER== resolution, the ==SMALLER== the text will appear
+  * The **HIGHER** resolution, the **SMALLER** the text will appear
   * The sweet spot for page size is 960-1000px wide--due to the variety of screen sizes, this is a safe place to start
 
   ---------------------
@@ -33,7 +33,7 @@
 
  ![Neo](https://media.giphy.com/media/rvsIuQkF1iL3G/giphy.gif)
 
-#### Much like our friend ==Neo== from *The Matrix* we can fight the unpredictability of various screen sizes with fixed width and liquid layouts:
+#### Much like our friend Neo from *The Matrix* we can fight the unpredictability of various screen sizes with fixed width and liquid layouts:
 
   * A fixed width layout allows the design to remain the same size as the user increases or decreases the size of their browser window
   * With this type of the layout, the designer has more control  pver the items on a page and where they sit
