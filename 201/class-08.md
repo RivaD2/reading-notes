@@ -1,7 +1,7 @@
 
-![Michael](https://media.giphy.com/media/3zgPY6cX4gREs/giphy.gif)
+![Dwight](https://media.giphy.com/media/TpePHT1Kykld6/giphy.gif)
 
-#### Learning the key ways we can position elements in CSS will prevent us from improvising our way through it and will make a page much more attractive.
+#### Learning some key rules on positioning elements in CSS will prevent us from improvising our way through it and will make a page much more attractive.
 
 # CSS LAYOUT CONTINUED 
 -----------
