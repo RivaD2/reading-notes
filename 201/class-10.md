@@ -49,6 +49,6 @@
 * The JS console can be extremely helpful in identifying bugs and is foung by accessing the dev tools or by right-clicking and selecting inspect
 * Console-logging is yet another way to identify bugs and get a clearer picture as to what has gone wrong
 
-### There is a lot to learn about debugging and practice will get you far but there is no way to ensure perfection. We have to use the tools at our desposal and luckily, there are many out there that can help us!
+### There is a lot to learn about debugging and practice will get you far but there is no way to ensure perfection. We have to use the tools at our disposal and luckily, there are many out there that can help us!
 
 **TO LEARN MORE ABOUT JS DEBUGGING CLICK [HERE](https://raygun.com/javascript-debugging-tips)!
