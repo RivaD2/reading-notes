@@ -24,7 +24,8 @@
 ![SEO](https://media.giphy.com/media/cnFKWocUtPg0EXgWeJ/giphy.gif)
 ### It is time to get practical! Let's talk about SEO and analytics
 
-#### You've heard about how important SEO is and you know what SEO stands for (Search Engine Opitimization). As you can imagine, it is a subject enirely of its own but it is important to cover some of the key concepts:
+#### You've heard about how important SEO is and you know what SEO stands for (Search Engine Optimization). As you can imagine, it is a subject entirely of its own but it is important to cover some of the key concepts:
+
 * SEO helps your site appear closer to the top of search results when users look for information related to your site
 * The very core of SEO are **keywords** or which terms people will enter in the search engine and then idenfying which places to use these keywords on your site to optimize results
 * **On-page techniques** are ways you can improve your rating on search engines
@@ -49,7 +50,7 @@
 1. Use that big ol' brain to **BRAINSTORM** --- List words you think someone might type in to find your page
 1. Get **ORGANIZED** --- Group keywords into separate lists
 1. Hit the books! **RESEARCH** --- Get help from [keyword tools](https://ads.google.com/home/tools/keyword-planner/)
-1. **COMPARE** --- keyword research sites can help you guage your competition
+1. **COMPARE** --- keyword research sites can help you gauge your competition
 1. Get precise and **REFINE** --- Pick which keywords you will focus on and make sure they are relevant to each section of your site
 1. **MAP** them out! --- Choose which keywords will go on each page and pick 3-5 keyword phrases that map to each page of your site
 
