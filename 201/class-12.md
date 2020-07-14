@@ -1,6 +1,7 @@
 # Attractive Data | Using Chart.js and Canvas 
 
 ![stunning](https://media.giphy.com/media/iBjbPrCiuOeIIBqESG/giphy.gif)
+
 #### Heads will turn after Chart.js and Canvas display your data in an elegant fashion. Let's learn!
 
 * We're all familiar with charts and graphs and understand that they can display data in a single view
