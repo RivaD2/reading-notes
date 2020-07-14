@@ -12,16 +12,17 @@
 
 1. Download [Chart.js](https://www.chartjs.org/)
 1. Next, create a canvas element in your HTML by adding this to your HTML doc:
-```
-<canvas id="buyers" width="600" height="400"></canvas>
-```
+```<canvas id="buyers" width="600" height="400"></canvas>```
+
 3. A script needs to be written that will retrieve the context of the canvas so add this to the bottom of your HTML body:
+
 ```
 <script>
     var buyers = document.getElementById('buyers').getContext('2d');
     new Chart(buyers).Line(buyerData);
 </script>
 ```
+
 4. Next, you'll need some data to work with! Any data you have will be inserted into the same  `<script></script>` tag
 5. Test your data inside your browser. YAY! You did it!
 
