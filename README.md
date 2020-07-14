@@ -38,7 +38,7 @@ See what I've learned along this journey below and please check out my take on g
 * [Read 09: Forms and JavaSript Events](201/class-09.md)
 * [Read 10: JavaScript Debugging](201/class-10.md)
 * [Read 11: Images, SEO and Analytics](201/class-11.md)
-* []()
+* [Read 12: The magic of Chart.js and Canvas](201/class-12.md)
 * []()
 * []()
 * []()
