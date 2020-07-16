@@ -7,7 +7,7 @@
 ### I don't know about you, but my experience with most forms in the real world is not a pleasant one. In most cases, they usually mean you better be patient, take a seat, get comfy and wait for an unknown amount of time. Let's see what they mean in HTML land:
 
 * Different HTML elements allow us to collect information from a user
-* On your computer, you **CAN'T** escape forms as the most popular are search bars-- ***(Hmm...USED THE GOOGLE SEARCH BAR LATELY?)***
+* On your computer, you **CAN'T** escape forms and you use them every day (the most popular are search bars-- ***Hmm...USED THE GOOGLE SEARCH BAR LATELY?)***
 * Forms are all around you. They are present when registering on a website, online shopping, and if you sign up for newsletters or online subscriptions
 
 #### [Forms](https://www.w3schools.com/html/html_forms.asp) collect information from user in several ways:
@@ -32,7 +32,7 @@
 ### SOMETHING JUST HAPPENED! JAVASCRIPT EVENTS
 
 #### What is an event? What causes one? And how do events link into our code?
-* Events happen for all sorts of reasons (when a user clicks on a link, overs over elements on the page or even types on their keyboard)
+* Events happen for all sorts of reasons (when a user clicks on a link, hovers over elements on the page or even types on their keyboard)
 * An event is the browsers way of letting us know that an interaction of some kind just happened
 * Scripts respond to events and events trigger code
 * As users interact with a page, and events fired, different functions in code can be triggered 
