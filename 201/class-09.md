@@ -21,7 +21,7 @@
 1. A user fills in a form and submits that information
 2. The name of the form control and the data the user enters travels to the server, and the server then processes that information 
 3. The server then sends a brand new page back over based on the data it received previously
-4. Forms also live inside the `<form></form?>` tags and every form tag requires an *action attribute*
+4. Forms also live inside the `<form></form>` tags and every form tag requires an *action attribute*
 5. Forms can be sent using [*get* or *post*](ref_httpmethods) methods
 6. Information from a form is sent in **name/value** pairs
 
