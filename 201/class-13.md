@@ -2,12 +2,12 @@
 ##### 
 ![computer](https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif)
 
-#### Today we have many options for storing our precious data. This wasn't always the case though and the local storage game has changed...BIGTIME. 
+#### Today we have many options for storing our precious data. This wasn't always the case though and the local storage game has changed...BIG-TIME. 
 
 ### You've heard of cookies right? Well, they have been a part of web applications since the beginning and they can of course store small amounts of data at a time. Sure that works ok, but there are some downsides:
 
 * Cookies are included with every HTTP request, so they tend to slow down web applications because they transmit the same data over and over
-* Because cookies are included with every HTTP request,by default they send unencrypted data over the internet (unless your entire web application is served over SSL)
+* Because cookies are included with every HTTP request, by default they send unencrypted data over the internet (unless your entire web application is served over SSL)
 * Cookies can only store about 4KB of data, which slows down web applications and isn't super helpful to boot.
 
 (If you want to know more about HTTP requests and SSL, click [here](https://www.websecurity.digicert.com/security-topics/what-is-ssl-tls-https))
