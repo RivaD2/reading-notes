@@ -1,8 +1,8 @@
 # The Evolution of Local Storage
-##### 
+
 ![computer](https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif)
 
-#### Today we have many options for storing our precious data. This wasn't always the case though and the local storage game has changed...BIG-TIME. 
+### Today we have many options for storing our precious data. This wasn't always the case though and the local storage game has changed...BIG-TIME. 
 
 ### You've heard of cookies right? Well, they have been a part of web applications since the beginning and they can of course store small amounts of data at a time. Sure that works ok, but there are some downsides:
 
