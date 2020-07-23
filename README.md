@@ -41,4 +41,4 @@ See what I've learned along this journey below and please check out my take on g
 * [Read 12: The magic of Chart.js and Canvas](201/class-12.md)
 * [Read 13: The Evolution of Local Storage](201/class-13.md)
 * [Read 14a: More On CSS: Animations, Transitions & CSS3 Transitions](201/class-14a.md)
-* [Read 14b: What Google Learned From Its Quest To Build A Perfect Team](201/class-14.md)
+* [Read 14b: What Google Learned From Its Quest To Build A Perfect Team](201/class-14b.md)
