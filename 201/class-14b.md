@@ -4,11 +4,11 @@
 -----
 ### We've all been a part of a team at some point or another in our lives. We could have been on a team at work or at school. Even partnerships are a team. Let's look at some fundamentals of how a truly exceptional team operates.
 
-**After reading this [article](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) from *The New York Times Magazine*, it is clear that there is more to a great team than just high perfomers. There is SO, SO MUCH MORE. Some key takeaways:**
+**After reading this [article](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) from *The New York Times Magazine*, it is clear that there is more to a great team than just high performers. There is SO, SO MUCH MORE. Some key takeaways:**
 
 * Employee performance optimization IS NOT enough these days-- we have to dig deeper into what makes a great team well...GREAT
-* Collaborative activites are growing as modern work is becoming team-based (Why do you think you always see the **"must be a team player"** on those job descriptions you were looking at?)
-* Groups tend to innovate faster, find better solutions to problems and report higher job satisfication
+* Collaborative activities are growing as modern work is becoming team-based (Why do you think you always see the **"must be a team player"** on those job descriptions you were looking at?)
+* Groups tend to innovate faster, find better solutions to problems and report higher job satisfaction
 * Combining the best people together or grouping people based on personality traits and tendencies isn't the answer
 
 ## PROJECT ARISTOTLE studied hundreds of Google's teams to figure out what made some teams excel and others fail
