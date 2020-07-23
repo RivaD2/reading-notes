@@ -12,7 +12,9 @@
 * Combining the best people together or grouping people based on personality traits and tendencies isn't the answer
 
 ## PROJECT ARISTOTLE studied hundreds of Google's teams to figure out what made some teams excel and others fail
+
 **As you can imagine, a lot of data was gathered but no patterns emerged as quickly as they'd hoped. So, They focused their research on **GROUP NORMS** and quickly found patterns emerge**
+
 ![normal](https://media.giphy.com/media/QQoRQ2Gf1i7MA/giphy.gif)
 
 
@@ -28,7 +30,7 @@
 **More Key Takeaways:**
 
 * We want to be ourselves at work, not put parts of ourselves away in a box and then pretend to be someone else when we're at work
-* We need to feel free to share, to shine, to fail, to be vunerable when we are at work (within reason of course)
+* We need to feel free to share, to shine, to fail, to be vulnerable when we are at work (within reason of course)
 * We want to be heard
 * We need to focus a bit more on empathy and sensitivity in teamwork
 * Sometimes success of a team is not measured by productivity, but rather experiences
