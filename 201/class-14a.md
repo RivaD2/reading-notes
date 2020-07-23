@@ -55,7 +55,7 @@
 * In addition to declaring the @keyframes and assigning them a name, you will also have to declate an **animation-duration** property and value
 * A timing function delay can also be declared using **animation-timing-function**
 
-**LET'S LOOK AT 8 TRANSITIONS THAT WILL KNOCK YOUR SOCKS OFF**
+**LET'S LOOK AT 8 [TRANSITIONS](http://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users/) THAT WILL KNOCK YOUR SOCKS OFF**
 1. Fade in
 2. Change Color
 3. Grow & Shrink
