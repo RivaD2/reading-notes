@@ -6,7 +6,7 @@
 * With CSS3, we can position and change elements in a new way
 * To do this, we can use the **transform* property**
 * This property has two settings: 2D and 3D
-* Be careful with transations as browser support isn't always the best, but...overall you should be fine as things are improving
+* Be careful with transitions as browser support isn't always the best, but...overall you should be fine as things are improving
 * To use it, you'll just need the property(**transform**) and the value which specifies a type
 * With 2D, transforms will work on x and y axes, or horizontal and vertical axes
 * With 3D, transforms work on both axes and on a Z axis (Z being depth of course)
@@ -35,11 +35,11 @@
 ## LET'S DO THIS! | TRANSITIONS AND ANIMATIONS WITH CSS3
 ![plava](https://media.giphy.com/media/pwvrJtQkm8NgY/giphy.gif)
 
-### Imagine this scenario: You're sitting at your computer, you click on a link to take you to a site, and boom! After you hovered over an image, movement occured. What was that? "How could this be?" you might be saying. Well, you can thank CSS3 for those lovely animations. Let's cover some more ground:
+### Imagine this scenario: You're sitting at your computer, you click on a link to take you to a site, and boom! After you hovered over an image, movement occurred. What was that? "How could this be?" you might be saying. Well, you can thank CSS3 for those lovely animations. Let's cover some more ground:
 
 * With CSS3, you can change how an element looks and behaves whenever a change occurs (a mouse hover, a click, etc.)
 * These changes occur in multiple keyframes
-* For a transition to take place, an element must have a [change in state](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions) and different styles **MUST**be indentified for **EACH** state
+* For a transition to take place, an element must have a [change in state](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions) and different styles **MUST**be identified for **EACH** state
 * There are 4 transition properties:
     * transition-Property
     * transition-Duration
@@ -52,7 +52,7 @@
 * The @keyframes rule includes the animation name, animation breakpoints and properties to be animated
 * The @keyframes rule must be [VENDOR PREFIXED](https://developer.mozilla.org/en-US/docs/Glossary/Vendor_Prefix)
 * Once you have declared the @keyframes, you have to assign them to an element and to do this, you will use the **animation-name** property
-* In addition to declaring the @keyframes and assigning them a name, you will also have to declate an **animation-duration** property and value
+* In addition to declaring the @keyframes and assigning them a name, you will also have to declare an **animation-duration** property and value
 * A timing function delay can also be declared using **animation-timing-function**
 
 **LET'S LOOK AT 8 [TRANSITIONS](http://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users/) THAT WILL KNOCK YOUR SOCKS OFF**
