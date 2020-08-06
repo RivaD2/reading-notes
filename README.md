@@ -1,16 +1,18 @@
 ![Let the Coding Begin](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)
 
 ------------------------
-### Hello, my name is Riva Davidowski and I'm excited to start on the long journey ahead. Yes, I am a baby coder, a newb to this world of software development. 
-### I will fail, I will learn, and by god, I shall succeed! 
-See what I've learned along this journey below and please check out my take on growth mindset.
+### Hello, my name is Riva Davidowski and I am a newb to this world of software development. 
+###On my way to becoming a frontend software engineer I will fail, I will learn, and by god, I shall succeed! 
+
+**See what I've learned along this journey below.** 
+*Credit to Jon Duckett's Web Design with HTML, CSS and JavaScript* 
 
 [My profile!](https://rivad2.github.io/reading-notes/)
 
 -----------------
 ## TABLE OF CONTENTS
 
-## Code Fellows 102 Reading Notes
+## Code Fellows 102 Reading Notes:
 
 * [Growth Mindset](growthmindset.md)
 * [Read 2: The Coders Computer](coder-computers.md)
@@ -25,8 +27,8 @@ See what I've learned along this journey below and please check out my take on g
 
 ----------------------------
 
-## Code Fellows 201 Reading Notes
-------------------------------
+## Code Fellows 201 Reading Notes:
+
 * [Read 01: Introductory HTML & JavaScript](201/class-01.md)
 * [Read 02: HTML text, CSS Introduction and Basic JavaScript](201/class-02.md)
 * [Read 03: HTML Lists, CSS Boxes and JavaScript Control Glow](201/class-03.md)
@@ -42,3 +44,24 @@ See what I've learned along this journey below and please check out my take on g
 * [Read 13: The Evolution of Local Storage](201/class-13.md)
 * [Read 14a: More On CSS: Animations, Transitions & CSS3 Transitions](201/class-14a.md)
 * [Read 14b: What Google Learned From Its Quest To Build A Perfect Team](201/class-14b.md)
+
+--------------
+
+## Code Fellows 301 Reading Notes:
+
+* [Read 01: SMACSS and Responsive Web Design](301/class-01.md)
+* [Read 02: jQuery, Events, and The DOM](301/class-02.md)
+* [Read 03:  Flexbox and Templating](301/class-03.md)
+* [Read 04: Responsive Web Design and Regular Expressions](301/class-04.md)
+* [Read 05: Heroku Deployment](301/class-05.md)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
