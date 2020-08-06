@@ -24,7 +24,6 @@
 * [Read 7: Programming with JavaScript](programmingjs.md)
 * [Read 8: Operators & Loops](opsandloops.md)
 
-
 ----------------------------
 
 ## Code Fellows 201 Reading Notes:
@@ -65,3 +64,8 @@
 * []()
 * []()
 * []()
+* []()
+
+----------------------------
+
+## Code Fellows 401 Reading Notes:
