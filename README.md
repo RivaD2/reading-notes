@@ -2,7 +2,7 @@
 
 ------------------------
 ### Hello, my name is Riva Davidowski and I am a newb to this world of software development. 
-###On my way to becoming a frontend software engineer I will fail, I will learn, and by god, I shall succeed! 
+### On my way to becoming a frontend software engineer I will fail, I will learn, and by god, I shall succeed! 
 
 **See what I've learned along this journey below.** 
 *Credit to Jon Duckett's Web Design with HTML, CSS and JavaScript* 
