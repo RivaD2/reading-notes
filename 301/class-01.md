@@ -29,7 +29,7 @@ How do we do this? Responsive Web Design is the answer.
 
 ---------------
 ## SMACSS | Adding organization to our CSS
-#### If you've ever jumped into the middle of a project, you know that that long line of CSS rules applied by those before you is well, slightly overwhelming. 
+#### If you've ever jumped into the middle of a project, you know that, that long line of CSS rules applied by those before you is well, slightly overwhelming. 
 ![Wayne](https://media.giphy.com/media/9udHO801PzozK/giphy.gif)
 #### As you stare down the long list of CSS rules that have been applied by those before you, you might feel the need to get organized. That is where SMACSS comes into play. 
 
@@ -43,7 +43,7 @@ How do we do this? Responsive Web Design is the answer.
 
 1. **Base:** These are defaults and include single element selectors, attribute selectors, pseudo-class selectors, child selectors or sibling selectors. 
 
-1. **Layout:** Layouts divide the page into sections, think of navs, header and footer for example
+1. **Layout:** Layouts divide the page into sections, think of navs, header and footer for example.
 1. **Module:**: These make up the largest category as most pages have many, many modules. Modules are the reusable bits of our design. They can include callouts, sidebar sections, and product lists.
 1. **State:** These are ways to describe how our modules or layouts will look when in a particular state. Think hover, hidden, expanded, active and visited links, enabled or disabled content, buttons or inputs for example.
 1. **Theme:** These are similar to state rules in that they describe how modules or layouts might look.
