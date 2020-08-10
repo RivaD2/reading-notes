@@ -37,7 +37,7 @@
 * JS templating basically level-up simple web apps 
 * As JS use increased, client processing capability increased as well
 * Templating renders [client-side view templates](https://www.smashingmagazine.com/2012/12/client-side-templating/)
-* Templates move the application logic from the server to the client--what does this mean? It means that code becomes resusable and is easily maintained
+* Templates move the application logic from the server to the client--what does this mean? It means that code becomes reusable and is easily maintained
 * Templating involves template engines and that is where **Mustache.js** comes into play
 * The syntax of this engine looks like this `{}` (kinda like a mustache right?)
 * Mustache.js is referred to as ["logic-less"](https://stackoverflow.com/questions/8906036/what-is-logic-less-template/21833090) because there are no if statements, conditionals or loops
