@@ -28,11 +28,11 @@ $('ul.recipe').addClass('sweet');
 // Each method will then have parameter(s) which in this case is 'sweet'. These parameters tell us what is being updated and in this case we are updated the class attribute.
 ```
 ## What makes jQuery Faster?
- **Look, we can achieve our goals using pure JS, but jQuery merely simplifes our code:**
+ **Look, we can achieve our goals using pure JS, but jQuery merely simplifies our code:**
 1. jQuery makes it easier to find elements especially across all major browsers.
 1. jQuery uses CSS selectors which are faster at selecting elements and require less code than DOM elements.
 1. CSS selectors are already used by front-end developers so there is no need to learn an entirely new language.
-1. Provides easier ways to run through commonly performed tasks such as loops, handle events, handeling Ajax requests etc.
+1. Provides easier ways to run through commonly performed tasks such as loops, handle events, handling Ajax requests etc.
 1. jQuery allows us to chain methods together so once we select some elements we can apply multiple methods at once.
 1. It has cross-browser compatibility 
 
@@ -70,9 +70,9 @@ $('ul.recipe').addClass('sweet');
 ## WHAT ARE THE BENEFITS OF PAIRED PROGRAMMING?
 * **Greater efficiency:** Mistakes are caught faster and in the long run, the code that is produced is higher quality. Two minds can find solutions to problems that arise much faster than one.
 * **There is more collaboration:** When working as a pair, each person relies on the other and can ask for help, not to mention that there is higher focus and distractions are less likely.
-* **You learn new skills:** We should all know that everyone has different skill sets and so when we pair program, we learn from one another. There is a sharing of information and this helps us to become dynamic and ultimately knowledge is solidfied for each party. Whether one is more advanced or not doesn't matter as both parties benefit.
+* **You learn new skills:** We should all know that everyone has different skill sets and so when we pair program, we learn from one another. There is a sharing of information and this helps us to become dynamic and ultimately knowledge is solidified for each party. Whether one is more advanced or not doesn't matter as both parties benefit.
 * **Social skills improve:** As we work with one another, we have to communicate. Our coding skills improve but so do our communication skills, our patience, and our interpersonal skills.
 * **It prepares us for the job interview:** Many interviews will be in a paired programming format, as a current employee may navigate while the applicant drives. Practicing this skill early gives us a taste of what is to come.
 * **It prepares us for the workplace:** Because paired programming is very common, wouldn't it kinda suck to go into a new job and have to learn this skill then? Why not master it now so we can be ready to solve those coding tasks!
 
-**Long story short though, paired programming may take a little time to get used to but it is a necessary skill and one you'll be thankful you have,**
+**Long story short though, paired programming may take a little time to get used to but it is a necessary skill and one you'll be thankful you have.**
