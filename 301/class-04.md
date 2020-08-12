@@ -24,7 +24,7 @@
 ## GRID PROPERTIES
 
 ![Many](https://media.giphy.com/media/U2MJe73aFlhMElLNnn/giphy.gif)
-### There are so MANY properties for the both the parent grid containers and the children grid items, it's a little much to cover here. So I'll go over some of the basics:
+### There are so MANY properties for the both the parent grid containers and the children grid items and it's a little much to cover here. So I'll go over some of the basics:
 
 **Properties of the parent elements (the grid container)**:
 * display
