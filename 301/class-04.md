@@ -1,4 +1,4 @@
-# RESPONSIVE WEB DESIGN WITH CSS GRID | REGEX TUTORIAL AND CHEETSHEET
+# RESPONSIVE WEB DESIGN WITH CSS GRID | REGEX TUTORIAL AND CHEAT SHEET
 #### We moved away from float-based layouts, using Flexbox to tackle some of our most challenging layout tasks. Now I want to introduce Grid one of the most powerful systems in CSS.
 ----------
 ## Combining Flexbox and Grid provides us with the power to execute our layouts just as planned.
