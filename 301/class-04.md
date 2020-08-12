@@ -100,3 +100,5 @@ Use the . operator carefully since often class or negated character class (which
 ```
 
 **References are credited to [Medium.com](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)**
+
+** There is so much more to learn regarding REGEX. I suggest you read more on flags [here](https://www.codeguage.com/courses/regexp/flags)**
