@@ -32,8 +32,8 @@
 ## Remember Git?
 ### As we learned previously, Git is a powerful VCS
 * The Heroku platform uses Git for deploying applications (there are other ways to transport your source code to Heroku, including via an API).
-* When we create an application on Heroku, it associates a new Git remote, typically named heroku, with the local Git repository for your application.
-* As a result, deploying code is just the familiar git push, but to the heroku remote instead:
+* When we create an application on Heroku, it associates a new Git remote, typically named ```heroku```, with the local Git repository for your application.
+* As a result, deploying code is just the familiar git push, but to the ```heroku``` remote instead:
 ```
 git push heroku master
 ```
@@ -55,7 +55,7 @@ git push heroku master
 **First 10 steps to deploy a blog:**
 1. Create your js file
 ```
-ar http = require("http");
+var http = require("http");
 
 http.createServer(function(request, response) {
   response.writeHead(200, {"Content-Type": "text/plain"});
