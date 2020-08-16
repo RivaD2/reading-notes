@@ -38,7 +38,7 @@
 
 
 
-## When should you use it? 
+## Why should you use it? 
 1. It makes it really fast to build real-time, high-traffic apps (eg. chats or gaming).
 1. It makes it possible to code in JavaScript for both the client and server side 
 1. It increases the efficiency of the development process as it fills the gap between frontend and backend developers 
@@ -46,7 +46,7 @@
 as code executes faster than in any other language,
 1. Node is perfect for micro services which are a popular solution among enterprise applications.
 
- **There is so much to learn about Node.js. There are countless articles out there to guide you the the world of Node.js and NPM. Some of the ones I used to reference are:**
+ **There is so much to learn about Node.js. There are countless articles out there to guide you through the the world of Node.js and NPM. Some of the ones I used to reference are:**
 * [sitepoint.com](https://www.sitepoint.com/an-introduction-to-node-js/)
 * [toptal.com](https://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js)
 * [monterail.com](https://www.monterail.com/blog/nodejs-development-enterprises)
