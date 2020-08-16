@@ -26,7 +26,7 @@
 * According to Node.js.org:
 >Node is an online repository for the publishing of open-source Node.js projects; second, it is a command-line utility for interacting with said repository that aids in package installation, version management, and dependency management. 
 >
-* What are dependencies you might ask? Well, a dependcies are when a piece of software relies on another one.
+* What are dependencies you might ask? Well, dependencies refer to when a piece of software relies on another one.
 * When you have a node project with a package.json file, you can run npm install from the project root and npm will install all the dependencies listed in the package.json. This makes installing a Node.js project from a git repo much, much easier! 
 * Node.js is super powerful and is single-threaded. It’s also is event-driven, which means that everything that happens in Node is in reaction to an event.
 
