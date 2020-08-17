@@ -8,8 +8,8 @@
 >
 * A RESTful API is an application program interface (API) that uses HTTP requests to GET, PUT, POST and DELETE data. An API for a website is code that allows two software programs to communicate with each other.
 * The whole world wide web is built on this architectural style (pretty crazy to think about right?)
-* REST is resource based which means that in a REstful API we are talking about resources like a person resource, a user resource or an address resource
-* For example: In a REstful sense, we would call a URI or resource using an HTTP verb to say which operation we want to perform
+* REST is resource based which means that in a RESTful API we are talking about resources like a person resource, a user resource or an address resource
+* For example: In a RESTful sense, we would call a URI or resource using an HTTP verb to say which operation we want to perform
 * Multiple UR's may point to the same resource
 * Representation IS NOT the resource, that is a good thing to keep in mind
 
@@ -25,7 +25,7 @@
 
 **Ok, so again, A RESTful web application exposes information about itself in the form of information about its resources. It also enables the client to take actions on those resources, such as create new resources (i.e. create a new user) or change existing resources (i.e. edit a post).**
 
-## So how are API's REstful anyway?
+## So how are API's RESTful anyway?
 * In order for your APIs to be RESTful, you have to follow a set of constraints when you write them. 
 * These constraints will make the API easier to use
 
