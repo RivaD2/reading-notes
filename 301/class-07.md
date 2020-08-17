@@ -43,9 +43,9 @@
 1. **PUT**: This method replaces all current representations of the target resource with the request payload. In simple terms, this method is used for requesting that the server save data at a location specified by the server.
 1. **DELETE**: This method deletes the specified resource. In simple terms, this method is what request that the server delete a file at a location specified by the server.
 
-**After all is said and done, remember that we as humans speak to one anotherin a specific way. We gather information about one another and share information**
+**After all is said and done, remember that we as humans speak to one anotherin a specific way. We use nouns, verbs, adjectives etc. to communicate, we gather information about one another, and we share information.**
 
-**Computers do the same thing, they share messages with one another. We use nouns, verbs, adjectives etc. to communicate. Keep in mind always that machines don't have a universal noun** :)
+**Computers do the same thing, they share messages and information with one another.  Keep in mind always that machines don't have a universal noun** :)
 
 **If you'd like to learn more, please click on the links I used to reference the material above:
 1. [Github Gist](https://gist.github.com/brookr/5977550)
