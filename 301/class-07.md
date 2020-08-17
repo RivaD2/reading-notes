@@ -47,7 +47,7 @@
 
 **Computers do the same thing, they share messages and information with one another.  Keep in mind always that machines don't have a universal noun** :)
 
-**If you'd like to learn more, please click on the links I used to reference the material above:
+**If you'd like to learn more, please click on the links I used to reference the material above:**
 1. [Github Gist](https://gist.github.com/brookr/5977550)
 1. [MDN web docs HTTP methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
 1. [REST API tutorial](https://www.restapitutorial.com/lessons/whatisrest.html)
