@@ -80,7 +80,8 @@ enterprise class database with many features.
 when new data is available
  
  **To Learn more about SQL, click below to visit the articles I used to reference the info above. You will find they go into much more detail on how to get started using SQL.**
- 1.[A Primer On SQL: 3rd Edition](https://openlibra.com/en/book/download/a-primer-on-sql-3rd-edition)
- 1.[Tutorials Point: Learn SQL](https://www.tutorialspoint.com/sql/sql-overview.htm)
- 1.[Guru 99: What is a Database: What is SQL?](https://www.guru99.com/introduction-to-database-sql.html)
- 1.[SQLite.Org](https://www.sqlite.org/about.html)
+
+ 1. [A Primer On SQL: 3rd Edition](https://openlibra.com/en/book/download/a-primer-on-sql-3rd-edition)
+ 1. [Tutorials Point: Learn SQL](https://www.tutorialspoint.com/sql/sql-overview.htm)
+ 1. [Guru 99: What is a Database: What is SQL?](https://www.guru99.com/introduction-to-database-sql.html)
+ 1. [SQLite.Org](https://www.sqlite.org/about.html)
