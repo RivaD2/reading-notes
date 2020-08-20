@@ -90,4 +90,9 @@ predictable and safe.
 1. Simplifying Conditional Expressions: Conditionals tend to get more and more complicated in their logic over time. This involves taking multiple conditionals that lead to the same result or action and consolidating all of them into ONE single expression.
 1. Simplify Method Calls: Here we can rename methods, add or remove parameters, separate queries from modifiers and preserve whole Objects.
 1. Deal with Generalization: For example, this could involve replacing delegation with inheritance and forming template methods.
-1. Return Early functions: 
+
+**Please check out some of the links I used to reference the information above. There is so much more to learn about functional programming and refactoring:**
+
+1.[Refactoring Techniques](https://refactoring.guru/refactoring/techniques/dealing-with-generalization)
+2.[Master the Javascript Interview: What is functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
+3.[Refactoring JS for Performance and Readability](https://dev.to/healeycodes/refactoring-javascript-for-performance-and-readability-with-examples-1hec)
