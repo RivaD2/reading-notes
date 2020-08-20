@@ -1,5 +1,6 @@
 # Functional Programming | Refactoring Code 
 ![programmer](https://media.giphy.com/media/349qKnoIBHK1i/giphy.gif)
+
 **Ah yes, functional programming, we all know it to be another programming paragigm. Let's talk more about this hot topic and some of core concepts.**
 
 ## What is functional programming?
