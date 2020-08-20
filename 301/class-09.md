@@ -1,7 +1,7 @@
 # Functional Programming | Refactoring Code 
 ![programmer](https://media.giphy.com/media/349qKnoIBHK1i/giphy.gif)
 
-**Ah yes, functional programming, we all know it to be another programming paragigm. Let's talk more about this hot topic and some of core concepts.**
+**Ah yes, functional programming, we all know it to be another programming paradigm. Let's talk more about this hot topic and some of core concepts.**
 
 ## What is functional programming?
 * Functional programming or FP, is the process of building software by composing pure functions, avoiding shared state, mutable data, and side-effects. 
@@ -45,7 +45,7 @@ highpass(5, 5); // => true
 * The problem with shared state is that in order to understand the effects of a function, you have to know the entire history of every shared variable that the function uses or affects.
 * When you avoid shared state, the timing and order of function calls don’t change the result of calling the function. 
 
-* **IMMUTABILITY:** An [immutable object](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd)is an object that can’t be modified after it’s created. Conversely, a mutable object is any object which can be modified after it’s created.
+* **IMMUTABILITY:** An [immutable object](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd) is an object that can’t be modified after it’s created. Conversely, a mutable object is any object which can be modified after it’s created.
 * In other functional programming languages, there are special immutable data structures called trie data structures (pronounced “tree”) which are effectively deep frozen — meaning that no property can change, regardless of the level of the property in the object hierarchy.
 
 * **SIDE EFFECTS:** A side effect is any application state change that is observable outside the called function other than its return value. Side effects include:
@@ -59,7 +59,7 @@ highpass(5, 5); // => true
 
 * Side effects are mostly avoided in functional programming, which makes the effects of a program much easier to understand, and much easier to test.
 
-## FP utilitzes higher order functions. A higher order function is any function which takes a function as an argument, returns a function, or both. 
+## FP utilizes higher order functions. A higher order function is any function which takes a function as an argument, returns a function, or both. 
 **Read more about higher order functions [here](https://eloquentjavascript.net/05_higher_order.html)**
 
 ----------------------
