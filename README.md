@@ -58,7 +58,7 @@
 * [Read 08: SQL](301/class-08.md)
 * [Read 09: Refactoring and Functional Programming](301/class-09.md)
 * [Read 10: The Call Stack and Debugging](301/class-10.md)
-* []()
+* [Read 11: Templating with EJS & Using the API](301/class-11.md)
 * []()
 * []()
 * []()
