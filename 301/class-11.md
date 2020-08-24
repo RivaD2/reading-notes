@@ -1,5 +1,6 @@
 # TEMPLATING WITH EJS & USING THE API
 ![yes](https://media.giphy.com/media/35J3oyRx7fGBEqLQQy/giphy.gif)
+
 **Let's talk about what EJS is and how it's used to build node applications**
 
 ## What is EJS
