@@ -59,13 +59,26 @@
 * [Read 09: Refactoring and Functional Programming](301/class-09.md)
 * [Read 10: The Call Stack and Debugging](301/class-10.md)
 * [Read 11: Templating with EJS & Using the API](301/class-11.md)
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [Read 12: Intro to EJS Partials](301/class-11.md)
+* [Read 13: Update and Delete & Sending Form Data](301/class-12.md)
+* [Read 14: Database Normilization](301/class-12.md)
+
 
 ----------------------------
 
 ## Code Fellows 401 Reading Notes:
+
+* [Read 01: ](/class-01.md)
+* [Read 02: ](/class-02.md)
+* [Read 03: ](/class-03.md)
+* [Read 04: ](/class-04.md)
+* [Read 05: ](/class-05.md)
+* [Read 06: ](/class-06.md)
+* [Read 07: ](/class-07.md)
+* [Read 08: ](/class-08.md)
+* [Read 09: ](/class-09.md)
+* [Read 10: ](/class-10.md)
+* [Read 11: ](/class-11.md)
+* [Read 12: ](/class-11.md)
+* [Read 13: ](/class-12.md)
+* [Read 14: ](/class-12.md)
