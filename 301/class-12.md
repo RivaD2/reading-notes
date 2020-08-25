@@ -1,5 +1,5 @@
 # Intro To EJS Partials
-![EJS](https://miro.medium.com/max/3920/1*5xR5P6dzu4LpyMaR2QMphA.jpeg)
+![EJS](https://spaces.profoundjs.com/thumbnail/profound-logic/deploying-stateful-ejs-apps.png)
 
 **Partials are native to EJS and we want to use them on reusuable pieces of text that stay static**
 
