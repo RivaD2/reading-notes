@@ -1,5 +1,5 @@
 # Sending Form Data
-** An HTML form is gathers user input and this input is most often sent to a server for processing**
+**An HTML form is gathers user input and this input is most often sent to a server for processing**
 
 ## Refresher: How to create a Form
 * The HTML `<form>` element is used to create an HTML form.
