@@ -62,6 +62,7 @@
 * [Read 12: Intro to EJS Partials](301/class-12.md)
 * [Read 13: Update and Delete & Sending Form Data](301/class-13.md)
 * [Read 14: Database Normalization](301/class-14.md)
+* [Read 15: Diversity & Inclusion](301/class-15.md)
 
 
 ----------------------------
