@@ -13,3 +13,6 @@
 
 ### Talking about diversity is not easy but it is an important first step to see and understand these trends and work on ways that we as individuals can be a voice for diversity. 
 **Ultimately, diversity on teams does fall onto leadership. However, we as individuals and teammates can have a voice in this matter and let it be known that we not only value diversity but we want to SEE more of it on our own teams and in our workforce**
+
+### Please checkout the article I used to reference the information above:
+* [Why Diversity Matters to Your Tech Company](https://www.usatoday.com/story/tech/columnist/2015/07/21/why-diversity-matters-your-tech-company/30419871/)
