@@ -10,8 +10,9 @@
 
 ## Reasons behind Database Normalization
 **There are three main reasons to normalize a database:**
-1. To Minimize duplicate data
-2, To minimize or avoid data modification issues
+
+1. To minimize duplicate data
+2. To minimize or avoid data modification issues
 3. To simplify queries
 
 ## Types of Modification Anomalies
