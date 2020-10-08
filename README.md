@@ -2,9 +2,7 @@
 
 ------------------------
 
-# Reading Notes:
-
-**Welcome to my reading notes page! This page holds the table of contents for all notes for readings done during my time at CodeFellows. These notes start from the basics like learning Git, HTML, CSS and JS and move on to cover more advanced programming concepts.
+**Welcome to my reading notes page! This page holds the table of contents for all notes for readings done during my time at CodeFellows. These notes start from the basics like learning Git, HTML, CSS and JS and move on to cover more advanced programming concepts.**
 
 **See what I've learned along this journey below.** 
 *Credit to Jon Duckett's Web Design with HTML, CSS and JavaScript* 
