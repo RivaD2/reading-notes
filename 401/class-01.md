@@ -1,4 +1,4 @@
-# Today's topics: map(), reduce(), fetching data with superagent and asynchronous JS
+# Today's topics: Array methods, fetching data with superagent and asynchronous JS
 
 ![begin](https://media.giphy.com/media/5zf2M4HgjjWszLd4a5/giphy.gif)
 
@@ -51,15 +51,15 @@ reduce() is also an iterator! It calculates a single value from an array by call
 
 -------------------------
 
-## FETCHING DATA WITH SUPERAGENT
+## FETCHING DATA WITH SuperAgent
 
-**What is superagent?**
+**What is SuperAgent?**
 
 - Superagent is a library that helps programmers make asynchronous HTTP requests.
 
 **How to install it:**
 
-- `npm install superagent`
+- `npm install SuperAgent`
 
 **Once it's installed, load the module in your file:**
 
