@@ -69,7 +69,7 @@
 
 ## Code Fellows 401 Advanced Software Development:
 
-* [Read 01: Engineering Topics](/class-01.md)
+* [Read 01: Map(), reduce(), superagent and Asynchronous JS](401/class-01.md)
 * [Read 02: ](/class-02.md)
 * [Read 03: ](/class-03.md)
 * [Read 04: ](/class-04.md)
