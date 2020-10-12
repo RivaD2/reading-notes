@@ -76,7 +76,7 @@ Promise with then/catch:
 
 
 superagent.get('http://swapi.dev/api/people/')
-.then(() => console.log('getting people')
+.then((result) => console.log(result)
 .catch(err => console.error('Error getting people', err);
 
 
