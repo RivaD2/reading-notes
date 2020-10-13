@@ -3,11 +3,11 @@
 **Let's do a quick recap on the Node Module System and how to create and load a module:**
 
     - At the core of node is a concept called Modules
-    - Node has modules that give us other capabilites. These objects different
+    - Node has modules that give us other capabilities. These objects different
     objects than the ones we have access to in our browsers
-    - None is non-blocking by nature and a single thread is used to handle multiple requests
+    - Node is non-blocking by nature and a single thread is used to handle multiple requests
     - In node, we do not have the window obj, we have what is called, global
-    - Each file in Node is a module and we create different modules hwere are various variables and functions are defined
+    - Each file in Node is a module and we create different modules where our various variables and functions are defined
     - These functions/variables are by default private, or scoped to each file. If we want to use functions/vars outside of a file, we have to export them and load them in the file where we need to use them. To do this, we use the require() function.
     - So,
     1. We define the module
@@ -15,13 +15,13 @@
     3. use the require function to load the module
     - Remember, npm comes with Node.js
 
-    **Easy right?**
+**Easy right?**
 
   ![easy](https://media.giphy.com/media/XHy2u1erzDnAgGiIKp/giphy.gif)
 
 **That you've had a quick recap on Node and how to create/load modules, I will cover some questions related to Node.js and then provide you with some terminology that you may find handy:**
 
-1. Why would you want to run JavaScript code outside of a browser you might ask? The browser is great, don't get me wrong. The fact is though,is that we can do things outside of the browser with Node.js that we can't do inside of a browser:
+1. Why would you want to run JavaScript code outside of a browser you might ask? The browser is great, don't get me wrong. The fact is, is that we can do things outside of the browser with Node.js that we can't do inside of a browser:
     - JS becomes even more powerful as we are given the access to API's which have the ability to manipulate the file system and OS
     - We are given CRUD operations (for database management)
     - external packages are load as dependencies once Node.js is installed
@@ -33,7 +33,7 @@
 2. What is the difference between a module and a package?
    - It is very common for modules to be called packages and vice-versa. What is the real difference here? According to nopmjs.com:
         - A package is a file or directory that is described by a `package.json` file. A package **must** contain a `package.json` file in order to be published to the npm registry.
-        - Packages can be unscoped or scoped to a user or Org, and scoped packages can be private or public
+        - Packages can be without scope or scoped to a user or Org, and scoped packages can be private or public
         - A package can come in many [formats](https://docs.npmjs.com/about-packages-and-modules)
     - A **module** is any file or directory in the node_modules directory that can be loaded by the Node.js `require()` function.
     - To be loaded by the Node.js require() function, a module must be one of the following:
