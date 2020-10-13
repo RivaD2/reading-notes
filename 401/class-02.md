@@ -118,3 +118,12 @@ A computer program that directly executes instructions written in a programming 
 
 - **compiler**:
 Computer software that translates (compiles) source code written in a high-level language (e.g., C++) into a set of machine-language instructions that can be understood by a digital computer's CPU.
+
+----------------------
+
+Resources:
+
+- [server info](https://whatis.techtarget.com/definition/server)
+- [Node Module Exports](https://www.freecodecamp.org/news/node-js-module-exports-vs-exports-ec7e254d63ac/)
+-[Export Module In Node.js](https://www.freecodecamp.org/news/node-js-module-exports-vs-exports-ec7e254d63ac/)
+- [What is an Ecosystem](https://stackoverflow.com/questions/30690820/what-is-the-meaning-of-ecosystem-in-software)
