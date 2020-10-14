@@ -1,6 +1,6 @@
 # Test Driven Development /OOP and Higher Order Functions
 
-** A quick recap on test driven development**
+**A quick recap on test driven development**
 
 ![Testing](https://media.giphy.com/media/ZY2DmHSTFpmmEH5STD/giphy.gif)
 
