@@ -31,7 +31,7 @@ class Foo(){
    }
 }
 ```
-**Long story short, a use case for Static methods sis when we want to create utility functions for an application. In other words, static methods have no access to data stored in specific objects. Read more [here](https://medium.com/@yyang0903/static-objects-static-methods-in-es6-1c026dbb8bb1)
+**Long story short, a use case for Static methods sis when we want to create utility functions for an application. In other words, static methods have no access to data stored in specific objects. Read more [here](https://medium.com/@yyang0903/static-objects-static-methods-in-es6-1c026dbb8bb1)**
 
 6. **An example of a Higher Order function and description of the use case it solves:**
 Ok, let's say I have an array with nums as input. I really need the average value. Let's take a look:
@@ -64,7 +64,7 @@ has no side-effects
 
 - higher-order function: A function that takes a function as an argument, or returns a function
 
-- immutable state: Basically referes to the state of an object and means it  cannot be modified after it is created
+- immutable state: Basically refers to the state of an object and means it  cannot be modified after it is created
 
 - object: JavaScript objects are containers for named values called properties or methods. Really everything in JS is an object that has key value pairs.
 
@@ -76,7 +76,7 @@ has no side-effects
 
 - super: A keyword used in OOP that calls the parent method from child method. It is used to call the constructor of the parent class and to access the parent's properties and methods.
 
-- inheritance: At a basic level, inheritance is the concept of one thing gaining the properties or behaviours of something else.
+- inheritance: At a basic level, inheritance is the concept of one thing gaining the properties or behaviors of something else.
 
 - constructor: THEY FORM THE BASIS FOR EVERYTHING! They set the initial props of the object they create and constructors hold a template and multiple objects out of the template that the constructor holds.
 
