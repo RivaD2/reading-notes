@@ -1,6 +1,7 @@
 # Test Driven Development /OOP and Higher Order Functions
 
 ** A quick recap on test driven development**
+
 ![Testing](https://media.giphy.com/media/ZY2DmHSTFpmmEH5STD/giphy.gif)
 
 1. **3 advantages to Test Driven Development:**
