@@ -57,21 +57,38 @@ _________________________________________________
 ![Vocab](https://media.giphy.com/media/3orieYwoZPWQ1myQ00/giphy.gif)
 
 - functional programming: According to *medium.com* FP is the process of building software by composing pure functions, avoiding shared state, mutable data, and side-effects. Code becomes concise, predicable and easy to test.
+
 - pure function: A function that when given the same inputs, always returns the same output, and
 has no side-effects
+
 - higher-order function: A function that takes a function as an argument, or returns a function
+
 - immutable state: Basically referes to the state of an object and means it  cannot be modified after it is created
+
 - object: JavaScript objects are containers for named values called properties or methods. Really everything in JS is an object that has key value pairs.
-- object-oriented programming (OOP)
-class
-prototype
-super
-inheritance
-constructor
-instance
-context
-this
-Test Driven Development (TDD)
-Jest
-Continuous Integration (CI)
-unit test
+
+- object-oriented programming (OOP): On a simple level, using objects to model real world things that we want to represent inside our programs
+
+- class: A class is a blueprint of an Object and are a higher form of constructors and protos
+
+- prototype: The prototype is an object that is associated with every function and object. The prototype holds all methods that can be used multiple times.
+
+- super: A keyword used in OOP that calls the parent method from child method. It is used to call the constructor of the parent class and to access the parent's properties and methods.
+
+- inheritance: At a basic level, inheritance is the concept of one thing gaining the properties or behaviours of something else.
+
+- constructor: THEY FORM THE BASIS FOR EVERYTHING! They set the initial props of the object they create and constructors hold a template and multiple objects out of the template that the constructor holds.
+
+- instance - With constructors, the object instance inherits all props/methods from the constructor. An instance contains data and behavior described by a class and usually means that the `new` keyword was used
+
+- context: Context is related to objects. It refers to the object within the function being executed
+
+- this: is refers to the object that the function is executing in
+
+- Test Driven Development (TDD): A basic definition is TTD is just writing software where you write tests before you write application code.
+
+- Jest: According to *jestjs.io*, Jest is a JavaScript testing framework designed to ensure correctness of any JavaScript codebase. It allows you to write tests
+
+- Continuous Integration (CI): The practice of merging all developers' working copies to a shared codebase several times a day
+
+- unit test: A unit test runs over segments of our programs checking the input and output. These tests allow developers to check individual areas of a program to see where(and why) errors occur.
