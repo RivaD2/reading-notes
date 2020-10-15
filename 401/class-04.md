@@ -22,7 +22,7 @@ Mongoose is a Node.js based Object Data Modeling (ODM) library for MongoDB. Mong
 
 ___________________________
 
-TIME TO LEARN NEW VOCABULARLY!
+## TIME TO LEARN NEW VOCABULARLY!
 
 - database:
 
