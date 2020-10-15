@@ -1,6 +1,6 @@
 # Advanced Mongo/Mongoose | CRUD
 
-![fun](https://media.giphy.com/media/f7rDDvcOV9n8I/giphy.gif)
+![fun](https://media.giphy.com/media/8PE8pJnBRKG1OCRUDi/giphy.gif)
 
 **Answers to questions related to CRUD and data modeling:**
 
