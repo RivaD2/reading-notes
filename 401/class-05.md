@@ -23,7 +23,7 @@
 
 ------------------------------
 
-### What Are the componenents of a linked List?
+### What Are the components of a linked list?
 
 - **NODES**: Linked Lists are made of a series of nodes, which are just elements in the list.
 - **HEAD**: This is the starting point in the list, also known as the head. Think of the head as the entry point.
@@ -33,7 +33,7 @@
 
 - **CURRENT**: The current reference is a reference type of type Node that is currently being looked at. This node is typically used when traversing through a full linked list. When traversing, it is common to reset the current to the head to guarantee you are starting from the beginning of the linked list.
 
-** At this point, I've answered why nodes can scatter memory. It is because a single node has the “address” or a reference to the next node. If that is the case, then they do not have to use a continous block of memory**
+**At this point, I've answered why nodes can scatter memory. It is because a single node has the “address” or a reference to the next node. If that is the case, then they do not have to use a continuous block of memory**
 
 
 **You still with me?**
