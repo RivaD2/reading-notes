@@ -73,7 +73,7 @@
 * [Read 02: Classes, Inheritance and Functional Programming ](401/class-02.md)
 * [Read 03: Test Driven Development, OOP and Higher Order Functions](401/class-03.md)
 * [Read 04: Advanced Mongo/Mongoose and CRUD ](401/class-04.md)
-* [Read 05: ](401/class-05.md)
+* [Read 05: Linked Lists](401/class-05.md)
 * [Read 06: ](401/class-06.md)
 * [Read 07: ](401/class-07.md)
 * [Read 08: ](401/class-08.md)
