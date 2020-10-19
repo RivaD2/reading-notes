@@ -75,7 +75,7 @@
 * [Read 04: Advanced Mongo/Mongoose and CRUD ](401/class-04.md)
 * [Read 05: Linked Lists](401/class-05.md)
 * [Read 06: More on NoSQl Databases and ORM's](401/class-06.md)
-* [Read 07: ](401/class-07.md)
+* [Read 07: Express, REST, SOAP, CRUD](401/class-07.md)
 * [Read 08: ](401/class-08.md)
 * [Read 09: ](401/class-09.md)
 * [Read 10: ](401/class-10.md)
