@@ -2,10 +2,10 @@
 
 ![train](https://media.giphy.com/media/zUTQ7vmg3boME/giphy.gif)
 
-** What is express?**
+**What is express?**
 - Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications. 
 
-**If you're feeling rusty on terminolgy related to building ReSTFUL services, check out my other doc on [REST](https://github.com/RivaD2/reading-notes/blob/master/301/class-07.md)
+**If you're feeling rusty on terminolgy related to building ReSTFUL services, check out my other doc on [REST](https://github.com/RivaD2/reading-notes/blob/master/301/class-07.md)**
 
 1. **What’s the difference between PUT and PATCH?**: According to [rapidApi.com](https://rapidapi.com/blog/put-vs-patch/):
     - **PUT** is a method of modifying resource where the client sends data that updates the entire resource. It is used to set an entity’s information completely. PUT is similar to POST in that it can create resources, but it does so when there is a defined URI. PUT overwrites the entire entity if it already exists, and creates a new resource if it doesn’t exist.
