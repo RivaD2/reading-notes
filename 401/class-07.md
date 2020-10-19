@@ -5,7 +5,7 @@
 **What is express?**
 - Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications. 
 
-**If you're feeling rusty on terminolgy related to building ReSTFUL services, check out my other doc on [REST](https://github.com/RivaD2/reading-notes/blob/master/301/class-07.md)**
+**If you're feeling rusty on terminolgy related to building RESTful services, check out my other doc on [REST](https://github.com/RivaD2/reading-notes/blob/master/301/class-07.md)**
 
 1. **What’s the difference between PUT and PATCH?**: According to [rapidApi.com](https://rapidapi.com/blog/put-vs-patch/):
     - **PUT** is a method of modifying resource where the client sends data that updates the entire resource. It is used to set an entity’s information completely. PUT is similar to POST in that it can create resources, but it does so when there is a defined URI. PUT overwrites the entire entity if it already exists, and creates a new resource if it doesn’t exist.
@@ -16,7 +16,7 @@
     - Client errors (400–499),
     - Server errors (500–599).
 1. **Compare and contrast SOAP and ReST**: According to [restfulapi.net](https://restfulapi.net/soap-vs-rest-apis/), **RESTful Web services** are completely stateless. Managing the state of conversation is the complete responsibility of the client itself. The server does not help you with this. Normally, a **SOAP Web services** are stateless – but you can easily make SOAP API stateful by changing the code on the server.
-     **REST** -REpresentational State Transfer – is an architectural style that makes use of existing and widely adopted technologies, specifically HTTP, and does not create any new standards.
+     **REST** -Representational State Transfer – is an architectural style that makes use of existing and widely adopted technologies, specifically HTTP, and does not create any new standards.
     - Overall, **REST is simpler to develop** because it leverages the web, which is already in place, and the degree of freedom is limited (fewer choices to make, so simpler). SOAP offers several alternatives and is also slightly more difficult to develop, but offers more alternatives and areas to work.
 
 ### New Vocabulary to Learn:
