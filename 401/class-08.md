@@ -5,7 +5,7 @@
 
 ### What is middleware?
 
-- According to [freecodecamp.org](https://www.freecodecamp.org/news/what-is-middleware-with-example-use-cases/), a middleware is software that acts as the intermediary between two applications and faciliates communication and aids in data management
+- According to [freecodecamp.org](https://www.freecodecamp.org/news/what-is-middleware-with-example-use-cases/), a middleware is software that acts as the intermediary between two applications and facilitates communication and aids in data management
 - Remember, middleware functions have access to the request object (req), the response object (res), and the next middleware function in the applications req/res cycle.
 - They are used to modify the req/res objects for tasks like parsing request bodies, adding headers etc.
 - We can create our own middleware functions or use third party middleware. There is also built in middleware that Express allows us to use.
@@ -15,7 +15,7 @@
     - End the req/res cycle
     - Call the `next()` middleware function
 
-**An Expres application is essentially a series of middleware function calls**
+**An Express application is essentially a series of middleware function calls**
 
 ### REVIEW:
 
