@@ -35,6 +35,9 @@ Well, one way is through the the HTTP POST method. However, other ways such as w
 
 - **Route Prefixing**: *dotnettutorials** explaines that this involves giving routes attributes and when using controllers, sometimes we have the same prefixes. With prefixing we can eliminates the need to repeat the common prefixes on each and every controller action method.
 
-- **Request “Body”**:
-- **Request “Query”**:
-- **Request “Params”**:
+- **Request “Body”**: The req.body property contains key-value pairs of data submitted in the request body.
+
+- **Request “Query”**: The req. query property is an object containing the property for each query string
+parameter in the route.
+
+- **Request “Params”**: An object containing parameter values parsed from the URL path
