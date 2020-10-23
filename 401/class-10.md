@@ -59,3 +59,7 @@ Likes stacks, Enqueus and Dequeues are done with an 0(1) operation. When you use
 
 - Queues also abide by the rules of FILO and LILO
 
+------------
+
+**Resources**
+1. [https://codefellows.github.io/](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-10/resources/stacks_and_queues.html)
