@@ -79,7 +79,7 @@
 * [Read 08: Middleware and API's ](401/class-08.md)
 * [Read 09: Api Server](401/class-09.md)
 * [Read 10: Stacks and Queues](401/class-10.md)
-* [Read 11: ](401/class-11.md)
+* [Read 11: Authentication](401/class-11.md)
 * [Read 12: ](401/class-11.md)
 * [Read 13: ](401/class-12.md)
 * [Read 14: ](401/class-12.md)
