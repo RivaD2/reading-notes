@@ -1,6 +1,6 @@
 # OAUTH
 
-**In the recent past I covered a bit on [Authentication](https://rivad2.github.io/reading-notes/401/class-11.html).
+**In the recent past I covered a bit on [Authentication](https://rivad2.github.io/reading-notes/401/class-11.html).Let's learn a bit more about this topic and why it is important in a world where everything is stored and revolves around the internet**
 
 
 1. **Why is authentication important?**
