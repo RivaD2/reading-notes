@@ -34,5 +34,5 @@ There are many, many things we can do with authorization codes.
 I can use them for API's, first party and third party API's for my applications.
 
 - **What’s a benefit of using OAuth instead of your own basic authentication?**
-A good example of OAuth in use is logging back into Facebook. Everytime we sign in, it first prompts us to confirm it is infact us trying to login, before entering. Basically, it is asking if it can access data on OUR behalf. This is OAuth in action. It is beneficial because it separates authentication from authorization and gives us limited access to user data. IT PROTECTS THE USER MORE! It also lightens our load as we don't have to manage all the security on the authenciation process and user data. Whew!
+A good example of OAuth in use is logging back into Facebook. Every time we sign in, it first prompts us to confirm it is in fact us trying to login, before entering. Basically, it is asking if it can access data on OUR behalf. This is OAuth in action. It is beneficial because it separates authentication from authorization and gives us limited access to user data. IT PROTECTS THE USER MORE! It also lightens our load as we don't have to manage all the security on the authenciation process and user data. Whew!
 
