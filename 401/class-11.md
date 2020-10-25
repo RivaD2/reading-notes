@@ -60,9 +60,10 @@ ______________________________________
 
 - **Explain how the Singleton pattern can be used with Node modules, specifically with classes:**
 
-For example, let's say we have a class called `collections` that is huge and does a lot of things. With a singleton, when middleware runs, instead of importing the class and creating an instance of it with the `new` keyword, it only imports an instance of the class that has already been created.
+**For example, let's say we have a class called `collections` that is huge and does a lot of things. With a singleton, when middleware runs, instead of importing the class and creating an instance of it with the `new` keyword, it only imports an instance of the class that has already been created.**
 
-** WHY IS THIS A BIG DEAL?**
+**WHY IS THIS A BIG DEAL?**
+
 - The singleton pattern saves computing time, which makes applications faster. It ensures consistency between classes as they automatically get all the same data using a singleton. THE INSTANCE OF THE CLASS PERSISTS using this pattern.
 
 - **If you were tasked with building a middleware system like Express uses, what approach might you take to construct/operate it?:** In my opinion as a front end focused dev, Express JS is a dream come true as I can use JS on the front end and back end. However, maybe there middleware system isn't best for computation-intensive tasks as it seems like it could really complicated.
