@@ -7,7 +7,7 @@
 - A client that wants to authenticate itself with the server can do so by including an [Authorization request header](https://www.loginradius.com/engineering/blog/everything-you-want-to-know-about-authorization-headers/) with the credentials.
 - Usually a client will present a password prompt to the user and will then issue the request including the correct Authorization header.
 
-** We've learned a bit about building RESTful APIs. Well API's use authorization to ensure that client requests access data securely. This can involve authenticating the sender of a request and verifying that they have permission to access or manipulate the relevant data.**
+**We've learned a bit about building RESTful APIs. Well API's use authorization to ensure that client requests access data securely. This can involve authenticating the sender of a request and verifying that they have permission to access or manipulate the relevant data.**
 
 ### WHAT ARE SOME EXAMPLES OF AUTHORIZATION REQUEST HEADERS:
 
@@ -20,8 +20,12 @@
 - **Digest Auth:** Digest Authentication communicates credentials in an encrypted form by applying a hash algorithm to the username and the password, the password is then converted to response and then it is sent to the server.
 
 - **Oauth 2.0:** OAuth 1.0 permits client applications to access data provided by a third-party API.
-- **Hawk Authentication:**Hawk authentication enables you to authorize requests using partial cryptographic verification.
-- **AWS Signature:**AWS is the authorization workflow for Amazon Web Services requests.
+
+- **Hawk Authentication:**
+Hawk authentication enables you to authorize requests using partial cryptographic verification.
+
+- **AWS Signature:**
+AWS is the authorization workflow for Amazon Web Services requests.
 
 ### PASSWORDS...EVERYONE'S GOTTA EM':
 
@@ -59,9 +63,9 @@ ______________________________________
 For example, let's say we have a class called `collections` that is huge and does a lot of things. With a singleton, when middleware runs, instead of importing the class and creating an instance of it with the `new` keyword, it only imports an instance of the class that has already been created.
 
 ** WHY IS THIS A BIG DEAL?**
-- The singleton pattern saves computing time, which makes applications faster. It ensures consistency between classes as they automically get all the same data using a singleton. THE INSTANCE OF THE CLASS PERSISTS using this pattern.
+- The singleton pattern saves computing time, which makes applications faster. It ensures consistency between classes as they automatically get all the same data using a singleton. THE INSTANCE OF THE CLASS PERSISTS using this pattern.
 
-- **If you were tasked with building a middleware system like Express uses, what approach might you take to construct/operate it?:** In my opinion as a front end focused dev, Express JS is a dream come true as I can use JS on the front end and back end. However, maybe there middleware system isnt' best for computation-intensive tasks as it seems like it could really complicated.
+- **If you were tasked with building a middleware system like Express uses, what approach might you take to construct/operate it?:** In my opinion as a front end focused dev, Express JS is a dream come true as I can use JS on the front end and back end. However, maybe there middleware system isn't best for computation-intensive tasks as it seems like it could really complicated.
 
 ---------------------------------------
 
