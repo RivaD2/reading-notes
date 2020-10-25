@@ -27,7 +27,7 @@ Hawk authentication enables you to authorize requests using partial cryptographi
 - **AWS Signature:**
 AWS is the authorization workflow for Amazon Web Services requests.
 
-### PASSWORDS...EVERYONE'S GOTTA EM':
+### PASSWORDS...EVERYONE'S GOT EM':
 
 **Everything we do over the internet requires a password. You wanna pay a bill, enter your password. Your rent? Enter a password? You wanna sign in to your Instagram account to see lovely pictures of food? Boom! Password needed! You get the idea right? LET's TALK ABOUT HASHING.**
 
