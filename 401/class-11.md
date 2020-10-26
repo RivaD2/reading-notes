@@ -29,7 +29,7 @@ AWS is the authorization workflow for Amazon Web Services requests.
 
 ### PASSWORDS...EVERYONE'S GOT EM':
 
-**Everything we do over the internet requires a password. You wanna pay a bill, enter your password. Your rent? Enter a password? You wanna sign in to your Instagram account to see lovely pictures of food? Boom! Password needed! You get the idea right? LET's TALK ABOUT HASHING.**
+**Everything we do over the internet requires a password. You wanna pay a bill, enter your password. Your rent? Enter a password. You wanna sign in to your Instagram account to see lovely pictures of food? Boom! Password needed! You get the idea right? LET's TALK ABOUT HASHING.**
 
 - **Hashing:** Hashing is the greatest way for protecting passwords and considered to be pretty safe for ensuring the integrity of data or password.
 - Hashing in simple terms is taking meaningful value and turning into something meaningless. Ok, let's say it this way. Let's say someone steals the database with hashed passwords. If this happens, they only make off with the hashes and not actual passwords. It will be a heck of a lot harder to crack those codes if they are hashed.
