@@ -66,7 +66,7 @@ ______________________________________
 
 - The singleton pattern saves computing time, which makes applications faster. It ensures consistency between classes as they automatically get all the same data using a singleton. THE INSTANCE OF THE CLASS PERSISTS using this pattern.
 
-- **If you were tasked with building a middleware system like Express uses, what approach might you take to construct/operate it?:** In my opinion as a front end focused dev, Express JS is a dream come true as I can use JS on the front end and back end. However, maybe there middleware system isn't best for computation-intensive tasks as it seems like it could really complicated.
+- **If you were tasked with building a middleware system like Express uses, what approach might you take to construct/operate it?:** In my opinion as a front end focused dev, Express JS is a dream come true as I can use JS on the front end and back end. However, maybe the middleware system of Express isn't best for computation-intensive tasks as it seems like it could really complicated.
 
 ---------------------------------------
 
