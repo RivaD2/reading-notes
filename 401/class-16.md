@@ -9,7 +9,7 @@ ACCESS CONTROL asks, **"ARE YOU WHO YOU SAY YOU ARE? AND SHOULD YOU HAVE ACCESS 
 
 
 
-### Questions related to accesss control:
+### Questions related to access control:
 
 1. **Why is access control important?**
    
@@ -17,7 +17,7 @@ ACCESS CONTROL asks, **"ARE YOU WHO YOU SAY YOU ARE? AND SHOULD YOU HAVE ACCESS 
   
 2. **Describe an application that would need access control.**
 
-- There are so many examples where apps would need access control. A user logging into a banking website, any mobile application, basically any app that has login capabilites or that stores user information. A basic website wouldn't really need it but every other app out there that asks users to login.
+- There are so many examples where apps would need access control. A user logging into a banking website, any mobile application, basically any app that has login capabilities or that stores user information. A basic website wouldn't really need it but every other app out there that asks users to login.
   
 3. **What is a role used for?**
 
@@ -28,7 +28,7 @@ ACCESS CONTROL asks, **"ARE YOU WHO YOU SAY YOU ARE? AND SHOULD YOU HAVE ACCESS 
 - With role based access control, you can create rules and change permissions easier as you can update them all at once. With the other forms of access control, you would have to go in individually to update each users permissions.
 
 
-### New Vabulary to Learn:
+### New Vocabulary to Learn:
 
 - **Authorization:** In simple terms, authorization is the process of verifying what a user has access to.
   
