@@ -14,10 +14,10 @@
    
 - Events can be better in some cases because they take up less memory and are cleaner than many nested callbacks. You don't have to really keep track of them so every event `event` is idempotent. When one action triggers another action, events ensure that the second action will always take place. Asynchronously, I would have to program that second event in the callback of the first every single time!
    
-3. What does an EventEmitter instance do?
+3. **What does an EventEmitter instance do?**
    
-- *Medium.com* provides a perfect explanation,
-- >"Your event emitter sends out a certain event to any method that is waiting to react to it. Just like in a radio stations broadcast, nobody has to be listening in order to actually broadcast the event, but if there are no listeners then nothing happens.
+- *Medium.com* provides a perfect explanation:
+  >"Your event emitter sends out a certain event to any method that is waiting to react to it. Just like in a radio stations broadcast, nobody has to be listening in order to actually broadcast the event, but if there are no listeners then nothing happens.
 - Using the EventEmitter class involves signaling that event has happened by passing an arg which is the name of event
         - typically with an event, we want to send some sort of data
         - To send multiple values in an event, encapuslate those values in an obj.
@@ -26,7 +26,7 @@
         - Because we will also use the keyword 'extends'  with the Event Emitter class, we can use the keyword 'this'
         - In this class, we can directly emit or raise events
    
-4. **When is a program’s call stack, event queue, and event loop active?**
+1. **When is a program’s call stack, event queue, and event loop active?**
    
 - When there is stuff to do! Or, a better way to say this is if there asynchronous code to be executed, the code gets moved into the event queue, the code then waits for execution,then the event loop checks if it has anything to execute. If it doesn't, then it checks the Callback queue and if Callback queue has code to execute then it pops the code from it to the Main Stack for execution.
 
