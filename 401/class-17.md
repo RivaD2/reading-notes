@@ -20,7 +20,7 @@
   >"Your event emitter sends out a certain event to any method that is waiting to react to it. Just like in a radio stations broadcast, nobody has to be listening in order to actually broadcast the event, but if there are no listeners then nothing happens.
 - Using the EventEmitter class involves signaling that event has happened by passing an arg which is the name of event
         - typically with an event, we want to send some sort of data
-        - To send multiple values in an event, encapuslate those values in an obj.
+        - To send multiple values in an event, encapsulate those values in an obj.
         - In the event listener, the function would receive the arg used in event
         - Typically the arg is called arg, or eventArg
         - Because we will also use the keyword 'extends'  with the Event Emitter class, we can use the keyword 'this'
@@ -28,7 +28,7 @@
    
 1. **When is a program’s call stack, event queue, and event loop active?**
    
-- When there is stuff to do! Or, a better way to say this is if there asynchronous code to be executed, the code gets moved into the event queue, the code then waits for execution,then the event loop checks if it has anything to execute. If it doesn't, then it checks the Callback queue and if Callback queue has code to execute then it pops the code from it to the Main Stack for execution.
+- When there is stuff to do! Or, a better way to say this is if there is asynchronous code to be executed, the code gets moved into the event queue, the code then waits for execution,then the event loop checks if it has anything to execute. If it doesn't, then it checks the Callback queue and if Callback queue has code to execute then it pops the code from it to the Main Stack for execution.
 
 ### New Vocabulary to Learn:
 
@@ -37,7 +37,7 @@
 
 The pattern is most useful in situations when you need multiple objects to get notified simultaneously at the same time of recent changes to state."
 
-- **Listener:** This is usually a  JavaScript function which respond to the event that is occuring.
+- **Listener:** This is usually a  JavaScript function which respond to the event that is occurring.
 - **Event Handler:** A block of code (usually a JavaScript function) that runs when the event fires. [MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events#:~:text=Each%20available%20event%20has%20an,are%20registering%20an%20event%20handler) says, "When such a block of code is defined to run in response to an event, we say we are registering an event handler"
   
 - **Event Driven Programming:** Is basically utilizing various types of event listeners to carry out actions in code rather than relying on an explicit chain of instructions. Event Driven Programming says that each even listener can be self contained which means a programmer no longer has to track every single behavior of every listener and doesn't need to know HOW they are implemented. They just know that the event will be implemented! Game changer!
@@ -47,7 +47,7 @@ The pattern is most useful in situations when you need multiple objects to get n
 - **Event Queue:** This queue holds all the events that have been heard and holds them until the event loop checks it.
 - **Call Stack:** In simple terms, it is a list function executions. It is primarily used for function invocation (call) and is considered to be synchronous. 
   
-- **Emit/Raise/Trigger:** Well, thse relate to using `EventEmitter`. For example, the `eventEmitter.emit()` method is used to trigger the event.
+- **Emit/Raise/Trigger:** Well, these relate to using `EventEmitter`. For example, the `eventEmitter.emit()` method is used to trigger the event.
 
 - **Subscribe:** This is a method relating to observables. This method appears to insert callbacks.
 
