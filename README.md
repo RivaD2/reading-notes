@@ -85,7 +85,7 @@
 * [Read 14: Authorization Continued](401/class-14.md)
 * [Read 15: Trees](401/class-15.md)
 * [Read 16: Access Control Review](401/class-16.md)
-* [](401/class-17.md)
+* [Read 17: Event Driven Applications](401/class-17.md)
 * [](401/class-18.md)
 * [](401/class-19.md)
 * [](401/class-20.md)
