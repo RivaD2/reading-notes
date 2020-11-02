@@ -6,8 +6,8 @@
 Network efficency! According to [computer.howstuffworks.com](https://computer.howstuffworks.com/question525.htm):
 >"First, the network can balance the load across various pieces of equipment on a millisecond-by-millisecond basis. Second, if there is a problem with one piece of equipment in the network while a message is being transferred, packets can be routed around the problem, ensuring the delivery of the entire message."
    
-2. **UDP is often refereed to as a connectionless protocol. Why is this?**
-It is considerd to be connectionless as it allows data to be exchanged without setting up a link between processes. Each unit of data, with all the necessary information to route it to the intended destination, is transferred independent of other data packets and can travel over different paths to reach the final destination.
+2. **UDP is often referred to as a connectionless protocol. Why is this?**
+It is considered to be connectionless as it allows data to be exchanged without setting up a link between processes. Each unit of data, with all the necessary information to route it to the intended destination, is transferred independent of other data packets and can travel over different paths to reach the final destination.
 
 3. **Can a socket server application have multiple socket connections?**
 Yes, [apachebooster.com](https://apachebooster.com/blog/how-does-one-server-handle-multiple-connections-at-a-time/) says:
