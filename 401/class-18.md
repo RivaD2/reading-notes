@@ -45,7 +45,7 @@ Apparently it can! In Java anyway, there can be an input stream and output strea
 
 - **Packets:** A block of data transmitted across a network.
 
-- **Socket:**A socket is one endpoint of a two-way communication link between two programs running on the network. A socket is bound to a port number so that the TCP layer can identify the application that data is destined to be sent to.
+- **Socket:** A socket is one endpoint of a two-way communication link between two programs running on the network. A socket is bound to a port number so that the TCP layer can identify the application that data is destined to be sent to.
 
 --------------------
 **RESOURCES:**
