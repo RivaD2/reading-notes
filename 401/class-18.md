@@ -40,9 +40,9 @@ Apparently it can! In Java anyway, there can be an input stream and output strea
 - Network Access/Link Layer
 
 - **TCP:** Transmission Control Protocol is a connection-oriented protocol. Connection-orientation means that the communicating devices should establish a connection before transmitting data and should close the connection after transmitting the data. **It is reliable and provides extensive error checking mechanisms.** It is because it provides flow control and acknowledgment of data.
-- 
+  
 - **UDP:** User Datagram Protocol is less reliable than TCP as it **does not guarantee data can be delivered to its destination.** This is because there is no overhead for opening a connection, maintaining a connection, and terminating a connection. UDP is however, efficient for broadcast and multicast type of network transmission AND is **UDP is faster, simpler and more efficient than TCP**
-- 
+
 - **Packets:** A block of data transmitted across a network.
 
 - **Socket:**A socket is one endpoint of a two-way communication link between two programs running on the network. A socket is bound to a port number so that the TCP layer can identify the application that data is destined to be sent to.
