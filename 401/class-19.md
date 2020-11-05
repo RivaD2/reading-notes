@@ -63,3 +63,8 @@ Maybe we can consider the client disconnected after an error event or we could u
   Socket.IO is a combination of the client-side JavaScript library and Node.js library used to integrate bidirectional communication between a browser and Node.js backend. The Socket.IO client-side library is used to create a Socket.IO client whereas the Socket.IO Node.js library is used to create a Socket.IO server. The Socker.IO client and server can communicate with each other bidirectionally. Socket.IO primarily uses WebSocket to achieve bidirectional communication.
 - Client: When using websockets,  the client connects to a the server port; client obtains a socket.
 - Server: When we are speaking about websockets,  the server listens on a fixed port, with a given socket. Server accepts the connection, and accept/ returns a new socket for the connection.
+  
+**Resources:**
+- [blog.logrocket.com](https://blog.logrocket.com/beyond-rest-using-websockets-for-two-way-communication-in-your-react-app-884eff6655f5/)
+- [blockchain.dcwebmakers.com](https://blockchain.dcwebmakers.com/blog/intro-to-real-time-bidirectional-communications-between-browsers-and-websocket-servers.html#:~:text=WebSocket%20is%20an%20application%2Dlayer,between%20a%20web%20browser%20and)
+- [medium.com](https://medium.com/@Grigorkh/understanding-socket-io-23ad6d26d003)
