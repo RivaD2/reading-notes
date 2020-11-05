@@ -87,7 +87,7 @@
 * [Read 16: Access Control Review](401/class-16.md)
 * [Read 17: Event Driven Applications](401/class-17.md)
 * [Read 18: Websockets](401/class-18.md)
-* [](401/class-19.md)
+* [Read 19: Clients and Severs with socket.io ](401/class-19.md)
 * [](401/class-20.md)
 * [](401/class-21.md)
 * [](401/class-22.md)
