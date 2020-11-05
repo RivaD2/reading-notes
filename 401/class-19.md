@@ -6,14 +6,14 @@
 
 ### Let's answer some questions:
 
-1. **What does it mean that web sockets are bidirectional? Why is this useful?**
+1. **What does it mean that WebSockets are bidirectional? Why is this useful?**
 
 Bidirectional just means either the client or server can send a message to the other party whenever a message is available. It is useful because data flows in both directions, so a socket can SEND and RECEIVE data. With this two way communication, we can think of a chat app.
 
 
 1. **Does socket.io use HTTP? Why?**
    
-Yes, it does. Even when websockets can be used, the initial connection setup is done over HTTP. A socket.io server will attach to an HTTP server so it can serve its own client code through /socket.io/socket.io.js.
+Yes, it does. Even when WebSockets can be used, the initial connection setup is done over HTTP. A socket.io server will attach to an HTTP server so it can serve its own client code through /socket.io/socket.io.js.
 
 So, on the server-side, Socket.IO works by adding event listeners to an instance of http.Server. This allows us to attach a Socket.IO server to other HTTP frameworks like Express.
 
@@ -60,11 +60,11 @@ Maybe we can consider the client disconnected after an error event or we could u
 - **Web Socket:**
    WebSockets are a connection-based communication protocol. Unlike TCP, WebSockets work in the browser. WebSockets are message-based so we can send a message and the other side receives a message. WebSockets are implemented on top of TCP. 
 - **Socket.io:** 
-  Socket.IO is a combination of the client-side JavaScript library and Node.js library used to integrate bidirectional communication between a browser and Node.js backend. The Socket.IO client-side library is used to create a Socket.IO client whereas the Socket.IO Node.js library is used to create a Socket.IO server. The Socker.IO client and server can communicate with each other bidirectionally. Socket.IO primarily uses WebSocket to achieve bidirectional communication.
-- Client: When using websockets,  the client connects to a the server port; client obtains a socket.
-- Server: When we are speaking about websockets,  the server listens on a fixed port, with a given socket. Server accepts the connection, and accept/ returns a new socket for the connection.
+  Socket.IO is a combination of the client-side JavaScript library and Node.js library used to integrate bidirectional communication between a browser and Node.js backend. The Socket.IO client-side library is used to create a Socket.IO client whereas the Socket.IO Node.js library is used to create a Socket.IO server. The Socket.IO client and server can communicate with each other bidirectionally. Socket.IO primarily uses WebSocket to achieve bidirectional communication.
+- Client: When using WebSockets,  the client connects to a the server port; client obtains a socket.
+- Server: When we are speaking about WebSockets,  the server listens on a fixed port, with a given socket. Server accepts the connection, and accept/ returns a new socket for the connection.
   
 **Resources:**
 - [blog.logrocket.com](https://blog.logrocket.com/beyond-rest-using-websockets-for-two-way-communication-in-your-react-app-884eff6655f5/)
 - [blockchain.dcwebmakers.com](https://blockchain.dcwebmakers.com/blog/intro-to-real-time-bidirectional-communications-between-browsers-and-websocket-servers.html#:~:text=WebSocket%20is%20an%20application%2Dlayer,between%20a%20web%20browser%20and)
-- [medium.com](https://medium.com/@Grigorkh/understanding-socket-io-23ad6d26d003)
+- [medium.com]()
