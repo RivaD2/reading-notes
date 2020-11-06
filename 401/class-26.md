@@ -6,7 +6,7 @@
 
 ## If we start to think about every UI elements and their state, we can start to understand components
 
-### WHY USE COMPONENTS?
+**WHY USE COMPONENTS?**
 
 I think that *itnext.io* says it best:
 >Modern web technologies like components allow organizations to speed up and scale the development of web applications, create simple and decoupled codebases for autonomous teams, allow smooth integrations, increase the number and page of independent team releases, and allow more code reuse.
@@ -27,11 +27,11 @@ As [medium.com](https://medium.com/@dan.shapiro1210/understanding-component-base
 **What are some keywords associated with Component based UI?**
 
 - Well **rendering**, **props** and **state** are all important words to know. Each component is combo of JS and HTML and there are two things that components have that make them React components:
-        - **props: is how a parent communicates to child. They are read only from childs perspective. It is also a React word for data that is passed into a Component
-        - **state: how a component manages itself so it can read, write, edit its own state and no other
-                components know about its state**
-- Each componenet is self-contained and props are how they can be connected
-- **Rendering** according to[blog.isquaredsoftware.com](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/) describes rendering as, ..." the process of React asking your components to describe what they want their section of the UI to look like, now, based on the current combination of props and state."
+  
+    - **props: is how a parent communicates to child. They are read only from childs perspective. It is also a React word for data that is passed into a Component
+    - **state: how a component manages itself so it can read, write, edit its own state and no other components know about its state**
+- Each component is self-contained and props are how they can be connected
+- **Rendering** according to [blog.isquaredsoftware.com](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/) describes rendering as, ..." the process of React asking your components to describe what they want their section of the UI to look like, now, based on the current combination of props and state."
   
  **As I mentioned above, there are Class Components and Functional Components. So, for each flagged component, React will call either `classComponentInstance.render()` (for class components) or `FunctionComponent()` (for function components), and save the render output.**
 
@@ -40,7 +40,9 @@ As [medium.com](https://medium.com/@dan.shapiro1210/understanding-component-base
     - The "Render phase" contains all the work of rendering components and calculating changes
     - The "Commit phase" is the process of applying those changes to the DOM
 - After React has updated the DOM in the commit phase, it then synchronously runs the `componentDidMount` and `componentDidUpdate` class lifecycle methods, and the `useLayoutEffect` hooks.
-  **Let's take a look at using a component and using `componentDidMount()`
+
+
+  **Let's take a look at using a component and using `componentDidMount()`:**
 
 ```
 class App extends React.Component {
@@ -61,7 +63,7 @@ class App extends React.Component {
 ```
 Well, we've just scratched the surface of component based UI in React. Let's talk about some other frameworks besides React and the difference between a **framework and a library, as these two terms get intermingled quite often:**
 
-- Acccording to *freecodecamp.org*, both frameworks and libraries are code written by someone else that is used to help solve common problems.
+- According to *freecodecamp.org*, both frameworks and libraries are code written by someone else that is used to help solve common problems.
 - A framework inverts the control of the program. It tells the developer what they need. A library doesn’t. The programmer calls the library where and when they need it.
 - The technical difference between a framework and library lies in a term called [inversion of control](https://www.tutorialsteacher.com/ioc/inversion-of-control).
 - WE are in charge of the flow of the app when we use a library and choose where to call the library. With a framework, the framework is in charge of the flow. It provides some places for you to plug in code, but it calls the code you plugged in as needed.
