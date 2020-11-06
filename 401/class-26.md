@@ -4,7 +4,7 @@
 
 **Let's begin by speaking about what it means to shift away from page-based to component-based design. As we know a website is a collection of pages and really, you've seen components already before. A login page vs a cart page etc.**
 
-##If we start to think about every UI elements and their state, we can start to understand components
+## If we start to think about every UI elements and their state, we can start to understand components
 
 ### WHY USE COMPONENTS?
 
@@ -68,4 +68,4 @@ Well, we've just scratched the surface of component based UI in React. Let's tal
   
 **Other Frameworks besides React:**
 - Angular, Ember, Backbone,Preact, Vue could be one as it blends other technologies to become a framework. Another framework is Express, it is the web application server framework for Node.js. JQuery could be called a framework and is one of the oldest ones still around.However there is some confusion still out there as to where it falls in the mix. 
-- 
+  
