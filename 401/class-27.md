@@ -23,13 +23,13 @@ Unit testing tests units of code in isolation from the rest of the application a
     - That creates a boilerplate for our app and then `npm run build` builds our application for production to the build directory. [pluralsight.com](https://www.pluralsight.com/guides/npm-start-for-react-tutorial-project) says, "The "build" folder would contain all the static files which can be directly used on any web server. Also, the build command transpiles our source code into code which the browser can understand."
   
 4. **Describe the actual composition / architecture of a React application**
-Well I already mentioned that React is component based so it is super important that we write components that work well together. With this in mind, we can focus on buiding our file structure out by grouping by features or routes, OR we can do it by focusing on file type. We can also go a bit further by separating out components into different folders. I think it is important as well to consider the nesting aspect of a React app. How deep do we really need to go. I would say that composition is best kept simple.
+Well I already mentioned that React is component based so it is super important that we write components that work well together. With this in mind, we can focus on building our file structure out by grouping by features or routes, OR we can do it by focusing on file type. We can also go a bit further by separating out components into different folders. I think it is important as well to consider the nesting aspect of a React app. How deep do we really need to go. I would say that composition is best kept simple.
 
 
 **TIME TO LEARN NEW VOCABULARY**
 
 - **BDD:** 
-Stands for Behavor Driven Development and it is a process involves the definition of entities, events, and outputs that the users care about, and giving them names that everybody can agree on. It is a branch of TDD.
+Stands for Behavior Driven Development and it is a process involves the definition of entities, events, and outputs that the users care about, and giving them names that everybody can agree on. It is a branch of TDD.
 
 - **Acceptance Tests:** 
 Also called functional testing, tests outcome, not logic. Acceptance testing provides an additional level of protection against bugs.
