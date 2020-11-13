@@ -90,7 +90,7 @@
 * [Read 19: Clients and Severs with socket.io ](401/class-19.md)
 * [Read 26: Component Based UI](401/class-26.md)
 * [Read 27: Props and State](401/class-27.md)
-* [](401/class-28.md)
+* [Read 28: Component Composition](401/class-28.md)
 * [](401/class-29.md)
 * [](401/class-30.md)
 * [](401/class-31.md)
