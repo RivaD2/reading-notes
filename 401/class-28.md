@@ -15,7 +15,8 @@ Through state and props. Really, it mostly state it seems as state is how we can
 
 
 
-New Vocabulary to Learn:****
+**New Vocabulary to Learn:**
+
 - **Component props:** Props are used to pass information to components. Props make it possible to share the same data across the components and props data can come in different forms: numbers, strings, arrays, functions, objects, etc. AND we can pass props to any component
 - **component state:** The state object is where we can store property values that belong to a component. When the state object changes, the component re-renders.
-- **application state:** To make our UI interactive, we trigger changes to the underlying data model by using state.The State of a component is an object that holds some information that may change over the lifetime of the component(unlike props which are immutable, therfore are unable to change after they have been set)
+- **application state:** To make our UI interactive, we trigger changes to the underlying data model by using state.The State of a component is an object that holds some information that may change over the lifetime of the component(unlike props which are immutable, therefore are unable to change after they have been set)
