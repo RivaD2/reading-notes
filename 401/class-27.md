@@ -2,8 +2,8 @@
 
 ![awesome](https://media.giphy.com/media/MCKQEmHkUyGf6/giphy.gif)
 
-### In the previous reading, I touched on React Components. If you remember, components are a feature that make up a piece of the user interface. They really describe any composable behavior, and this includes rendering, lifecycle, and state.According to [reactjs.org]:
-> "props (short for “properties”) and state are both plain JavaScript objects. While both hold information that influences the output of render, they are different in one important way: props get passed to the component (similar to function parameters) whereas state is managed within the component (similar to variables declared within a function). 
+### In the previous reading, I touched on React Components. If you remember, components are a feature that make up a piece of the user interface. They really describe any composable behavior, and this includes rendering, lifecycle, and state.According to [reactjs.org](https://reactjs.org/):
+> "props (short for “properties”) and state are both plain JavaScript objects. While both hold information that influences the output of render, they are different in one important way: props get passed to the component (similar to function parameters) whereas state is managed within the component (similar to variables declared within a function)."
 
 
 #### Read more about [component based UI](https://rivad2.github.io/reading-notes/401/class-26.html)
