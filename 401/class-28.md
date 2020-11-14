@@ -11,7 +11,7 @@ Indeed it can. [linguinecode.com](https://linguinecode.com/post/get-child-compon
 Props are received in the function signature as arguments in a functional stateless component. According to [medium.com](https://medium.com/@cristi.nord/props-and-how-to-pass-props-to-components-in-react-part-1-b4c257381654#:~:text=The%20term%20%E2%80%9Crender%20prop%E2%80%9D%20refers,implementing%20its%20own%20render%20logic.), "props enable you to pass variables from one to another component down the component tree. But props can be anything from integers over objects to arrays. Even React components..." There are also inline props in which we can pass other data structures.
 
 1. **How can a child component “know” the state of another component?**
-Through state and props. Really, it mostly state it seems as state is how we can communicate with the other components. There are many different methods to manage a state too. The parent component has to do its job of passing data to the child via props and the child has to do its work by using `this.props`. The child can then use those props, for example a function, by calling the function and passes the parent a value that it is supposed to react to.
+Through props. If another component has state, that state needs to be passed through props. The parent component has to do its job of passing data to the child via props and the child has to do its work by using `this.props`. The child can then use those props, for example a function, by calling the function, passing the parent a value that it is supposed to react to.
 
 
 
