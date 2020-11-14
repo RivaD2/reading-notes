@@ -2,9 +2,8 @@
 
 ------------------------
 
-**Welcome to my reading notes page! This page holds the table of contents for all notes for readings done during my time at CodeFellows. These notes start from the basics like learning Git, HTML, CSS and JS and move on to cover more advanced programming concepts.**
+**Welcome to my reading notes page! These notes start from the basics like learning Git, HTML, CSS and JS and move on to cover more advanced programming concepts.**
 
-**See what I've learned along this journey below.** 
 *Credit to Jon Duckett's Web Design with HTML, CSS and JavaScript* 
 
 [My profile!](https://rivad2.github.io/reading-notes/)
@@ -12,7 +11,7 @@
 -----------------
 ## TABLE OF CONTENTS
 
-## Code Fellows 102 Intro to Software Development:
+## Intro to Software Development:
 
 * [Growth Mindset](growthmindset.md)
 * [Read 2: The Coders Computer](coder-computers.md)
@@ -26,7 +25,7 @@
 
 ----------------------------
 
-## Code Fellows 201 Foundations of Software Development:
+## Foundations of Software Development:
 
 * [Read 01: Introductory HTML & JavaScript](201/class-01.md)
 * [Read 02: HTML text, CSS Introduction and Basic JavaScript](201/class-02.md)
@@ -46,7 +45,7 @@
 
 --------------
 
-## Code Fellows 301 Intermediate Software Development:
+## Intermediate Software Development:
 
 * [Read 01: SMACSS and Responsive Web Design](301/class-01.md)
 * [Read 02: jQuery, Events, and The DOM](301/class-02.md)
@@ -67,7 +66,7 @@
 
 ----------------------------
 
-## Code Fellows 401 Advanced Software Development:
+## Advanced Software Development:
 
 * [Read 01: Map(), reduce(), superagent and Asynchronous JS](401/class-01.md)
 * [Read 02: Classes, Inheritance and Functional Programming ](401/class-02.md)
