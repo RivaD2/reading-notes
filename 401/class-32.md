@@ -68,5 +68,7 @@ The `useState` is a Hook that lets us add React state to function components.
 
 The Effect Hook lets us perform side effects in function components. Effect is fo side effects and some of these include:Data fetching, setting up a subscription, and manually changing the DOM in React components. The `useEffect` hook is like using `componentDidMount, componentDidUpdate, and componentWillUnmount` combined.
 
-**reducer hook:** This hook allows functional components in React access to reducer functions from state management.[robinwieruch.de](robinwieruch.de/javascript-reducer) says, "In essence, a reducer is a function which takes two arguments -- the current state and an action -- and returns based on both arguments a new state."
+**reducer hook:** 
+
+This hook allows functional components in React access to reducer functions from state management.[robinwieruch.de](robinwieruch.de/javascript-reducer) says, "In essence, a reducer is a function which takes two arguments -- the current state and an action -- and returns based on both arguments a new state."
 
