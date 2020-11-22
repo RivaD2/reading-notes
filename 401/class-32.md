@@ -17,9 +17,11 @@ It refers to the three phases in which we can manipulate and monitor a component
 **Why are functional components preferred over class components?**
 According to [medium.com](https://medium.com/wesionary-team/react-functional-components-vs-class-components-86a2d2821a22), we should use functional components over class components because:
 
-"1.Functional component are much easier to read and test because they are plain JavaScript functions without state or lifecycle-hooks
-2.They has less code which makes it more readable
-3.They will get easier to separate container and presentational components because you need to think more about your component’s state if you don’t have access to setState() in your component"
+1. Functional component are much easier to read and test because they are plain JavaScript functions without state or lifecycle-hooks
+
+2. They has less code which makes it more readable
+
+3. They will get easier to separate container and presentational components because you need to think more about your component’s state if you don’t have access to setState() in your component"
 
 *Medium.com* also says,*
 
