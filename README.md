@@ -93,7 +93,7 @@
 * [Read 29: Routing](401/class-29.md)
 * [Read 30: What is a Hash Table?](401/class-30.md)
 * [Read 31: Hooks and Browser Router](401/class-31.md)
-* [](401/class-32.md)
+* [Read 32: Custom Hooks](401/class-32.md)
 * [](401/class-33.md)
 * [](401/class-34.md)
 * [](401/class-35.md)
