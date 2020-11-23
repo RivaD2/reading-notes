@@ -94,7 +94,7 @@
 * [Read 30: What is a Hash Table?](401/class-30.md)
 * [Read 31: Hooks and Browser Router](401/class-31.md)
 * [Read 32: Custom Hooks](401/class-32.md)
-* [](401/class-33.md)
+* [Read 33: Context Api and More on Hooks](401/class-33.md)
 * [](401/class-34.md)
 * [](401/class-35.md)
 * [](401/class-36.md)
