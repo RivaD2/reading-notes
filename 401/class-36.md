@@ -10,7 +10,7 @@ So, this means that if you are using httpOnly and secure cookies, the cookies ca
 [meduium.com](https://supertokens.io/blog/cookies-vs-localstorage-for-sessions-everything-you-need-to-know) says that cookies are automatically saved, sent and removed by the browser which means that the frontend dev doesn't have to worry about implementation and this also mitigates any risks.
 
    
-1. **Explain 3rd party cookies**
+2. **Explain 3rd party cookies**
 
 Third-party cookies are cookies that are set by a website other than the one you are currently on. Third party cookies are tracked by other websites other than the one we are currently using and they are most utilized by advertisers, social media platforms and marketers.
 
@@ -18,7 +18,7 @@ It seems like third party cookies are EVERYWHERE! I looked at some products from
 
 If you're like me and so many others out there, you probably have multiple tabs open at any given time. What I didn't realize is that a browser window with multiple tabs open counts a *single session*.  As I move across tabs, I am  relaying information about my visit history to other websites and parties. Basically I am leaving a trail of breadcrumbs of my past explorations and interests.
    
-1. **How do pixel tags work?**
+3. **How do pixel tags work?**
    
 [taginspector.com](https://taginspector.com/articles/marketing-tags-and-pixels-form-and-function/) says, "A tag (or often called pixel) is a short snippet of Javascript (code) that does something on your website. In the context of marketing/advertising tags and pixels, they are often collecting some information about the visitor to a website and their behavior on the site. This is then sent back to the respective marketing/advertising platform to be processed and reported." Read on to find out **HOW** they work:
 
