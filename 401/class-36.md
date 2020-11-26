@@ -4,7 +4,7 @@
 
 1. **What are the advantages of storing tokens in “Cookies” vs “Local Storage”?**
 
-[codeburst.io](https://codeburst.io/localstorage-vs-cookies-all-you-need-to-know-about-storing-jwt-tokens-securely-in-the-front-end-70dc0a9b3ad3) says, "The cookie is not accessible via JavaScript; hence, it is not as vulnerable to XSS attacks aslocalStorage..."
+[codeburst.io](https://codeburst.io/localstorage-vs-cookies-all-you-need-to-know-about-storing-jwt-tokens-securely-in-the-front-end-70dc0a9b3ad3) says, "The cookie is not accessible via JavaScript; hence, it is not as vulnerable to XSS attacks as localStorage..."
 So, this means that if you are using httpOnly and secure cookies, the cookies cannot be accessed using JavaScript. This means that even if an attacker uses JS on your site, they can't read an access token from the cookie.
 
 [meduium.com](https://supertokens.io/blog/cookies-vs-localstorage-for-sessions-everything-you-need-to-know) says that cookies are automatically saved, sent and removed by the browser which means that the frontend dev doesn't have to worry about implementation and this also mitigates any risks.
