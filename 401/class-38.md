@@ -20,11 +20,11 @@ Instead, we should dispatch a single "event"-type action that results in all of 
   
 [redux.js.org](https://redux.js.org/tutorials/fundamentals/part-4-store) says a store, "brings together the state, actions, and reducers that make up your app. The store has several responsibilities:
 
-1.Holds the current application state inside
-2.Allows access to the current state via store.getState();
-3.Allows state to be updated via store.dispatch(action);
-4.Registers listener callbacks via store.subscribe(listener);
-5.Handles unregistering of listeners via the unsubscribe function returned by store.subscribe(listener)
+1. Holds the current application state inside
+2. Allows access to the current state via store.getState();
+3. Allows state to be updated via store.dispatch(action);
+4. Registers listener callbacks via store.subscribe(listener);
+5. Handles unregistering of listeners via the unsubscribe function returned by store.subscribe(listener)
 
 **There is only a single store in a Redux application**
 
