@@ -99,6 +99,6 @@
 * [](401/class-35.md)
 * [Read 36: Application State with Redux](401/class-36.md)
 * [Read 37: Redux - Combined Reducers](401/class-37.md)
-* [](401/class-38.md)
+* [Read 38: Redux - Asynchronous Actions](401/class-38.md)
 * [](401/class-39.md)
 * [](401/class-40.md)
