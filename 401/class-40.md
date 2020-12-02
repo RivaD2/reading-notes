@@ -12,7 +12,7 @@ A graph is a non-linear data structure that can be looked at as a collection of 
 
 **What types of Graphs are there?**
 
-There are **Undirected** graphs and *Directed** graphs:
+There are **Undirected** graphs and **Directed** graphs:
 
     - An Undirected Graph is a graph where each edge is undirected or bi-directional. It does not move in ANY direction
     - A directed Graph (A.K.A DiGraph) is one in which every edge is directed. Each edge in this graph has a direction. Each node is directed at another node with a specific requirement of what node should be referenced next.
